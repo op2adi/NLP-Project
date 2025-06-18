@@ -1,0 +1,4188 @@
+# sent_id = multibooked/corpora/eu/aretaetxea_1-3
+# text = Aukera ugari eskaintzen dituzte lauan paseatzeko eta mendira joateko , tartean Toloñora .
+1	Aukera	aukera	NOUN	_	_	3	obj	_	_	4:exp-Positive
+2	ugari	ugari	DET	_	_	1	det	_	_	4:exp-Positive
+3	eskaintzen	eskaini	VERB	_	_	0	root	_	_	4:exp-Positive
+4	dituzte	edun	AUX	_	_	3	aux	_	_	0:exp-Positive
+5	lauan	lau	NOUN	_	_	6	obl	_	_	_
+6	paseatzeko	paseatu	VERB	_	_	3	advcl	_	_	_
+7	eta	eta	CCONJ	_	_	9	cc	_	_	_
+8	mendira	mendi	NOUN	_	_	9	obl	_	_	_
+9	joateko	joan	VERB	_	_	6	conj	_	_	_
+10	,	,	PUNCT	_	_	11	punct	_	_	_
+11	tartean	tarte	NOUN	_	_	3	nmod	_	_	_
+12	Toloñora	Toloño	PROPN	_	_	3	nmod	_	_	_
+13	.	.	PUNCT	_	_	3	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/aretaetxea_1-4
+# text = Areta etxeko instalakuntzak oso egokiak dira baina batez ere Txarok eman zigun tratua , beroa eta gertukoa .
+1	Areta	Areta	PROPN	_	_	2	nmod	_	_	3:targ
+2	etxeko	etxe	NOUN	_	_	3	nmod	_	_	3:targ
+3	instalakuntzak	instalakuntza	NOUN	_	_	5	nsubj	_	_	5:targ
+4	oso	oso	ADV	_	_	5	advmod	_	_	5:exp-Positive
+5	egokiak	egoki	ADJ	_	_	0	root	_	_	0:exp-Positive
+6	dira	izan	AUX	_	_	5	cop	_	_	_
+7	baina	baina	CCONJ	_	_	11	cc	_	_	_
+8	batez	bat	NUM	_	_	11	obl	_	_	_
+9	ere	ere	CCONJ	_	_	8	fixed	_	_	_
+10	Txarok	Txaro	PROPN	_	_	11	nsubj	_	_	13:targ|13:targ
+11	eman	eman	VERB	_	_	6	conj	_	_	13:targ|13:targ
+12	zigun	edun	AUX	_	_	11	aux	_	_	13:targ|13:targ
+13	tratua	tratu	NOUN	_	_	11	obj	_	_	17:targ|15:targ
+14	,	,	PUNCT	_	_	15	punct	_	_	_
+15	beroa	bero	ADJ	_	_	13	conj	_	_	0:exp-Positive
+16	eta	eta	CCONJ	_	_	17	cc	_	_	_
+17	gertukoa	gertuko	ADJ	_	_	13	conj	_	_	0:exp-Positive
+18	.	.	PUNCT	_	_	5	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/aretaetxea_1-5
+# text = Gainera etxean egindako ardoa froga dezakezue , guri asko gustatu zaigu .
+1	Gainera	gainera	CCONJ	_	_	5	advmod	_	_	_
+2	etxean	etxe	NOUN	_	_	3	obl	_	_	4:targ|4:targ
+3	egindako	egin	VERB	_	_	4	advcl	_	_	4:targ|4:targ
+4	ardoa	ardo	NOUN	_	_	5	obj	_	_	6:targ|10:targ
+5	froga	froga	NOUN	_	_	0	root	_	_	6:exp-Positive
+6	dezakezue	ezan	AUX	_	_	5	aux	_	_	0:exp-Positive
+7	,	,	PUNCT	_	_	10	punct	_	_	_
+8	guri	gu	PRON	_	_	10	iobj	_	_	11:holder|11:holder
+9	asko	asko	ADV	_	_	10	advmod	_	_	10:exp-Positive
+10	gustatu	gustatu	VERB	_	_	5	conj	_	_	0:exp-Positive
+11	zaigu	izan	AUX	_	_	10	aux	_	_	6:holder|10:holder
+12	.	.	PUNCT	_	_	5	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/aretaetxea_1-6
+# text = Zer gehiago eska dezakegu ba
+1	Zer	zer	DET	_	_	3	obj	_	_	5:exp-Positive
+2	gehiago	gehiago	DET	_	_	1	det	_	_	5:exp-Positive
+3	eska	eskatu	VERB	_	_	0	root	_	_	5:exp-Positive
+4	dezakegu	ezan	AUX	_	_	3	aux	_	_	5:exp-Positive
+5	ba	None	CCONJ	_	_	3	advmod	_	_	0:exp-Positive
+
+# sent_id = multibooked/corpora/eu/chalets-etchemendigaraya-Anonimo_1-1
+# text = Atzeginak .
+1	Atzeginak	atzegin	NOUN	_	_	0	root	_	_	0:exp-Positive
+2	.	.	PUNCT	_	_	1	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/chalets-etchemendigaraya-Anonimo_1-2
+# text = Leku polita eta oso lasaia.Ardiak eta gazta zelan egiten den ikusteko aukera.Euskaldunak dira
+1	Leku	leku	NOUN	_	_	9	obj	_	_	5:targ
+2	polita	polit	ADJ	_	_	1	amod	_	_	_
+3	eta	eta	CCONJ	_	_	5	cc	_	_	_
+4	oso	oso	ADV	_	_	8	advmod	_	_	5:exp-Positive
+5	lasaia.Ardiak	lasaia.Ardi	NOUN	_	_	1	conj	_	_	0:exp-Positive
+6	eta	eta	CCONJ	_	_	7	cc	_	_	_
+7	gazta	gazta	NOUN	_	_	5	conj	_	_	_
+8	zelan	zelan	ADV	_	_	9	advmod	_	_	_
+9	egiten	egin	VERB	_	_	11	ccomp	_	_	_
+10	den	izan	AUX	_	_	9	aux	_	_	_
+11	ikusteko	ikusi	VERB	_	_	12	advcl	_	_	_
+12	aukera.Euskaldunak	aukera.Euskaldun	ADJ	_	_	0	root	_	_	13:exp-Positive
+13	dira	izan	AUX	_	_	12	cop	_	_	0:exp-Positive
+
+# sent_id = multibooked/corpora/eu/residence_paris_massy_1-1
+# text = Balkoian zigarrokinak daude , hautsontzia jarri behar .
+1	Balkoian	balkoi	NOUN	_	_	3	obl	_	_	_
+2	zigarrokinak	zigarrokin	NOUN	_	_	3	nsubj	_	_	_
+3	daude	egon	VERB	_	_	0	root	_	_	_
+4	,	,	PUNCT	_	_	7	punct	_	_	_
+5	hautsontzia	hautsontzi	NOUN	_	_	6	obj	_	_	7:targ
+6	jarri	jarri	VERB	_	_	7	xcomp	_	_	7:exp-Negative
+7	behar	behar	NOUN	_	_	3	conj	_	_	0:exp-Negative
+8	.	.	PUNCT	_	_	3	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/residence_paris_massy_1-2
+# text = Wiffia eskasa .
+1	Wiffia	Wiffia	NOUN	_	_	0	root	_	_	2:targ
+2	eskasa	eskas	ADJ	_	_	1	amod	_	_	0:exp-Negative
+3	.	.	PUNCT	_	_	1	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/residence_paris_massy_1-3
+# text = Igerilekuaren gunea , toailak bertan eta albornoza gelan .
+1	Igerilekuaren	igerileku	NOUN	_	_	2	nmod	_	_	_
+2	gunea	gune	NOUN	_	_	0	root	_	_	_
+3	,	,	PUNCT	_	_	2	punct	_	_	_
+4	toailak	toail	NOUN	_	_	2	appos	_	_	_
+5	bertan	bertan	ADV	_	_	4	nmod	_	_	_
+6	eta	eta	CCONJ	_	_	7	cc	_	_	_
+7	albornoza	albornoza	NOUN	_	_	5	conj	_	_	_
+8	gelan	gela	NOUN	_	_	2	obl	_	_	_
+9	.	.	PUNCT	_	_	2	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/residence_paris_massy_1-4
+# text = Oheak oso oso eroso eta goxoak .
+1	Oheak	ohe	NOUN	_	_	4	nsubj	_	_	6:targ|4:targ
+2	oso	oso	ADV	_	_	3	advmod	_	_	4:exp-Positive
+3	oso	oso	ADV	_	_	4	advmod	_	_	4:exp-Positive
+4	eroso	eroso	ADJ	_	_	0	root	_	_	0:exp-Positive
+5	eta	eta	CCONJ	_	_	6	cc	_	_	_
+6	goxoak	goxo	ADJ	_	_	4	conj	_	_	0:exp-Positive
+7	.	.	PUNCT	_	_	4	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/residence_paris_massy_1-5
+# text = Sukalde txikia oso ongi hornitua , ontzi garbigailu eta guzti .
+1	Sukalde	sukalde	NOUN	_	_	5	obj	_	_	2:targ|5:targ
+2	txikia	txiki	ADJ	_	_	1	amod	_	_	0:exp-Negative
+3	oso	oso	ADV	_	_	4	advmod	_	_	5:exp-Positive
+4	ongi	ongi	ADV	_	_	5	advmod	_	_	5:exp-Positive
+5	hornitua	hornitu	VERB	_	_	0	root	_	_	0:exp-Positive
+6	,	,	PUNCT	_	_	7	punct	_	_	_
+7	ontzi	ontzi	NOUN	_	_	5	obl	_	_	_
+8	garbigailu	garbigailu	ADJ	_	_	7	amod	_	_	_
+9	eta	eta	CCONJ	_	_	10	cc	_	_	_
+10	guzti	guzti	DET	_	_	8	conj	_	_	_
+11	.	.	PUNCT	_	_	5	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/entrefrutales_1-1
+# text = Oso ongi pasa genuen , Txaro eta Tomas oso ongi portatu ziren gurekin , gosariak oso gozoan zenden eta oso instalazio onak zituen etxea .
+1	Oso	oso	ADV	_	_	2	advmod	_	_	3:exp-Positive
+2	ongi	ongi	ADV	_	_	3	advmod	_	_	3:exp-Positive
+3	pasa	pasatu	VERB	_	_	0	root	_	_	0:exp-Positive
+4	genuen	edun	AUX	_	_	3	aux	_	_	3:holder
+5	,	,	PUNCT	_	_	11	punct	_	_	_
+6	Txaro	Txaro	PROPN	_	_	11	nsubj	_	_	11:targ
+7	eta	eta	CCONJ	_	_	8	cc	_	_	_
+8	Tomas	Tomas	PROPN	_	_	6	conj	_	_	11:targ
+9	oso	oso	ADV	_	_	10	advmod	_	_	11:exp-Positive|11:exp-Positive
+10	ongi	ongi	ADV	_	_	11	advmod	_	_	11:exp-Positive|11:exp-Positive
+11	portatu	portatu	VERB	_	_	3	conj	_	_	0:exp-Positive|0:exp-Positive
+12	ziren	izan	AUX	_	_	11	aux	_	_	_
+13	gurekin	gu	PRON	_	_	11	obl	_	_	11:holder|11:holder
+14	,	,	PUNCT	_	_	18	punct	_	_	_
+15	gosariak	gosari	NOUN	_	_	18	nsubj	_	_	17:targ
+16	oso	oso	ADV	_	_	17	advmod	_	_	17:exp-Positive
+17	gozoan	gozo	ADJ	_	_	18	obl	_	_	0:exp-Positive
+18	zenden	egon	VERB	_	_	11	advcl	_	_	_
+19	eta	eta	CCONJ	_	_	23	cc	_	_	_
+20	oso	oso	ADV	_	_	22	nmod	_	_	22:exp-Positive
+21	instalazio	instalazio	NOUN	_	_	23	obj	_	_	22:targ
+22	onak	on	ADJ	_	_	21	amod	_	_	0:exp-Positive
+23	zituen	ukan	VERB	_	_	3	conj	_	_	_
+24	etxea	etxe	NOUN	_	_	23	obj	_	_	_
+25	.	.	PUNCT	_	_	3	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/txopebenta_1-1
+# text = Kaixo Arantxa ! beandu baiño seguru , zein ondo pasa genuen txopebentan izan giñen 3 egunetan , nahiz eta eguraldiak asko ez lagundu oso ondo moldatu giñek inguruak ezagutzeko , noski Arantxaren gomendioak jarraituz .
+1	Kaixo	kaixo	INTJ	_	_	4	discourse	_	_	_
+2	Arantxa	Arantxa	PROPN	_	_	1	flat	_	_	_
+3	!	!	PUNCT	_	_	4	punct	_	_	_
+4	beandu	beandu	NOUN	_	_	10	advcl	_	_	_
+5	baiño	izan	AUX	_	_	4	cop	_	_	_
+6	seguru	seguru	ADV	_	_	4	mark	_	_	_
+7	,	,	PUNCT	_	_	4	punct	_	_	_
+8	zein	zein	CCONJ	_	_	10	cc	_	_	10:exp-Positive
+9	ondo	ondo	ADV	_	_	10	advmod	_	_	10:exp-Positive
+10	pasa	pasatu	VERB	_	_	12	acl	_	_	0:exp-Positive
+11	genuen	edun	AUX	_	_	10	aux	_	_	10:holder
+12	txopebentan	txopeb	NOUN	_	_	13	obl	_	_	10:targ
+13	izan	izan	VERB	_	_	0	root	_	_	_
+14	giñen	izan	AUX	_	_	13	aux	_	_	_
+15	3	3	NUM	_	_	16	nummod	_	_	_
+16	egunetan	egun	NOUN	_	_	13	obl	_	_	_
+17	,	,	PUNCT	_	_	26	punct	_	_	_
+18	nahiz	nahiz	CCONJ	_	_	26	cc	_	_	_
+19	eta	eta	CCONJ	_	_	18	fixed	_	_	_
+20	eguraldiak	eguraldi	NOUN	_	_	23	nsubj	_	_	_
+21	asko	asko	ADV	_	_	23	advmod	_	_	_
+22	ez	ez	PART	_	_	23	advmod	_	_	_
+23	lagundu	lagundu	VERB	_	_	26	advcl	_	_	_
+24	oso	oso	ADV	_	_	25	advmod	_	_	26:exp-Positive
+25	ondo	ondo	ADV	_	_	26	advmod	_	_	26:exp-Positive
+26	moldatu	moldatu	VERB	_	_	13	conj	_	_	0:exp-Positive
+27	giñek	izan	AUX	_	_	26	aux	_	_	26:holder
+28	inguruak	inguru	NOUN	_	_	29	obj	_	_	_
+29	ezagutzeko	ezagutu	VERB	_	_	26	advcl	_	_	_
+30	,	,	PUNCT	_	_	34	punct	_	_	_
+31	noski	noski	ADV	_	_	34	advmod	_	_	_
+32	Arantxaren	Arantxa	PROPN	_	_	33	nmod	_	_	_
+33	gomendioak	gomendio	NOUN	_	_	34	obj	_	_	_
+34	jarraituz	jarraitu	VERB	_	_	26	advcl	_	_	_
+35	.	.	PUNCT	_	_	13	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/txopebenta_1-2
+# text = Gela oso polita , eta gosaria .... ai zenbat gogoratu giñen zure gosaritaz New York-en ibili giñen egunetan , igualeko ibiliko giñateke , zure gosari horietako bat jan ondoren !! Muxu haundi bat lazkautik
+1	Gela	gela	NOUN	_	_	3	nsubj	_	_	3:targ
+2	oso	oso	ADV	_	_	3	advmod	_	_	3:exp-Positive
+3	polita	polit	ADJ	_	_	10	xcomp	_	_	0:exp-Positive
+4	,	,	PUNCT	_	_	6	punct	_	_	_
+5	eta	eta	CCONJ	_	_	6	cc	_	_	_
+6	gosaria	gosari	ADJ	_	_	3	conj	_	_	_
+7	....	....	PUNCT	_	_	3	punct	_	_	_
+8	ai	ai	INTJ	_	_	10	advmod	_	_	_
+9	zenbat	zenbat	DET	_	_	8	fixed	_	_	_
+10	gogoratu	gogoratu	VERB	_	_	0	root	_	_	_
+11	giñen	izan	AUX	_	_	10	aux	_	_	_
+12	zure	zu	PRON	_	_	13	nmod	_	_	_
+13	gosaritaz	gosarita	NOUN	_	_	16	obl	_	_	_
+14	New	New	PROPN	_	_	16	obl	_	_	_
+15	York-en	York	PROPN	_	_	14	flat	_	_	_
+16	ibili	ibili	VERB	_	_	18	acl	_	_	_
+17	giñen	izan	AUX	_	_	16	aux	_	_	_
+18	egunetan	egun	NOUN	_	_	21	obl	_	_	_
+19	,	,	PUNCT	_	_	21	punct	_	_	_
+20	igualeko	igual	NOUN	_	_	21	obl	_	_	_
+21	ibiliko	ibili	VERB	_	_	10	ccomp	_	_	_
+22	giñateke	joan	AUX	_	_	21	aux	_	_	_
+23	,	,	PUNCT	_	_	28	punct	_	_	_
+24	zure	zu	PRON	_	_	25	nmod	_	_	_
+25	gosari	gosa	NOUN	_	_	28	obj	_	_	_
+26	horietako	horiek	DET	_	_	25	det	_	_	_
+27	bat	bat	NUM	_	_	28	obj	_	_	_
+28	jan	jan	VERB	_	_	21	advcl	_	_	_
+29	ondoren	ondoren	ADV	_	_	28	advcl	_	_	_
+30	!!	!!	PUNCT	_	_	28	punct	_	_	_
+31	Muxu	muxu	NOUN	_	_	34	nmod	_	_	_
+32	haundi	handi	ADJ	_	_	31	amod	_	_	_
+33	bat	bat	NUM	_	_	31	nummod	_	_	_
+34	lazkautik	lazkau	NOUN	_	_	21	obl	_	_	_
+
+# sent_id = multibooked/corpora/eu/zelaikoetxe-2_1-1
+# text = Baia ez dago gauza ederragorik gure hizkuntzan asteburu honetan guregatik zeuk eta Begok egin duzuen guztia eskertzea baino .
+1	Baia	bai	NOUN	_	_	3	nsubj	_	_	_
+2	ez	ez	PART	_	_	3	advmod	_	_	_
+3	dago	egon	VERB	_	_	0	root	_	_	_
+4	gauza	gauza	NOUN	_	_	3	nsubj	_	_	_
+5	ederragorik	eder	ADJ	_	_	4	amod	_	_	_
+6	gure	gu	PRON	_	_	7	nmod	_	_	_
+7	hizkuntzan	hizkuntza	NOUN	_	_	11	obl	_	_	_
+8	asteburu	asteburu	NOUN	_	_	11	obl	_	_	_
+9	honetan	hau	DET	_	_	8	det	_	_	_
+10	guregatik	gu	PRON	_	_	11	obl	_	_	_
+11	zeuk	ukan	VERB	_	_	3	advcl	_	_	_
+12	eta	eta	CCONJ	_	_	18	cc	_	_	_
+13	Begok	begok	ADV	_	_	14	advmod	_	_	_
+14	egin	egin	VERB	_	_	16	acl	_	_	_
+15	duzuen	edun	AUX	_	_	14	aux	_	_	_
+16	guztia	guzti	DET	_	_	17	obj	_	_	_
+17	eskertzea	eskertu	VERB	_	_	18	xcomp	_	_	_
+18	baino	baino	X	_	_	11	conj	_	_	_
+19	.	.	PUNCT	_	_	3	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/zelaikoetxe-2_1-2
+# text = Dena zoragarria izan da , benetan .
+1	Dena	dena	DET	_	_	2	nsubj	_	_	6:targ
+2	zoragarria	zoragarri	ADJ	_	_	0	root	_	_	6:exp-Positive
+3	izan	izan	AUX	_	_	2	cop	_	_	_
+4	da	izan	AUX	_	_	2	aux	_	_	_
+5	,	,	PUNCT	_	_	6	punct	_	_	_
+6	benetan	benetan	ADV	_	_	2	advmod	_	_	0:exp-Positive
+7	.	.	PUNCT	_	_	2	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/zelaikoetxe-2_1-3
+# text = Parajeak , etxea , jabeak , txakurra , egunsentiko behiak ...
+1	Parajeak	paraje	NOUN	_	_	0	root	_	_	_
+2	,	,	PUNCT	_	_	3	punct	_	_	_
+3	etxea	etxe	NOUN	_	_	1	conj	_	_	_
+4	,	,	PUNCT	_	_	5	punct	_	_	_
+5	jabeak	jabe	NOUN	_	_	1	conj	_	_	_
+6	,	,	PUNCT	_	_	7	punct	_	_	_
+7	txakurra	txakur	NOUN	_	_	1	conj	_	_	_
+8	,	,	PUNCT	_	_	10	punct	_	_	_
+9	egunsentiko	egunsenti	NOUN	_	_	1	conj	_	_	_
+10	behiak	behia	NOUN	_	_	1	conj	_	_	_
+11	...	...	PUNCT	_	_	1	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/zelaikoetxe-2_1-4
+# text = Inoiz ahaztuko ez dugun asteburua igaro dugula jakitea nahi genuen .
+1	Inoiz	inoiz	ADV	_	_	2	advmod	_	_	3:exp-Positive
+2	ahaztuko	ahaztu	VERB	_	_	5	acl	_	_	3:exp-Positive
+3	ez	ez	PART	_	_	2	advmod	_	_	0:exp-Positive
+4	dugun	edun	AUX	_	_	2	aux	_	_	3:holder
+5	asteburua	asteburu	NOUN	_	_	6	obj	_	_	3:targ
+6	igaro	igaro	VERB	_	_	8	ccomp	_	_	_
+7	dugula	edun	AUX	_	_	6	aux	_	_	_
+8	jakitea	jakin	VERB	_	_	10	xcomp	_	_	_
+9	nahi	nahi	NOUN	_	_	10	compound	_	_	_
+10	genuen	ukan	VERB	_	_	0	root	_	_	_
+11	.	.	PUNCT	_	_	10	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/zelaikoetxe-2_1-5
+# text = Makina bat argazki eta bideokin bueltatuko gara etxera inoiz ahaztu ez dezagun Ozekan igarotako asteburua .
+1	Makina	makina	NOUN	_	_	6	nsubj	_	_	_
+2	bat	bat	NUM	_	_	1	nummod	_	_	_
+3	argazki	argazki	NOUN	_	_	6	obl	_	_	_
+4	eta	eta	CCONJ	_	_	5	cc	_	_	_
+5	bideokin	bide	NOUN	_	_	3	conj	_	_	_
+6	bueltatuko	bueltatu	VERB	_	_	0	root	_	_	_
+7	gara	izan	AUX	_	_	6	aux	_	_	_
+8	etxera	etxe	NOUN	_	_	10	obl	_	_	_
+9	inoiz	inoiz	ADV	_	_	10	advmod	_	_	_
+10	ahaztu	ahaztu	VERB	_	_	6	advcl	_	_	_
+11	ez	ez	PART	_	_	10	advmod	_	_	_
+12	dezagun	ezan	AUX	_	_	10	aux	_	_	_
+13	Ozekan	Ozeka	PROPN	_	_	14	obl	_	_	_
+14	igarotako	igaro	VERB	_	_	15	advcl	_	_	_
+15	asteburua	asteburu	NOUN	_	_	10	obj	_	_	_
+16	.	.	PUNCT	_	_	6	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/zelaikoetxe-2_1-6
+# text = Eskerrik asko inguruko leku ikusgarrien inguruan informatzeagatik eta laburmetrai maratoi hori gomendatzeagatik , azkenean joan ezin izan genuen arren .
+1	Eskerrik	esker	NOUN	_	_	4	nmod	_	_	2:exp-Positive
+2	asko	asko	DET	_	_	1	det	_	_	0:exp-Positive
+3	inguruko	inguru	ADP	_	_	2	case	_	_	_
+4	leku	leku	NOUN	_	_	7	obl	_	_	_
+5	ikusgarrien	ikusgarri	ADJ	_	_	4	nmod	_	_	_
+6	inguruan	inguru	ADP	_	_	5	case	_	_	_
+7	informatzeagatik	informatu	VERB	_	_	17	advcl	_	_	_
+8	eta	eta	CCONJ	_	_	17	cc	_	_	_
+9	laburmetrai	laburmetrai	NOUN	_	_	10	nmod	_	_	_
+10	maratoi	maratoi	NOUN	_	_	12	obj	_	_	_
+11	hori	hori	DET	_	_	10	det	_	_	_
+12	gomendatzeagatik	gomendatu	VERB	_	_	7	conj	_	_	_
+13	,	,	PUNCT	_	_	12	punct	_	_	_
+14	azkenean	azkenean	ADV	_	_	15	advmod	_	_	_
+15	joan	joan	VERB	_	_	17	xcomp	_	_	_
+16	ezin	ezin	NOUN	_	_	17	compound	_	_	_
+17	izan	izan	VERB	_	_	0	root	_	_	_
+18	genuen	edun	AUX	_	_	17	aux	_	_	_
+19	arren	arren	CCONJ	_	_	17	mark	_	_	_
+20	.	.	PUNCT	_	_	17	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/zelaikoetxe-2_1-7
+# text = Ietar ( Ea ) koadrila honek esperientzia ikaragarria bizi izan duela erakutsi nahi dizuegu iruzkin honen bitartez .
+1	Ietar	Ietar	PROPN	_	_	5	nmod	_	_	_
+2	(	(	PUNCT	_	_	3	punct	_	_	_
+3	Ea	Ea	PROPN	_	_	1	appos	_	_	_
+4	)	)	PUNCT	_	_	3	punct	_	_	_
+5	koadrila	koadrila	NOUN	_	_	10	nsubj	_	_	_
+6	honek	hau	DET	_	_	5	det	_	_	_
+7	esperientzia	esperientzia	NOUN	_	_	10	obj	_	_	_
+8	ikaragarria	ikaragarri	ADJ	_	_	7	amod	_	_	_
+9	bizi	bizi	NOUN	_	_	10	compound	_	_	_
+10	izan	izan	VERB	_	_	12	ccomp	_	_	_
+11	duela	edun	AUX	_	_	10	aux	_	_	_
+12	erakutsi	erakutsi	VERB	_	_	14	xcomp	_	_	_
+13	nahi	nahi	NOUN	_	_	14	compound	_	_	_
+14	dizuegu	ukan	VERB	_	_	0	root	_	_	_
+15	iruzkin	iruzkin	NOUN	_	_	12	obl	_	_	_
+16	honen	hau	DET	_	_	15	det	_	_	_
+17	bitartez	None	ADP	_	_	16	case	_	_	_
+18	.	.	PUNCT	_	_	14	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/zelaikoetxe-2_1-8
+# text = Esperientzia polita izan da , eta egon ziur noizbait bueltatuko garela .
+1	Esperientzia	esperientzia	NOUN	_	_	3	nsubj	_	_	2:targ
+2	polita	polit	ADJ	_	_	1	amod	_	_	0:exp-Positive
+3	izan	izan	AUX	_	_	0	root	_	_	_
+4	da	izan	AUX	_	_	3	aux	_	_	_
+5	,	,	PUNCT	_	_	7	punct	_	_	_
+6	eta	eta	CCONJ	_	_	7	cc	_	_	_
+7	egon	egon	VERB	_	_	3	conj	_	_	_
+8	ziur	ziur	ADJ	_	_	7	obl	_	_	_
+9	noizbait	noizbait	ADV	_	_	10	advmod	_	_	10:exp-Positive
+10	bueltatuko	bueltatu	VERB	_	_	7	ccomp	_	_	0:exp-Positive
+11	garela	izan	AUX	_	_	10	aux	_	_	10:holder
+12	.	.	PUNCT	_	_	3	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/zelaikoetxe-2_1-9
+# text = MILESKER guztiagatik Josu eta Bego !
+1	MILESKER	Milesker	PROPN	_	_	3	orphan	_	_	0:exp-Positive
+2	guztiagatik	guzti	DET	_	_	1	det	_	_	_
+3	Josu	Josu	PROPN	_	_	0	root	_	_	_
+4	eta	eta	CCONJ	_	_	5	cc	_	_	_
+5	Bego	Bego	PROPN	_	_	3	conj	_	_	_
+6	!	!	PUNCT	_	_	3	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/zelaikoetxe-2_1-10
+# text = Ieko koadrila majoenaren partez ARREKIKILI
+1	Ieko	ieko	NOUN	_	_	2	nmod	_	_	_
+2	koadrila	koadrila	NOUN	_	_	5	obl	_	_	_
+3	majoenaren	majoen	ADJ	_	_	2	nmod	_	_	_
+4	partez	None	ADP	_	_	3	case	_	_	_
+5	ARREKIKILI	Arrekikili	PROPN	_	_	0	root	_	_	_
+
+# sent_id = multibooked/corpora/eu/Bielsa_1-1
+# text = Ondo afaltzen da , aparkaleku handia dauka eta nahi izan ezkero oso goiz ematen dizute gosaria , niri interesatzen zaidana mendira lehenengo orduan joateko .
+1	Ondo	ondo	ADV	_	_	2	advmod	_	_	3:exp-Positive
+2	afaltzen	afaldu	VERB	_	_	0	root	_	_	3:exp-Positive
+3	da	izan	AUX	_	_	2	aux	_	_	0:exp-Positive
+4	,	,	PUNCT	_	_	7	punct	_	_	_
+5	aparkaleku	aparkaleku	NOUN	_	_	7	obj	_	_	7:targ
+6	handia	handi	ADJ	_	_	5	amod	_	_	7:exp-Positive
+7	dauka	eduki	VERB	_	_	2	conj	_	_	0:exp-Positive
+8	eta	eta	CCONJ	_	_	14	cc	_	_	_
+9	nahi	nahi	NOUN	_	_	10	compound	_	_	_
+10	izan	izan	VERB	_	_	14	advcl	_	_	_
+11	ezkero	ezkero	ADV	_	_	10	advcl	_	_	_
+12	oso	oso	ADV	_	_	13	advmod	_	_	_
+13	goiz	goiz	ADV	_	_	14	advmod	_	_	_
+14	ematen	eman	VERB	_	_	2	conj	_	_	_
+15	dizute	edun	AUX	_	_	14	aux	_	_	_
+16	gosaria	gosari	NOUN	_	_	14	obj	_	_	_
+17	,	,	PUNCT	_	_	19	punct	_	_	_
+18	niri	ni	PRON	_	_	19	iobj	_	_	_
+19	interesatzen	interesatu	VERB	_	_	14	conj	_	_	_
+20	zaidana	izan	AUX	_	_	19	aux	_	_	_
+21	mendira	mendi	NOUN	_	_	24	obl	_	_	_
+22	lehenengo	lehenengo	ADJ	_	_	23	amod	_	_	_
+23	orduan	ordu	NOUN	_	_	24	obl	_	_	_
+24	joateko	joan	VERB	_	_	19	advcl	_	_	_
+25	.	.	PUNCT	_	_	2	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/biovilla-sustentabilidade_1-1
+# text = Egia esan , oso gomendagarria eta berezia dela esango nuke.Oso giro informala eta jatorra benetan.Bakarka , bikotean ala familian joan izan ezkero oso ondo dago.Aldi berean inguruko hondartzetara joateko aukera dago .
+1	Egia	egia	NOUN	_	_	2	obj	_	_	_
+2	esan	esan	VERB	_	_	0	root	_	_	_
+3	,	,	PUNCT	_	_	9	punct	_	_	_
+4	oso	oso	ADV	_	_	5	advmod	_	_	5:exp-Positive
+5	gomendagarria	gomendagarri	ADJ	_	_	9	ccomp	_	_	0:exp-Positive
+6	eta	eta	CCONJ	_	_	7	cc	_	_	_
+7	berezia	berezi	ADJ	_	_	5	conj	_	_	0:exp-Positive
+8	dela	izan	AUX	_	_	5	cop	_	_	_
+9	esango	esan	VERB	_	_	2	ccomp	_	_	_
+10	nuke.Oso	edun	AUX	_	_	9	aux	_	_	12:exp-Positive
+11	giro	giro	NOUN	_	_	20	nsubj	_	_	12:targ|14:targ
+12	informala	informal	ADJ	_	_	11	amod	_	_	0:exp-Positive
+13	eta	eta	CCONJ	_	_	14	cc	_	_	_
+14	jatorra	jator	ADJ	_	_	12	conj	_	_	0:exp-Positive
+15	benetan.Bakarka	benetan.Bakarka	ADV	_	_	20	advmod	_	_	_
+16	,	,	PUNCT	_	_	20	punct	_	_	_
+17	bikotean	bikote	NOUN	_	_	20	obl	_	_	_
+18	ala	ala	CCONJ	_	_	19	cc	_	_	_
+19	familian	familia	NOUN	_	_	17	conj	_	_	_
+20	joan	joan	VERB	_	_	31	advcl	_	_	_
+21	izan	izan	AUX	_	_	20	aux	_	_	_
+22	ezkero	ezkero	ADV	_	_	20	advcl	_	_	_
+23	oso	oso	ADV	_	_	29	advmod	_	_	24:exp-Positive
+24	ondo	ondo	ADV	_	_	29	advmod	_	_	0:exp-Positive
+25	dago.Aldi	dago.Aldi	NOUN	_	_	28	nmod	_	_	_
+26	berean	bera	DET	_	_	25	det	_	_	_
+27	inguruko	inguru	ADP	_	_	26	case	_	_	31:exp-Positive
+28	hondartzetara	hondartz	NOUN	_	_	29	obl	_	_	31:exp-Positive
+29	joateko	joan	VERB	_	_	30	advcl	_	_	31:exp-Positive
+30	aukera	aukera	NOUN	_	_	31	nsubj	_	_	31:exp-Positive
+31	dago	egon	VERB	_	_	2	conj	_	_	0:exp-Positive
+32	.	.	PUNCT	_	_	2	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/ten15nyc_1-1
+# text = Kokapen ona ( Times Square eta 5. etorbidearen ondoan ) .
+1	Kokapen	kokapen	NOUN	_	_	0	root	_	_	2:targ
+2	ona	on	ADJ	_	_	1	amod	_	_	0:exp-Positive
+3	(	(	PUNCT	_	_	4	punct	_	_	_
+4	Times	Times	PROPN	_	_	1	appos	_	_	_
+5	Square	Square	PROPN	_	_	4	flat	_	_	_
+6	eta	eta	CCONJ	_	_	7	cc	_	_	_
+7	5.	5.	ADJ	_	_	4	conj	_	_	_
+8	etorbidearen	etorbide	NOUN	_	_	1	nmod	_	_	_
+9	ondoan	ondoan	ADP	_	_	8	case	_	_	_
+10	)	)	PUNCT	_	_	4	punct	_	_	_
+11	.	.	PUNCT	_	_	1	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/ten15nyc_1-2
+# text = Apartamentua ongi ekipatua eta garbia .
+1	Apartamentua	apartamentu	NOUN	_	_	3	obj	_	_	3:targ|5:targ
+2	ongi	ongi	ADV	_	_	3	advmod	_	_	3:exp-Positive
+3	ekipatua	ekipatu	VERB	_	_	0	root	_	_	0:exp-Positive
+4	eta	eta	CCONJ	_	_	5	cc	_	_	_
+5	garbia	garbi	ADJ	_	_	3	conj	_	_	0:exp-Positive
+6	.	.	PUNCT	_	_	3	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/city-rooms_1-1
+# text = Kalera ematen duten geletan trafikoaren zarata entzuten da goizetan .
+1	Kalera	kale	NOUN	_	_	2	obl	_	_	4:targ
+2	ematen	eman	VERB	_	_	4	acl	_	_	4:targ
+3	duten	edun	AUX	_	_	2	aux	_	_	4:targ
+4	geletan	gela	NOUN	_	_	7	obl	_	_	7:targ
+5	trafikoaren	trafiko	NOUN	_	_	6	nmod	_	_	7:exp-Negative
+6	zarata	zarata	NOUN	_	_	7	nsubj	_	_	7:exp-Negative
+7	entzuten	entzun	VERB	_	_	0	root	_	_	0:exp-Negative
+8	da	izan	AUX	_	_	7	aux	_	_	_
+9	goizetan	goiz	NOUN	_	_	7	obl	_	_	_
+10	.	.	PUNCT	_	_	7	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/city-rooms_1-2
+# text = Kalitate/prezio erlazio ona du
+1	Kalitate/prezio	kalitate/prezio	NOUN	_	_	4	obj	_	_	2:targ
+2	erlazio	erlazio	NOUN	_	_	4	obj	_	_	3:targ
+3	ona	on	ADJ	_	_	2	amod	_	_	0:exp-Positive
+4	du	ukan	VERB	_	_	0	root	_	_	_
+
+# sent_id = multibooked/corpora/eu/katxenea-ane_1-1
+# text = Ikaragarri gustatu zaigu etxea .
+1	Ikaragarri	ikaragarri	ADV	_	_	2	advmod	_	_	2:exp-Positive
+2	gustatu	gustatu	VERB	_	_	0	root	_	_	0:exp-Positive
+3	zaigu	izan	AUX	_	_	2	aux	_	_	2:holder
+4	etxea	etxe	NOUN	_	_	2	obj	_	_	2:targ
+5	.	.	PUNCT	_	_	2	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/katxenea-ane_1-2
+# text = Berri berria dago eta behar duzun guztiz ornituta dago .
+1	Berri	berri	NOUN	_	_	3	nsubj	_	_	2:exp-Positive
+2	berria	berri	ADJ	_	_	1	amod	_	_	0:exp-Positive
+3	dago	egon	VERB	_	_	0	root	_	_	_
+4	eta	eta	CCONJ	_	_	8	cc	_	_	_
+5	behar	behar	NOUN	_	_	6	compound	_	_	8:exp-Positive
+6	duzun	edun	VERB	_	_	8	ccomp	_	_	8:exp-Positive
+7	guztiz	guztiz	ADV	_	_	8	advmod	_	_	8:exp-Positive
+8	ornituta	ornitu	VERB	_	_	3	conj	_	_	0:exp-Positive
+9	dago	egon	AUX	_	_	8	cop	_	_	_
+10	.	.	PUNCT	_	_	3	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/katxenea-ane_1-3
+# text = Lau logela ditu bakoitza bere bainugelarekin .
+1	Lau	lau	NUM	_	_	2	nummod	_	_	_
+2	logela	logela	NOUN	_	_	3	obj	_	_	6:targ
+3	ditu	ukan	VERB	_	_	0	root	_	_	_
+4	bakoitza	bakoitz	ADJ	_	_	3	nsubj	_	_	6:exp-Positive
+5	bere	bera	DET	_	_	6	nmod	_	_	6:exp-Positive
+6	bainugelarekin	bainugela	NOUN	_	_	3	obl	_	_	0:exp-Positive
+7	.	.	PUNCT	_	_	3	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/katxenea-ane_1-4
+# text = Gelak primeran dekoratuta daude eta bainugela denak bere dutxa dute .
+1	Gelak	gela	NOUN	_	_	3	nsubj	_	_	3:targ
+2	primeran	primeran	ADV	_	_	3	advmod	_	_	3:exp-Positive
+3	dekoratuta	dekoratu	VERB	_	_	0	root	_	_	0:exp-Positive
+4	daude	egon	AUX	_	_	3	cop	_	_	_
+5	eta	eta	CCONJ	_	_	10	cc	_	_	_
+6	bainugela	bainugela	NOUN	_	_	10	nsubj	_	_	7:targ
+7	denak	dena	DET	_	_	6	det	_	_	10:targ
+8	bere	bera	DET	_	_	9	nmod	_	_	10:exp-Positive
+9	dutxa	dutxa	NOUN	_	_	10	obj	_	_	10:exp-Positive
+10	dute	ukan	VERB	_	_	4	conj	_	_	0:exp-Positive
+11	.	.	PUNCT	_	_	3	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/katxenea-ane_1-5
+# text = Familian joan gera asteburua pasatzera , eta berriz noiz bueltatu pentsatzen etorri gera .
+1	Familian	familia	NOUN	_	_	2	obl	_	_	_
+2	joan	joan	VERB	_	_	0	root	_	_	_
+3	gera	geratu	AUX	_	_	2	aux	_	_	_
+4	asteburua	asteburu	NOUN	_	_	5	obj	_	_	_
+5	pasatzera	pasatu	VERB	_	_	2	advcl	_	_	_
+6	,	,	PUNCT	_	_	10	punct	_	_	_
+7	eta	eta	CCONJ	_	_	10	cc	_	_	_
+8	berriz	berriz	ADV	_	_	10	advmod	_	_	13:exp-Positive
+9	noiz	noiz	ADV	_	_	10	advmod	_	_	13:exp-Positive
+10	bueltatu	bueltatu	VERB	_	_	2	conj	_	_	13:exp-Positive
+11	pentsatzen	pentsatu	VERB	_	_	10	advcl	_	_	13:exp-Positive
+12	etorri	etorri	VERB	_	_	10	ccomp	_	_	13:exp-Positive
+13	gera	geratu	VERB	_	_	12	advcl	_	_	0:exp-Positive
+14	.	.	PUNCT	_	_	2	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/katxenea-ane_1-6
+# text = Sekula ez gera horrelako nekazal turismoko etxe politean egon .
+1	Sekula	sekula	ADV	_	_	3	advmod	_	_	_
+2	ez	ez	PART	_	_	3	advmod	_	_	_
+3	gera	geratu	VERB	_	_	0	root	_	_	_
+4	horrelako	horrelako	ADJ	_	_	6	amod	_	_	_
+5	nekazal	nekazal	NOUN	_	_	6	nmod	_	_	7:targ
+6	turismoko	turismo	NOUN	_	_	7	nmod	_	_	7:targ
+7	etxe	etxe	NOUN	_	_	8	nmod	_	_	8:targ
+8	politean	polita	NOUN	_	_	9	obl	_	_	0:exp-Positive
+9	egon	egon	VERB	_	_	3	ccomp	_	_	_
+10	.	.	PUNCT	_	_	3	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/katxenea-ane_1-7
+# text = Edozein hotel baino ederragoa iruditu zaigu .
+1	Edozein	edozein	DET	_	_	2	det	_	_	5:exp-Positive
+2	hotel	hotel	NOUN	_	_	3	nsubj	_	_	5:exp-Positive
+3	baino	baino	ADV	_	_	5	advmod	_	_	5:exp-Positive
+4	ederragoa	eder	ADJ	_	_	5	xcomp	_	_	5:exp-Positive
+5	iruditu	iruditu	VERB	_	_	0	root	_	_	0:exp-Positive
+6	zaigu	izan	AUX	_	_	5	aux	_	_	5:holder
+7	.	.	PUNCT	_	_	5	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/katxenea-ane_1-8
+# text = Eta etxeko jabea Maika oso jatorra da .
+1	Eta	eta	CCONJ	_	_	7	cc	_	_	_
+2	etxeko	etxe	NOUN	_	_	3	nmod	_	_	4:targ
+3	jabea	jabe	NOUN	_	_	6	nsubj	_	_	4:targ
+4	Maika	Maika	PROPN	_	_	6	nsubj	_	_	6:targ
+5	oso	oso	ADV	_	_	6	advmod	_	_	6:exp-Positive
+6	jatorra	jator	ADJ	_	_	0	root	_	_	0:exp-Positive
+7	da	izan	AUX	_	_	6	cop	_	_	_
+8	.	.	PUNCT	_	_	6	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/katxenea-ane_1-9
+# text = Edozertan laguntzeko prest .
+1	Edozertan	Edozerta	PROPN	_	_	2	obl	_	_	3:exp-Positive
+2	laguntzeko	lagundu	VERB	_	_	3	advcl	_	_	3:exp-Positive
+3	prest	prest	ADV	_	_	0	root	_	_	0:exp-Positive
+4	.	.	PUNCT	_	_	3	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/katxenea-ane_1-10
+# text = Eskerrik asko denagaitik .
+1	Eskerrik	Eskerri	PROPN	_	_	3	nsubj	_	_	3:exp-Positive
+2	asko	asko	ADV	_	_	3	advmod	_	_	3:exp-Positive
+3	denagaitik	ibigai	VERB	_	_	0	root	_	_	0:exp-Positive
+4	.	.	PUNCT	_	_	3	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/airbnb-3519462_1-1
+# text = Braga erdigunetik oinez oso gertu dagoen etxea .
+1	Braga	Braga	PROPN	_	_	2	nmod	_	_	_
+2	erdigunetik	erdigune	NOUN	_	_	6	obl	_	_	5:exp-Positive
+3	oinez	oin	NOUN	_	_	6	obl	_	_	5:exp-Positive
+4	oso	oso	ADV	_	_	5	advmod	_	_	5:exp-Positive
+5	gertu	gertu	ADV	_	_	6	advmod	_	_	0:exp-Positive
+6	dagoen	egon	VERB	_	_	7	acl	_	_	_
+7	etxea	etxe	NOUN	_	_	0	root	_	_	5:targ
+8	.	.	PUNCT	_	_	7	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/airbnb-3519462_1-2
+# text = Oso argia eta eguzkitsua .
+1	Oso	oso	ADV	_	_	2	advmod	_	_	2:exp-Positive
+2	argia	argi	ADJ	_	_	0	root	_	_	0:exp-Positive
+3	eta	eta	CCONJ	_	_	4	cc	_	_	_
+4	eguzkitsua	eguzkitsu	ADJ	_	_	2	conj	_	_	0:exp-Positive
+5	.	.	PUNCT	_	_	2	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/airbnb-3519462_1-3
+# text = Terraza zoragarria dauka bertan egoteko , otorduak egiteko , gau-giroaz gozatzeko ...
+1	Terraza	terraza	NOUN	_	_	3	obj	_	_	2:targ
+2	zoragarria	zoragarri	ADJ	_	_	1	amod	_	_	0:exp-Positive
+3	dauka	eduki	VERB	_	_	0	root	_	_	_
+4	bertan	bertan	ADV	_	_	5	advmod	_	_	_
+5	egoteko	egon	VERB	_	_	3	advcl	_	_	_
+6	,	,	PUNCT	_	_	11	punct	_	_	_
+7	otorduak	otordu	NOUN	_	_	8	obj	_	_	_
+8	egiteko	egin	VERB	_	_	3	advcl	_	_	_
+9	,	,	PUNCT	_	_	11	punct	_	_	_
+10	gau-giroaz	gau-giro	NOUN	_	_	11	obl	_	_	_
+11	gozatzeko	gozatu	VERB	_	_	8	conj	_	_	_
+12	...	...	PUNCT	_	_	3	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/airbnb-3519462_1-4
+# text = Gainera , aparkatzeko lekua egoten da atari parean , eta hori Bragan luxua da !!!
+1	Gainera	gainera	CCONJ	_	_	5	advmod	_	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_	_
+3	aparkatzeko	aparkatu	VERB	_	_	4	advcl	_	_	4:targ
+4	lekua	leku	NOUN	_	_	5	nsubj	_	_	8:targ
+5	egoten	egon	VERB	_	_	0	root	_	_	_
+6	da	izan	AUX	_	_	5	aux	_	_	_
+7	atari	atari	NOUN	_	_	5	obl	_	_	8:exp-Positive
+8	parean	parean	ADP	_	_	7	case	_	_	0:exp-Positive
+9	,	,	PUNCT	_	_	13	punct	_	_	_
+10	eta	eta	CCONJ	_	_	13	cc	_	_	_
+11	hori	hori	DET	_	_	13	nsubj	_	_	_
+12	Bragan	Bragan	PROPN	_	_	13	obl	_	_	_
+13	luxua	luxu	ADJ	_	_	5	conj	_	_	15:exp-Positive
+14	da	izan	AUX	_	_	13	cop	_	_	15:exp-Positive
+15	!!!	!a	PRON	_	_	13	obl	_	_	0:exp-Positive
+
+# sent_id = multibooked/corpora/eu/airbnb-3519462_1-5
+# text = Ederki ibili gara eta Eugenia bera oso atsegina da , abegitsua .
+1	Ederki	ederki	ADV	_	_	2	advmod	_	_	2:exp-Positive
+2	ibili	ibili	VERB	_	_	0	root	_	_	0:exp-Positive
+3	gara	izan	AUX	_	_	2	aux	_	_	2:holder
+4	eta	eta	CCONJ	_	_	8	cc	_	_	_
+5	Eugenia	Eugenia	PROPN	_	_	8	nsubj	_	_	8:targ|11:targ
+6	bera	bera	DET	_	_	5	det	_	_	_
+7	oso	oso	ADV	_	_	8	advmod	_	_	8:exp-Positive
+8	atsegina	atsegin	ADJ	_	_	2	conj	_	_	0:exp-Positive
+9	da	izan	AUX	_	_	8	cop	_	_	_
+10	,	,	PUNCT	_	_	11	punct	_	_	_
+11	abegitsua	abegitsu	ADJ	_	_	8	conj	_	_	0:exp-Positive
+12	.	.	PUNCT	_	_	2	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/poggio-imperiale-apartments_1-1
+# text = Hezetasun apur bat somatu genuen , bestela oso ondo dago .
+1	Hezetasun	hezetasun	NOUN	_	_	4	obj	_	_	4:targ
+2	apur	apur	ADJ	_	_	1	amod	_	_	4:exp-Negative
+3	bat	bat	NUM	_	_	1	nummod	_	_	4:exp-Negative
+4	somatu	sumatu	VERB	_	_	0	root	_	_	0:exp-Negative
+5	genuen	edun	AUX	_	_	4	aux	_	_	4:holder
+6	,	,	PUNCT	_	_	10	punct	_	_	_
+7	bestela	bestela	CCONJ	_	_	10	cc	_	_	_
+8	oso	oso	ADV	_	_	9	advmod	_	_	9:exp-Positive
+9	ondo	ondo	ADV	_	_	10	advmod	_	_	0:exp-Positive
+10	dago	egon	VERB	_	_	4	conj	_	_	_
+11	.	.	PUNCT	_	_	4	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/poggio-imperiale-apartments_1-2
+# text = Oso ondo kokatuta dago , autobus geralekuetatik oso gertu .
+1	Oso	oso	ADV	_	_	2	advmod	_	_	3:exp-Positive
+2	ondo	ondo	ADV	_	_	3	advmod	_	_	3:exp-Positive
+3	kokatuta	kokatu	VERB	_	_	0	root	_	_	0:exp-Positive
+4	dago	egon	AUX	_	_	3	cop	_	_	_
+5	,	,	PUNCT	_	_	7	punct	_	_	_
+6	autobus	autobus	NOUN	_	_	7	nmod	_	_	9:exp-Positive
+7	geralekuetatik	geraleku	NOUN	_	_	3	obl	_	_	9:exp-Positive
+8	oso	oso	ADV	_	_	9	advmod	_	_	9:exp-Positive
+9	gertu	gertu	ADV	_	_	3	nmod	_	_	0:exp-Positive
+10	.	.	PUNCT	_	_	3	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/poggio-imperiale-apartments_1-3
+# text = Oinez ere joan daiteke hirira .
+1	Oinez	oinez	ADV	_	_	3	advmod	_	_	5:exp-Positive
+2	ere	ere	CCONJ	_	_	3	advmod	_	_	5:exp-Positive
+3	joan	joan	VERB	_	_	0	root	_	_	5:exp-Positive
+4	daiteke	edin	AUX	_	_	3	aux	_	_	5:exp-Positive
+5	hirira	hiri	NOUN	_	_	3	obl	_	_	0:exp-Positive
+6	.	.	PUNCT	_	_	3	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/poggio-imperiale-apartments_1-4
+# text = Hamar minututan Palazzo Pittin zaude , eta ordu laurden batean , Ponte Vecchion .
+1	Hamar	hamar	NUM	_	_	2	nummod	_	_	_
+2	minututan	minutu	NOUN	_	_	5	obl	_	_	_
+3	Palazzo	Palazzo	PROPN	_	_	5	nsubj	_	_	_
+4	Pittin	pittin	ADV	_	_	5	advmod	_	_	_
+5	zaude	egon	VERB	_	_	0	root	_	_	_
+6	,	,	PUNCT	_	_	7	punct	_	_	_
+7	eta	eta	CCONJ	_	_	5	advcl	_	_	_
+8	ordu	ordu	NOUN	_	_	5	nmod	_	_	_
+9	laurden	laurden	ADJ	_	_	8	amod	_	_	_
+10	batean	bat	NUM	_	_	8	nummod	_	_	_
+11	,	,	PUNCT	_	_	8	punct	_	_	_
+12	Ponte	Ponte	PROPN	_	_	5	conj	_	_	_
+13	Vecchion	Vecchio	PROPN	_	_	12	flat	_	_	_
+14	.	.	PUNCT	_	_	5	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/poggio-imperiale-apartments_1-5
+# text = Auzoan bertan jatetxe eta denda batzuk ere badaude .
+1	Auzoan	auzo	NOUN	_	_	8	obl	_	_	_
+2	bertan	bertan	ADV	_	_	8	advmod	_	_	_
+3	jatetxe	jatetxe	NOUN	_	_	8	nsubj	_	_	_
+4	eta	eta	CCONJ	_	_	5	cc	_	_	_
+5	denda	denda	NOUN	_	_	3	conj	_	_	_
+6	batzuk	batzuk	DET	_	_	5	det	_	_	_
+7	ere	ere	CCONJ	_	_	8	advmod	_	_	_
+8	badaude	egon	VERB	_	_	0	root	_	_	_
+9	.	.	PUNCT	_	_	8	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/poggio-imperiale-apartments_1-6
+# text = Bertako andrea , Clara , oso atsegina da eta informazio pilo bat eman zigun .
+1	Bertako	bertako	ADJ	_	_	2	amod	_	_	4:targ|4:targ
+2	andrea	andre	NOUN	_	_	7	nsubj	_	_	4:targ|4:targ
+3	,	,	PUNCT	_	_	4	punct	_	_	_
+4	Clara	Clara	PROPN	_	_	2	appos	_	_	7:targ|13:targ
+5	,	,	PUNCT	_	_	4	punct	_	_	_
+6	oso	oso	ADV	_	_	7	advmod	_	_	7:exp-Positive
+7	atsegina	atsegin	ADJ	_	_	0	root	_	_	0:exp-Positive
+8	da	izan	AUX	_	_	7	cop	_	_	_
+9	eta	eta	CCONJ	_	_	13	cc	_	_	_
+10	informazio	informazio	NOUN	_	_	13	obj	_	_	13:exp-Positive
+11	pilo	pilo	ADJ	_	_	10	amod	_	_	13:exp-Positive
+12	bat	bat	NUM	_	_	10	nummod	_	_	13:exp-Positive
+13	eman	eman	VERB	_	_	8	conj	_	_	0:exp-Positive
+14	zigun	edun	AUX	_	_	13	aux	_	_	7:holder|13:holder
+15	.	.	PUNCT	_	_	7	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/poggio-imperiale-apartments_1-7
+# text = Apartamentua ondo ekipatuta dago , batez ere sukaldea .
+1	Apartamentua	apartamentu	NOUN	_	_	3	nsubj	_	_	3:targ
+2	ondo	ondo	ADV	_	_	3	advmod	_	_	3:exp-Positive|3:exp-Positive
+3	ekipatuta	ekipatu	VERB	_	_	0	root	_	_	0:exp-Positive|0:exp-Positive
+4	dago	egon	AUX	_	_	3	cop	_	_	_
+5	,	,	PUNCT	_	_	6	punct	_	_	_
+6	batez	bat	NUM	_	_	3	obl	_	_	_
+7	ere	ere	CCONJ	_	_	6	fixed	_	_	_
+8	sukaldea	sukalde	NOUN	_	_	3	nsubj	_	_	3:targ
+9	.	.	PUNCT	_	_	3	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/poggio-imperiale-apartments_1-8
+# text = Komuna txikia da , baina pertsona birentzat nahikoa .
+1	Komuna	komuna	NOUN	_	_	2	nsubj	_	_	8:targ|2:targ
+2	txikia	txiki	ADJ	_	_	0	root	_	_	0:exp-Negative
+3	da	izan	AUX	_	_	2	cop	_	_	_
+4	,	,	PUNCT	_	_	8	punct	_	_	_
+5	baina	baina	CCONJ	_	_	8	cc	_	_	_
+6	pertsona	pertsona	NOUN	_	_	8	obl	_	_	8:exp-Positive
+7	birentzat	biren	ADJ	_	_	6	amod	_	_	8:exp-Positive
+8	nahikoa	nahikoa	ADV	_	_	3	conj	_	_	0:exp-Positive
+9	.	.	PUNCT	_	_	2	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/Pagorriaga_2-1
+# text = Pasa den aste bukaeran Pagorriagan egon naiz , eta aukera izan dut Agustin bertako jabea ez ezik , beste landetxe eta nekazalturismoetako arduradunak ere ezagutzeko : Uxarteko Gotzone , Txopebentako Arantza , Bisaldeko Miren .
+1	Pasa	pasatu	VERB	_	_	3	acl	_	_	_
+2	den	izan	AUX	_	_	1	aux	_	_	_
+3	aste	aste	NOUN	_	_	6	obl	_	_	_
+4	bukaeran	bukaera	NOUN	_	_	6	obl	_	_	_
+5	Pagorriagan	Pagorriaga	PROPN	_	_	6	obl	_	_	_
+6	egon	egon	VERB	_	_	0	root	_	_	_
+7	naiz	izan	AUX	_	_	6	aux	_	_	_
+8	,	,	PUNCT	_	_	11	punct	_	_	_
+9	eta	eta	CCONJ	_	_	11	cc	_	_	_
+10	aukera	aukera	NOUN	_	_	11	obj	_	_	_
+11	izan	izan	VERB	_	_	6	conj	_	_	_
+12	dut	edun	AUX	_	_	11	aux	_	_	_
+13	Agustin	Agustin	PROPN	_	_	15	nmod	_	_	_
+14	bertako	bertako	ADJ	_	_	15	amod	_	_	_
+15	jabea	jabe	NOUN	_	_	11	obj	_	_	_
+16	ez	ez	PART	_	_	17	compound	_	_	_
+17	ezik	ezik	CCONJ	_	_	11	advmod	_	_	_
+18	,	,	PUNCT	_	_	17	punct	_	_	_
+19	beste	beste	DET	_	_	20	det	_	_	_
+20	landetxe	landetxe	NOUN	_	_	23	nmod	_	_	_
+21	eta	eta	CCONJ	_	_	23	cc	_	_	_
+22	nekazalturismoetako	nekazalturismo	NOUN	_	_	23	nmod	_	_	_
+23	arduradunak	arduradun	NOUN	_	_	15	conj	_	_	_
+24	ere	ere	CCONJ	_	_	25	advmod	_	_	_
+25	ezagutzeko	ezagutu	VERB	_	_	11	xcomp	_	_	_
+26	:	:	PUNCT	_	_	28	punct	_	_	_
+27	Uxarteko	Uxart	PROPN	_	_	28	nmod	_	_	_
+28	Gotzone	Gotzone	PROPN	_	_	25	obj	_	_	_
+29	,	,	PUNCT	_	_	30	punct	_	_	_
+30	Txopebentako	Txopeb	PROPN	_	_	28	conj	_	_	_
+31	Arantza	Arantza	PROPN	_	_	28	conj	_	_	_
+32	,	,	PUNCT	_	_	34	punct	_	_	_
+33	Bisaldeko	bisalde	NOUN	_	_	34	nmod	_	_	_
+34	Miren	Miren	PROPN	_	_	28	conj	_	_	_
+35	.	.	PUNCT	_	_	6	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/Pagorriaga_2-2
+# text = Jarduera beraientzat prestatuta zeukan Agustinek , baina niri ere utzi didate tailerrean parte hartzen eta zoragarri pasa dugu !! .
+1	Jarduera	jarduera	NOUN	_	_	3	obj	_	_	_
+2	beraientzat	beraiek	PRON	_	_	3	obl	_	_	_
+3	prestatuta	prestatu	VERB	_	_	4	advcl	_	_	_
+4	zeukan	eduki	VERB	_	_	0	root	_	_	_
+5	Agustinek	Agustin	PROPN	_	_	4	nsubj	_	_	_
+6	,	,	PUNCT	_	_	10	punct	_	_	_
+7	baina	baina	CCONJ	_	_	10	cc	_	_	_
+8	niri	ni	PRON	_	_	10	iobj	_	_	_
+9	ere	ere	CCONJ	_	_	10	advmod	_	_	_
+10	utzi	utzi	VERB	_	_	4	conj	_	_	_
+11	didate	edun	AUX	_	_	10	aux	_	_	_
+12	tailerrean	tailer	NOUN	_	_	14	obl	_	_	_
+13	parte	parte	NOUN	_	_	14	compound	_	_	_
+14	hartzen	hartu	VERB	_	_	10	advcl	_	_	_
+15	eta	eta	CCONJ	_	_	17	cc	_	_	_
+16	zoragarri	zoragarri	ADJ	_	_	17	obl	_	_	19:exp-Positive
+17	pasa	pasatu	VERB	_	_	4	conj	_	_	19:exp-Positive
+18	dugu	edun	AUX	_	_	17	aux	_	_	19:holder
+19	!!	!!	PUNCT	_	_	4	punct	_	_	0:exp-Positive
+20	.	.	PUNCT	_	_	4	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/Pagorriaga_2-3
+# text = Larunbatean eguraldi ona izan genuen Pagorriko paraje ederrez gozatzeko , eta igandean , euria ari zuenez , ederki egon ginen etxean ( meditazioan , dantzan , masajeak elkarri ematen , eta Gotzonek prestatutako bazkari goxoa jaten ) .
+1	Larunbatean	larunbat	NOUN	_	_	4	obl	_	_	_
+2	eguraldi	eguraldi	NOUN	_	_	4	obj	_	_	_
+3	ona	on	ADJ	_	_	2	amod	_	_	_
+4	izan	izan	VERB	_	_	0	root	_	_	_
+5	genuen	edun	AUX	_	_	4	aux	_	_	_
+6	Pagorriko	Pagorri	PROPN	_	_	7	nmod	_	_	7:targ
+7	paraje	paraje	NOUN	_	_	9	obl	_	_	8:targ
+8	ederrez	eder	ADJ	_	_	7	amod	_	_	0:exp-Positive
+9	gozatzeko	gozatu	VERB	_	_	4	advcl	_	_	_
+10	,	,	PUNCT	_	_	19	punct	_	_	_
+11	eta	eta	CCONJ	_	_	19	cc	_	_	_
+12	igandean	igande	NOUN	_	_	16	obl	_	_	_
+13	,	,	PUNCT	_	_	12	punct	_	_	_
+14	euria	euri	NOUN	_	_	16	obj	_	_	_
+15	ari	ari	AUX	_	_	16	aux	_	_	_
+16	zuenez	ukan	VERB	_	_	19	advcl	_	_	_
+17	,	,	PUNCT	_	_	16	punct	_	_	_
+18	ederki	ederki	ADV	_	_	19	advmod	_	_	19:exp-Positive
+19	egon	egon	VERB	_	_	4	conj	_	_	0:exp-Positive
+20	ginen	izan	AUX	_	_	19	aux	_	_	19:holder
+21	etxean	etxe	NOUN	_	_	19	obl	_	_	19:targ
+22	(	(	PUNCT	_	_	23	punct	_	_	_
+23	meditazioan	meditazio	NOUN	_	_	19	obl	_	_	_
+24	,	,	PUNCT	_	_	25	punct	_	_	_
+25	dantzan	dantza	NOUN	_	_	23	conj	_	_	_
+26	,	,	PUNCT	_	_	25	punct	_	_	_
+27	masajeak	masaje	NOUN	_	_	29	obj	_	_	_
+28	elkarri	elkar	PRON	_	_	29	iobj	_	_	_
+29	ematen	eman	VERB	_	_	19	advcl	_	_	_
+30	,	,	PUNCT	_	_	36	punct	_	_	_
+31	eta	eta	CCONJ	_	_	36	cc	_	_	_
+32	Gotzonek	Gotzon	PROPN	_	_	33	nsubj	_	_	34:targ
+33	prestatutako	prestatu	VERB	_	_	34	advcl	_	_	34:targ
+34	bazkari	bazkari	NOUN	_	_	36	obj	_	_	35:targ
+35	goxoa	goxo	ADJ	_	_	34	amod	_	_	0:exp-Positive
+36	jaten	jan	VERB	_	_	29	conj	_	_	_
+37	)	)	PUNCT	_	_	4	punct	_	_	_
+38	.	.	PUNCT	_	_	4	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/Pagorriaga_2-4
+# text = Gomendatu egiten dizuet Pagorri , eta espero dut laster aukera izatea egin ditudan lagun berrien etxeak ezagutzeko ere : Uxarte , Txopebenta , Bisalde ... Haien berri emango dizuet joan bezain laster .
+1	Gomendatu	gomendatu	VERB	_	_	0	root	_	_	2:exp-Positive
+2	egiten	egin	VERB	_	_	1	compound	_	_	0:exp-Positive
+3	dizuet	edun	AUX	_	_	1	aux	_	_	2:holder
+4	Pagorri	Pagor	PROPN	_	_	1	iobj	_	_	2:targ
+5	,	,	PUNCT	_	_	8	punct	_	_	_
+6	eta	eta	CCONJ	_	_	8	cc	_	_	_
+7	espero	espero	NOUN	_	_	8	compound	_	_	_
+8	dut	ukan	VERB	_	_	1	conj	_	_	_
+9	laster	laster	ADV	_	_	12	advmod	_	_	_
+10	aukera	aukera	NOUN	_	_	11	obj	_	_	_
+11	izatea	izan	VERB	_	_	12	xcomp	_	_	_
+12	egin	egin	VERB	_	_	14	acl	_	_	_
+13	ditudan	edun	AUX	_	_	12	aux	_	_	_
+14	lagun	lagun	NOUN	_	_	16	nmod	_	_	_
+15	berrien	berri	ADJ	_	_	14	nmod	_	_	_
+16	etxeak	etxe	NOUN	_	_	17	obj	_	_	_
+17	ezagutzeko	ezagutu	VERB	_	_	8	xcomp	_	_	_
+18	ere	ere	CCONJ	_	_	17	advmod	_	_	_
+19	:	:	PUNCT	_	_	20	punct	_	_	_
+20	Uxarte	Uxarte	PROPN	_	_	28	nsubj	_	_	_
+21	,	,	PUNCT	_	_	22	punct	_	_	_
+22	Txopebenta	Txopebenta	PROPN	_	_	20	conj	_	_	_
+23	,	,	PUNCT	_	_	24	punct	_	_	_
+24	Bisalde	Bisalde	PROPN	_	_	20	conj	_	_	_
+25	...	...	PUNCT	_	_	20	punct	_	_	_
+26	Haien	haiek	DET	_	_	27	nmod	_	_	_
+27	berri	berri	NOUN	_	_	28	obj	_	_	_
+28	emango	eman	VERB	_	_	1	conj	_	_	_
+29	dizuet	edun	AUX	_	_	28	aux	_	_	_
+30	joan	joan	VERB	_	_	31	advcl	_	_	_
+31	bezain	bezain	ADV	_	_	28	advmod	_	_	_
+32	laster	laster	ADV	_	_	28	advmod	_	_	_
+33	.	.	PUNCT	_	_	1	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/Pagorriaga_2-5
+# text = Eskumiñak hiruei !
+1	Eskumiñak	Eskumiña	PROPN	_	_	0	root	_	_	3:exp-Positive
+2	hiruei	hiruei	INTJ	_	_	1	discourse	_	_	_
+3	!	!	PUNCT	_	_	1	punct	_	_	0:exp-Positive
+
+# sent_id = multibooked/corpora/eu/Pagorriaga_2-6
+# text = Agurtzane
+1	Agurtzane	Agurtzane	PROPN	_	_	0	root	_	_	_
+
+# sent_id = multibooked/corpora/eu/airbnb-12941686_1-1
+# text = Etxea aurkitzea asko kostatu zitzaigun .
+1	Etxea	etxe	NOUN	_	_	2	obj	_	_	2:targ
+2	aurkitzea	aurkitu	VERB	_	_	4	xcomp	_	_	4:targ
+3	asko	asko	ADV	_	_	4	advmod	_	_	4:exp-Negative
+4	kostatu	kostatu	VERB	_	_	0	root	_	_	0:exp-Negative
+5	zitzaigun	izan	AUX	_	_	4	aux	_	_	4:holder
+6	.	.	PUNCT	_	_	4	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/airbnb-12941686_1-2
+# text = GPS-ak helbideko kalera arte eraman gintuen , baina behar genuen zenbakia aurkitzeko ... bertakoek ere ez zekiten .
+1	GPS-ak	GPS	PROPN	_	_	5	nsubj	_	_	_
+2	helbideko	helbide	NOUN	_	_	3	nmod	_	_	_
+3	kalera	kale	NOUN	_	_	5	obl	_	_	_
+4	arte	arte	ADP	_	_	3	case	_	_	_
+5	eraman	eraman	VERB	_	_	0	root	_	_	_
+6	gintuen	edun	AUX	_	_	5	aux	_	_	_
+7	,	,	PUNCT	_	_	10	punct	_	_	_
+8	baina	baina	CCONJ	_	_	10	cc	_	_	_
+9	behar	behar	NOUN	_	_	10	compound	_	_	_
+10	genuen	ukan	VERB	_	_	5	conj	_	_	_
+11	zenbakia	zenbaki	NOUN	_	_	12	obj	_	_	_
+12	aurkitzeko	aurkitu	VERB	_	_	10	advcl	_	_	_
+13	...	...	PUNCT	_	_	17	punct	_	_	_
+14	bertakoek	bertako	NOUN	_	_	17	nsubj	_	_	_
+15	ere	ere	CCONJ	_	_	17	advmod	_	_	_
+16	ez	ez	PART	_	_	17	advmod	_	_	_
+17	zekiten	jakin	VERB	_	_	5	conj	_	_	_
+18	.	.	PUNCT	_	_	5	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/airbnb-12941686_1-3
+# text = Etxe barrutian bi txakur handi dituzte .
+1	Etxe	etxe	NOUN	_	_	2	nmod	_	_	_
+2	barrutian	barruti	NOUN	_	_	6	obl	_	_	_
+3	bi	bi	NUM	_	_	4	nummod	_	_	_
+4	txakur	txakur	NOUN	_	_	6	obj	_	_	_
+5	handi	handi	ADJ	_	_	4	amod	_	_	_
+6	dituzte	ukan	VERB	_	_	0	root	_	_	_
+7	.	.	PUNCT	_	_	6	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/airbnb-12941686_1-4
+# text = Ez dira oldarkorrak , baina ume txikiekin joanda , errespetua ematen dute .
+1	Ez	ez	PART	_	_	3	advmod	_	_	_
+2	dira	izan	AUX	_	_	3	cop	_	_	_
+3	oldarkorrak	oldarkor	ADJ	_	_	0	root	_	_	_
+4	,	,	PUNCT	_	_	11	punct	_	_	_
+5	baina	baina	CCONJ	_	_	11	cc	_	_	_
+6	ume	ume	NOUN	_	_	8	obl	_	_	_
+7	txikiekin	txiki	ADJ	_	_	6	amod	_	_	_
+8	joanda	joan	VERB	_	_	11	advcl	_	_	_
+9	,	,	PUNCT	_	_	8	punct	_	_	_
+10	errespetua	errespetu	NOUN	_	_	11	obj	_	_	_
+11	ematen	eman	VERB	_	_	2	conj	_	_	_
+12	dute	edun	AUX	_	_	11	aux	_	_	_
+13	.	.	PUNCT	_	_	3	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/airbnb-12941686_1-5
+# text = Barrutian sartu behar genuen bakoitzean , txirrina jo beharrean gertatu ginen ; txakurrak libre baitzebiltzan .
+1	Barrutian	barruti	NOUN	_	_	2	obl	_	_	_
+2	sartu	sartu	VERB	_	_	4	xcomp	_	_	_
+3	behar	behar	NOUN	_	_	4	compound	_	_	_
+4	genuen	ukan	VERB	_	_	10	advcl	_	_	_
+5	bakoitzean	bakoitz	ADJ	_	_	4	obl	_	_	_
+6	,	,	PUNCT	_	_	4	punct	_	_	_
+7	txirrina	txirrin	NOUN	_	_	8	obj	_	_	_
+8	jo	jo	VERB	_	_	10	advcl	_	_	_
+9	beharrean	behar	NOUN	_	_	8	advcl	_	_	_
+10	gertatu	gertatu	VERB	_	_	0	root	_	_	_
+11	ginen	izan	AUX	_	_	10	aux	_	_	_
+12	;	;	PUNCT	_	_	15	punct	_	_	_
+13	txakurrak	txakur	NOUN	_	_	15	nsubj	_	_	_
+14	libre	libre	ADV	_	_	15	advmod	_	_	_
+15	baitzebiltzan	izan	VERB	_	_	10	advcl	_	_	_
+16	.	.	PUNCT	_	_	10	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/airbnb-12941686_1-6
+# text = Wifiarekin gorabeherak izan genituen .
+1	Wifiarekin	Wifia	PROPN	_	_	3	obl	_	_	2:targ
+2	gorabeherak	gorabehera	NOUN	_	_	3	obj	_	_	0:exp-Negative
+3	izan	izan	VERB	_	_	0	root	_	_	_
+4	genituen	edun	AUX	_	_	3	aux	_	_	2:holder
+5	.	.	PUNCT	_	_	3	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/airbnb-12941686_1-7
+# text = Etxekoandreak pasahitz okerra eman zigun eta zalantzak ditugu alokatutako etxean estaldurarik zegoen .
+1	Etxekoandreak	etxekoande	NOUN	_	_	4	nsubj	_	_	_
+2	pasahitz	pasahitz	NOUN	_	_	3	nmod	_	_	_
+3	okerra	oker	NOUN	_	_	4	obj	_	_	_
+4	eman	eman	VERB	_	_	0	root	_	_	_
+5	zigun	edun	AUX	_	_	4	aux	_	_	_
+6	eta	eta	CCONJ	_	_	8	cc	_	_	_
+7	zalantzak	zalantza	NOUN	_	_	8	obj	_	_	_
+8	ditugu	ukan	VERB	_	_	4	conj	_	_	_
+9	alokatutako	alokatu	VERB	_	_	10	advcl	_	_	_
+10	etxean	etxe	NOUN	_	_	12	obl	_	_	_
+11	estaldurarik	estaldura	NOUN	_	_	12	nsubj	_	_	_
+12	zegoen	egon	VERB	_	_	8	ccomp	_	_	_
+13	.	.	PUNCT	_	_	4	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/airbnb-12941686_1-8
+# text = Gure telefonoak ez zuen harrapatu .
+1	Gure	gu	PRON	_	_	2	nmod	_	_	_
+2	telefonoak	telefono	NOUN	_	_	5	nsubj	_	_	_
+3	ez	ez	PART	_	_	5	advmod	_	_	_
+4	zuen	edun	AUX	_	_	5	aux	_	_	_
+5	harrapatu	harrapatu	VERB	_	_	0	root	_	_	_
+6	.	.	PUNCT	_	_	5	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/airbnb-12941686_1-9
+# text = Iragarkian sarean ibiltzeko aukera agera da .
+1	Iragarkian	iragarki	NOUN	_	_	3	obl	_	_	_
+2	sarean	sare	NOUN	_	_	3	obl	_	_	_
+3	ibiltzeko	ibili	VERB	_	_	4	advcl	_	_	_
+4	aukera	aukera	NOUN	_	_	6	nsubj	_	_	_
+5	agera	agera	ADJ	_	_	4	amod	_	_	_
+6	da	izan	AUX	_	_	0	root	_	_	_
+7	.	.	PUNCT	_	_	6	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/airbnb-12941686_1-10
+# text = Azkenean , bere tableta utzi zigun , baina ez ginen oso ondo sentitu , beste baten gailua erabiltzeak beti ere errespetua ematen baitu .
+1	Azkenean	azkenean	ADV	_	_	5	advmod	_	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_	_
+3	bere	bera	DET	_	_	4	nmod	_	_	_
+4	tableta	tableta	NOUN	_	_	5	obj	_	_	_
+5	utzi	utzi	VERB	_	_	0	root	_	_	_
+6	zigun	edun	AUX	_	_	5	aux	_	_	_
+7	,	,	PUNCT	_	_	13	punct	_	_	_
+8	baina	baina	CCONJ	_	_	13	cc	_	_	_
+9	ez	ez	PART	_	_	13	advmod	_	_	13:exp-Negative
+10	ginen	izan	AUX	_	_	13	aux	_	_	13:holder
+11	oso	oso	ADV	_	_	12	advmod	_	_	13:exp-Negative
+12	ondo	ondo	ADV	_	_	13	advmod	_	_	13:exp-Negative
+13	sentitu	sentitu	VERB	_	_	5	conj	_	_	0:exp-Negative
+14	,	,	PUNCT	_	_	22	punct	_	_	_
+15	beste	beste	DET	_	_	17	det	_	_	_
+16	baten	bat	NUM	_	_	17	nmod	_	_	_
+17	gailua	gailu	NOUN	_	_	18	obj	_	_	_
+18	erabiltzeak	erabili	VERB	_	_	22	csubj	_	_	_
+19	beti	beti	ADV	_	_	22	advmod	_	_	_
+20	ere	ere	CCONJ	_	_	19	fixed	_	_	_
+21	errespetua	errespetu	NOUN	_	_	22	obj	_	_	_
+22	ematen	eman	VERB	_	_	13	advcl	_	_	_
+23	baitu	edun	AUX	_	_	22	aux	_	_	_
+24	.	.	PUNCT	_	_	5	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/airbnb-12941686_1-11
+# text = Bestela , etxea zabala da eta txukun zegoen .
+1	Bestela	bestela	CCONJ	_	_	4	advmod	_	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_	_
+3	etxea	etxe	NOUN	_	_	4	nsubj	_	_	4:targ|7:targ
+4	zabala	zabal	ADJ	_	_	0	root	_	_	0:exp-Positive
+5	da	izan	AUX	_	_	4	cop	_	_	_
+6	eta	eta	CCONJ	_	_	7	cc	_	_	_
+7	txukun	txukun	ADJ	_	_	5	conj	_	_	0:exp-Positive
+8	zegoen	egon	AUX	_	_	7	cop	_	_	_
+9	.	.	PUNCT	_	_	4	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/evora_1-1
+# text = Zerbait jartzeagatik .
+1	Zerbait	zerbait	PRON	_	_	2	obj	_	_	_
+2	jartzeagatik	jarri	VERB	_	_	0	root	_	_	_
+3	.	.	PUNCT	_	_	2	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/evora_1-2
+# text = Kanpoko igerilekuko uraren tenperatura .
+1	Kanpoko	kanpoko	ADJ	_	_	2	amod	_	_	_
+2	igerilekuko	igerileku	NOUN	_	_	3	nmod	_	_	_
+3	uraren	ur	NOUN	_	_	4	nmod	_	_	_
+4	tenperatura	tenperatura	NOUN	_	_	0	root	_	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/evora_1-3
+# text = Hotz xamarra zegoen .
+1	Hotz	hotz	ADJ	_	_	2	obl	_	_	2:exp-Negative
+2	xamarra	xamar	ADJ	_	_	0	root	_	_	0:exp-Negative
+3	zegoen	egon	AUX	_	_	2	cop	_	_	_
+4	.	.	PUNCT	_	_	2	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/evora_1-4
+# text = Logela erosoak terrazarekin .
+1	Logela	logela	NOUN	_	_	0	root	_	_	2:targ|3:targ
+2	erosoak	eroso	ADJ	_	_	1	amod	_	_	0:exp-Positive
+3	terrazarekin	terraza	NOUN	_	_	1	obl	_	_	0:exp-Positive
+4	.	.	PUNCT	_	_	1	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/evora_1-5
+# text = Igerilekua eta Evora ikusten ziren terrazatik .
+1	Igerilekua	igerileku	NOUN	_	_	4	nsubj	_	_	_
+2	eta	eta	CCONJ	_	_	3	cc	_	_	_
+3	Evora	Evora	PROPN	_	_	1	conj	_	_	_
+4	ikusten	ikusi	VERB	_	_	0	root	_	_	_
+5	ziren	izan	AUX	_	_	4	aux	_	_	_
+6	terrazatik	terraza	NOUN	_	_	4	obl	_	_	_
+7	.	.	PUNCT	_	_	4	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/evora_1-6
+# text = Doako aparkalekua .
+1	Doako	doa	NOUN	_	_	2	nmod	_	_	0:exp-Positive
+2	aparkalekua	aparkaleku	NOUN	_	_	0	root	_	_	1:targ
+3	.	.	PUNCT	_	_	2	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/evora_1-7
+# text = Kanpoko igerilekua eta berdegunea oso atseginak .
+1	Kanpoko	kanpoko	ADJ	_	_	2	amod	_	_	2:targ
+2	igerilekua	igerileku	NOUN	_	_	6	nsubj	_	_	6:targ
+3	eta	eta	CCONJ	_	_	4	cc	_	_	_
+4	berdegunea	berdegune	NOUN	_	_	2	conj	_	_	6:targ
+5	oso	oso	ADV	_	_	6	advmod	_	_	6:exp-Positive|6:exp-Positive
+6	atseginak	atsegin	ADJ	_	_	0	root	_	_	0:exp-Positive|0:exp-Positive
+7	.	.	PUNCT	_	_	6	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/evora_1-8
+# text = Barruko igerilekua eta sauna erabili genituen .
+1	Barruko	barru	NOUN	_	_	2	nmod	_	_	_
+2	igerilekua	igerileku	NOUN	_	_	5	obj	_	_	_
+3	eta	eta	CCONJ	_	_	4	cc	_	_	_
+4	sauna	saun	NOUN	_	_	2	conj	_	_	_
+5	erabili	erabili	VERB	_	_	0	root	_	_	_
+6	genituen	edun	AUX	_	_	5	aux	_	_	_
+7	.	.	PUNCT	_	_	5	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/evora_1-9
+# text = Egunaren amaieran haurrak joaten direnean oso gune lasaia izaten da .
+1	Egunaren	egun	NOUN	_	_	2	nmod	_	_	_
+2	amaieran	amaiera	NOUN	_	_	4	obl	_	_	_
+3	haurrak	haur	NOUN	_	_	4	nsubj	_	_	_
+4	joaten	joan	VERB	_	_	7	advcl	_	_	_
+5	direnean	izan	AUX	_	_	4	aux	_	_	_
+6	oso	oso	ADV	_	_	8	advmod	_	_	8:exp-Positive
+7	gune	gune	NOUN	_	_	0	root	_	_	8:targ
+8	lasaia	lasai	ADJ	_	_	7	amod	_	_	0:exp-Positive
+9	izaten	izan	AUX	_	_	7	cop	_	_	_
+10	da	izan	AUX	_	_	7	aux	_	_	_
+11	.	.	PUNCT	_	_	7	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/evora_1-10
+# text = Bi gauetan hotelean afaldu genuen .
+1	Bi	bi	NUM	_	_	2	nummod	_	_	_
+2	gauetan	gau	NOUN	_	_	4	obl	_	_	_
+3	hotelean	hotel	NOUN	_	_	4	obl	_	_	_
+4	afaldu	afaldu	VERB	_	_	0	root	_	_	_
+5	genuen	edun	AUX	_	_	4	aux	_	_	_
+6	.	.	PUNCT	_	_	4	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/evora_1-11
+# text = Hasierakoak eta entsaladak aukeragai dituzu ( buffeta ) eta baita azken burukoak ( buffeta ) .
+1	Hasierakoak	hasiera	NOUN	_	_	4	obj	_	_	_
+2	eta	eta	CCONJ	_	_	3	cc	_	_	_
+3	entsaladak	entsalada	NOUN	_	_	1	conj	_	_	_
+4	aukeragai	aukeragai	NOUN	_	_	0	root	_	_	_
+5	dituzu	edun	AUX	_	_	4	aux	_	_	_
+6	(	(	PUNCT	_	_	7	punct	_	_	_
+7	buffeta	buffeta	NOUN	_	_	1	appos	_	_	_
+8	)	)	PUNCT	_	_	7	punct	_	_	_
+9	eta	eta	CCONJ	_	_	10	cc	_	_	_
+10	baita	izan	VERB	_	_	4	conj	_	_	_
+11	azken	azken	ADJ	_	_	12	amod	_	_	_
+12	burukoak	buru	NOUN	_	_	10	nsubj	_	_	_
+13	(	(	PUNCT	_	_	14	punct	_	_	_
+14	buffeta	buffeta	NOUN	_	_	12	appos	_	_	_
+15	)	)	PUNCT	_	_	14	punct	_	_	_
+16	.	.	PUNCT	_	_	4	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/evora_1-12
+# text = Egunero tartekoak aldatzen dituzte , hau da plater nagusiak .
+1	Egunero	egunero	ADV	_	_	3	advmod	_	_	_
+2	tartekoak	tarte	NOUN	_	_	3	obj	_	_	_
+3	aldatzen	aldatu	VERB	_	_	0	root	_	_	_
+4	dituzte	edun	AUX	_	_	3	aux	_	_	_
+5	,	,	PUNCT	_	_	8	punct	_	_	_
+6	hau	hau	DET	_	_	8	nsubj	_	_	_
+7	da	izan	AUX	_	_	8	cop	_	_	_
+8	plater	plater	NOUN	_	_	3	conj	_	_	_
+9	nagusiak	nagusi	ADJ	_	_	8	amod	_	_	_
+10	.	.	PUNCT	_	_	3	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/evora_1-13
+# text = Horiek bai 2 edo 3 izaten dira .
+1	Horiek	horiek	DET	_	_	3	nsubj	_	_	_
+2	bai	bai	PART	_	_	5	cc	_	_	_
+3	2	2	NUM	_	_	0	root	_	_	_
+4	edo	edo	CCONJ	_	_	5	cc	_	_	_
+5	3	3	NUM	_	_	3	conj	_	_	_
+6	izaten	izan	AUX	_	_	3	cop	_	_	_
+7	dira	izan	AUX	_	_	6	aux	_	_	_
+8	.	.	PUNCT	_	_	3	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/evora_1-14
+# text = Jan guztia oso goxoa eta buffeta izateko kalitatezkoa .
+1	Jan	Jan	NOUN	_	_	4	nsubj	_	_	2:targ
+2	guztia	guzti	DET	_	_	1	det	_	_	4:targ
+3	oso	oso	ADV	_	_	4	advmod	_	_	4:exp-Positive
+4	goxoa	goxo	ADJ	_	_	8	advcl	_	_	0:exp-Positive
+5	eta	eta	CCONJ	_	_	6	cc	_	_	_
+6	buffeta	buffeta	ADJ	_	_	4	conj	_	_	8:targ
+7	izateko	izan	AUX	_	_	6	cop	_	_	_
+8	kalitatezkoa	kalitatezko	NOUN	_	_	0	root	_	_	0:exp-Positive
+9	.	.	PUNCT	_	_	8	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/evora_1-15
+# text = Jatetxeko langileen jarrera oso atsegina .
+1	Jatetxeko	jatetxe	NOUN	_	_	2	nmod	_	_	3:targ
+2	langileen	langile	NOUN	_	_	3	nmod	_	_	3:targ
+3	jarrera	jarrera	NOUN	_	_	5	nsubj	_	_	5:targ
+4	oso	oso	ADV	_	_	5	advmod	_	_	5:exp-Positive
+5	atsegina	atsegin	ADJ	_	_	0	root	_	_	0:exp-Positive
+6	.	.	PUNCT	_	_	5	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/evora_1-16
+# text = Gosaria ondo baina beste munduko ezer .
+1	Gosaria	gosari	NOUN	_	_	6	nsubj	_	_	2:targ|6:targ
+2	ondo	ondo	ADV	_	_	6	advmod	_	_	0:exp-Positive
+3	baina	baina	CCONJ	_	_	5	cc	_	_	_
+4	beste	beste	DET	_	_	5	det	_	_	6:exp-Negative
+5	munduko	mundu	NOUN	_	_	6	nmod	_	_	6:exp-Negative
+6	ezer	ezer	PRON	_	_	0	root	_	_	0:exp-Negative
+7	.	.	PUNCT	_	_	6	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/evora_1-17
+# text = Zerbait gehiago espero genuen bezperako afariaren kalitatea ikusi ondoren .
+1	Zerbait	zerbait	PRON	_	_	4	obj	_	_	_
+2	gehiago	gehiago	DET	_	_	1	det	_	_	_
+3	espero	espero	NOUN	_	_	4	compound	_	_	_
+4	genuen	ukan	VERB	_	_	0	root	_	_	_
+5	bezperako	bezpe	NOUN	_	_	6	nmod	_	_	_
+6	afariaren	afari	NOUN	_	_	7	nmod	_	_	_
+7	kalitatea	kalitate	NOUN	_	_	8	obj	_	_	_
+8	ikusi	ikusi	VERB	_	_	4	advcl	_	_	_
+9	ondoren	ondoren	ADV	_	_	8	advcl	_	_	_
+10	.	.	PUNCT	_	_	4	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/evora_1-18
+# text = Hotelak lasai egoteko guneak ditu , barruan taberna , kanpoan terraza .
+1	Hotelak	hotel	NOUN	_	_	3	obj	_	_	5:targ
+2	lasai	lasai	ADV	_	_	3	advmod	_	_	5:exp-Positive
+3	egoteko	egon	VERB	_	_	4	advcl	_	_	5:exp-Positive
+4	guneak	gune	NOUN	_	_	5	obj	_	_	5:exp-Positive
+5	ditu	ukan	VERB	_	_	0	root	_	_	0:exp-Positive
+6	,	,	PUNCT	_	_	8	punct	_	_	_
+7	barruan	barru	NOUN	_	_	5	obl	_	_	_
+8	taberna	taberna	NOUN	_	_	5	obj	_	_	_
+9	,	,	PUNCT	_	_	11	punct	_	_	_
+10	kanpoan	kanpo	NOUN	_	_	8	conj	_	_	_
+11	terraza	terraza	NOUN	_	_	8	conj	_	_	_
+12	.	.	PUNCT	_	_	5	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/evora_1-19
+# text = Kanpoko terraza oso ondo dekoratuta dago eta gustura egoten da bertan zerbait hartzen .
+1	Kanpoko	kanpoko	ADJ	_	_	2	amod	_	_	2:targ|2:targ
+2	terraza	terraza	NOUN	_	_	5	nsubj	_	_	9:targ|5:targ
+3	oso	oso	ADV	_	_	4	advmod	_	_	5:exp-Positive
+4	ondo	ondo	ADV	_	_	5	advmod	_	_	5:exp-Positive
+5	dekoratuta	dekoratu	VERB	_	_	0	root	_	_	0:exp-Positive
+6	dago	egon	AUX	_	_	5	cop	_	_	_
+7	eta	eta	CCONJ	_	_	9	cc	_	_	_
+8	gustura	gustura	ADV	_	_	9	advmod	_	_	9:exp-Positive
+9	egoten	egon	VERB	_	_	6	conj	_	_	0:exp-Positive
+10	da	izan	AUX	_	_	9	aux	_	_	_
+11	bertan	bertan	ADV	_	_	13	advmod	_	_	_
+12	zerbait	zerbait	PRON	_	_	13	obj	_	_	_
+13	hartzen	hartu	VERB	_	_	9	advcl	_	_	_
+14	.	.	PUNCT	_	_	5	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/boullion_1-1
+# text = Apartamentua oso polita da .
+1	Apartamentua	apartamentu	NOUN	_	_	3	nsubj	_	_	3:targ
+2	oso	oso	ADV	_	_	3	advmod	_	_	3:exp-Positive
+3	polita	polit	ADJ	_	_	0	root	_	_	0:exp-Positive
+4	da	izan	AUX	_	_	3	cop	_	_	_
+5	.	.	PUNCT	_	_	3	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/boullion_1-2
+# text = Txukuna eta atsegina .
+1	Txukuna	txukun	ADJ	_	_	0	root	_	_	0:exp-Positive
+2	eta	eta	CCONJ	_	_	3	cc	_	_	_
+3	atsegina	atsegin	ADJ	_	_	1	conj	_	_	0:exp-Positive
+4	.	.	PUNCT	_	_	1	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/boullion_1-3
+# text = Kokapena ezin hobea ; zentroan eta edozein lekutara joateko komunikazio onarekin .
+1	Kokapena	kokapen	NOUN	_	_	3	nsubj	_	_	3:targ|11:targ|5:targ
+2	ezin	ezin	NOUN	_	_	3	obl	_	_	3:exp-Positive
+3	hobea	hobe	ADJ	_	_	0	root	_	_	0:exp-Positive
+4	;	;	PUNCT	_	_	9	punct	_	_	_
+5	zentroan	zentro	NOUN	_	_	9	obl	_	_	0:exp-Positive
+6	eta	eta	CCONJ	_	_	8	cc	_	_	_
+7	edozein	edozein	DET	_	_	8	det	_	_	_
+8	lekutara	lekuta	NOUN	_	_	5	conj	_	_	11:exp-Positive
+9	joateko	joan	VERB	_	_	3	advcl	_	_	11:exp-Positive
+10	komunikazio	komunikazio	NOUN	_	_	9	obl	_	_	11:exp-Positive
+11	onarekin	on	ADJ	_	_	10	amod	_	_	0:exp-Positive
+12	.	.	PUNCT	_	_	3	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/boullion_1-4
+# text = Metroa , tranbia eta autobusak bertan .
+1	Metroa	metro	NOUN	_	_	0	root	_	_	6:targ
+2	,	,	PUNCT	_	_	3	punct	_	_	_
+3	tranbia	tranbia	NOUN	_	_	1	conj	_	_	6:targ
+4	eta	eta	CCONJ	_	_	5	cc	_	_	_
+5	autobusak	autobus	NOUN	_	_	1	conj	_	_	6:targ
+6	bertan	bertan	ADV	_	_	5	nmod	_	_	0:exp-Positive|0:exp-Positive|0:exp-Positive
+7	.	.	PUNCT	_	_	1	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/boullion_1-5
+# text = Ederra !
+1	Ederra	eder	ADJ	_	_	0	root	_	_	2:exp-Positive
+2	!	!	PUNCT	_	_	1	punct	_	_	0:exp-Positive
+
+# sent_id = multibooked/corpora/eu/au-pa-c-rigord-noir_1-1
+# text = Atsedenaldiko geldialdia zen .
+1	Atsedenaldiko	atsedenaldi	NOUN	_	_	2	nmod	_	_	_
+2	geldialdia	geldialdi	NOUN	_	_	0	root	_	_	_
+3	zen	izan	AUX	_	_	2	cop	_	_	_
+4	.	.	PUNCT	_	_	2	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/au-pa-c-rigord-noir_1-2
+# text = Herritik 2-3 km dago hotela .
+1	Herritik	herri	NOUN	_	_	4	obl	_	_	_
+2	2-3	2-3	NUM	_	_	3	nummod	_	_	_
+3	km	km	NOUN	_	_	4	nsubj	_	_	_
+4	dago	egon	VERB	_	_	0	root	_	_	_
+5	hotela	hotel	NOUN	_	_	4	nsubj	_	_	_
+6	.	.	PUNCT	_	_	4	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/au-pa-c-rigord-noir_1-3
+# text = Gaztelua harrigarria eta herria oso ederra .
+1	Gaztelua	gaztelu	NOUN	_	_	2	nsubj	_	_	2:targ
+2	harrigarria	harrigarri	ADJ	_	_	0	root	_	_	0:exp-Positive
+3	eta	eta	CCONJ	_	_	4	cc	_	_	_
+4	herria	herri	NOUN	_	_	2	conj	_	_	6:targ
+5	oso	oso	ADV	_	_	6	advmod	_	_	6:exp-Positive
+6	ederra	eder	ADJ	_	_	2	conj	_	_	0:exp-Positive
+7	.	.	PUNCT	_	_	2	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/au-pa-c-rigord-noir_1-4
+# text = Hotelean dena ongi , ezin zaio gehiagorik eskatu .
+1	Hotelean	hotel	NOUN	_	_	6	obl	_	_	2:targ|2:targ
+2	dena	dena	DET	_	_	3	nsubj	_	_	8:targ|3:targ
+3	ongi	ongi	ADV	_	_	6	advmod	_	_	0:exp-Positive
+4	,	,	PUNCT	_	_	3	punct	_	_	_
+5	ezin	ezin	NOUN	_	_	6	compound	_	_	8:exp-Positive
+6	zaio	izan	VERB	_	_	0	root	_	_	8:exp-Positive
+7	gehiagorik	gehiago	DET	_	_	8	obj	_	_	8:exp-Positive
+8	eskatu	eskatu	VERB	_	_	6	xcomp	_	_	0:exp-Positive
+9	.	.	PUNCT	_	_	6	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/kris-alcala_1-1
+# text = Igerilekuan etzanda egoteko eserleku gutxi .
+1	Igerilekuan	igerileku	NOUN	_	_	2	obl	_	_	5:targ
+2	etzanda	etzan	VERB	_	_	4	advcl	_	_	_
+3	egoteko	egon	AUX	_	_	2	cop	_	_	5:exp-Negative
+4	eserleku	eserleku	NOUN	_	_	0	root	_	_	5:exp-Negative
+5	gutxi	gutxi	DET	_	_	4	det	_	_	0:exp-Negative
+6	.	.	PUNCT	_	_	4	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/kris-alcala_1-2
+# text = Herrigunetik urrun egotea .
+1	Herrigunetik	herrigun	NOUN	_	_	3	obl	_	_	3:exp-Negative
+2	urrun	urrun	ADP	_	_	1	case	_	_	3:exp-Negative
+3	egotea	egon	VERB	_	_	0	root	_	_	0:exp-Negative
+4	.	.	PUNCT	_	_	3	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/kris-alcala_1-3
+# text = Tren geltoki bat du 5 minutura eta berehala iristen da baina oinez oso urruti dago .
+1	Tren	tren	NOUN	_	_	2	nmod	_	_	3:targ
+2	geltoki	geltoki	NOUN	_	_	4	obj	_	_	3:targ
+3	bat	bat	NUM	_	_	2	nummod	_	_	6:targ
+4	du	ukan	VERB	_	_	0	root	_	_	6:exp-Positive
+5	5	5	NUM	_	_	6	nummod	_	_	6:exp-Positive
+6	minutura	minutu	NOUN	_	_	4	obl	_	_	0:exp-Positive
+7	eta	eta	CCONJ	_	_	9	cc	_	_	_
+8	berehala	berehala	ADV	_	_	9	advmod	_	_	10:exp-Positive
+9	iristen	iritsi	VERB	_	_	4	conj	_	_	10:exp-Positive
+10	da	izan	AUX	_	_	9	aux	_	_	0:exp-Positive
+11	baina	baina	CCONJ	_	_	15	cc	_	_	_
+12	oinez	oin	NOUN	_	_	15	obl	_	_	14:exp-Negative
+13	oso	oso	ADV	_	_	14	advmod	_	_	14:exp-Negative
+14	urruti	urruti	ADV	_	_	15	advmod	_	_	0:exp-Negative
+15	dago	egon	VERB	_	_	4	conj	_	_	_
+16	.	.	PUNCT	_	_	4	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/kris-alcala_1-4
+# text = Aireportutik 10-12 minututara dago .
+1	Aireportutik	aireportu	NOUN	_	_	4	obl	_	_	_
+2	10-12	10-12	NUM	_	_	3	nummod	_	_	_
+3	minututara	minutu	NOUN	_	_	4	obl	_	_	_
+4	dago	egon	VERB	_	_	0	root	_	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/kris-alcala_1-5
+# text = Gertutasun hau garrantzitsua da hurrengo egunean hegaldia baduzu .
+1	Gertutasun	gertutasun	NOUN	_	_	3	nsubj	_	_	2:targ
+2	hau	hau	DET	_	_	1	det	_	_	3:targ
+3	garrantzitsua	garrantzitsu	ADJ	_	_	0	root	_	_	0:exp-Positive
+4	da	izan	AUX	_	_	3	cop	_	_	_
+5	hurrengo	hurrengo	ADJ	_	_	6	amod	_	_	_
+6	egunean	egun	NOUN	_	_	8	obl	_	_	_
+7	hegaldia	hegaldi	NOUN	_	_	8	obj	_	_	_
+8	baduzu	ukan	VERB	_	_	3	advcl	_	_	_
+9	.	.	PUNCT	_	_	3	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/kris-alcala_1-6
+# text = Logela eta komuna handiak eta oso txukunak .
+1	Logela	logela	NOUN	_	_	0	root	_	_	4:targ|7:targ
+2	eta	eta	CCONJ	_	_	3	cc	_	_	_
+3	komuna	komun	NOUN	_	_	1	conj	_	_	4:targ|7:targ
+4	handiak	handi	ADJ	_	_	3	amod	_	_	0:exp-Positive|0:exp-Positive
+5	eta	eta	CCONJ	_	_	7	cc	_	_	_
+6	oso	oso	ADV	_	_	7	advmod	_	_	7:exp-Positive|7:exp-Positive
+7	txukunak	txukun	ADJ	_	_	4	conj	_	_	0:exp-Positive|0:exp-Positive
+8	.	.	PUNCT	_	_	7	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/kris-alcala_1-7
+# text = Gosaria zuzena eskaintzen duten preziorako .
+1	Gosaria	gosari	NOUN	_	_	3	obj	_	_	5:targ
+2	zuzena	zuzen	ADJ	_	_	1	amod	_	_	5:exp-Positive
+3	eskaintzen	eskaini	VERB	_	_	0	root	_	_	5:exp-Positive
+4	duten	edun	AUX	_	_	3	aux	_	_	5:exp-Positive
+5	preziorako	prezio	NOUN	_	_	3	obl	_	_	0:exp-Positive
+6	.	.	PUNCT	_	_	3	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/kris-alcala_1-8
+# text = Igerilekuan eremua txikia da baina uste baino atseginagoa ( argazkietan beste zerbait ematen zuen , ez zirudien belardirik zuenik ) .
+1	Igerilekuan	igerileku	NOUN	_	_	3	obl	_	_	8:targ|3:targ
+2	eremua	eremu	NOUN	_	_	3	nsubj	_	_	_
+3	txikia	txiki	ADJ	_	_	0	root	_	_	0:exp-Negative
+4	da	izan	AUX	_	_	3	cop	_	_	_
+5	baina	baina	CCONJ	_	_	8	cc	_	_	_
+6	uste	uste	NOUN	_	_	7	compound	_	_	8:exp-Positive
+7	baino	baino	ADV	_	_	8	advmod	_	_	8:exp-Positive
+8	atseginagoa	atsegin	ADJ	_	_	13	obj	_	_	0:exp-Positive
+9	(	(	PUNCT	_	_	13	punct	_	_	_
+10	argazkietan	argazki	NOUN	_	_	13	obl	_	_	_
+11	beste	beste	DET	_	_	12	det	_	_	_
+12	zerbait	zerbait	PRON	_	_	13	obj	_	_	_
+13	ematen	eman	VERB	_	_	4	conj	_	_	_
+14	zuen	edun	AUX	_	_	13	aux	_	_	_
+15	,	,	PUNCT	_	_	17	punct	_	_	_
+16	ez	ez	PART	_	_	17	advmod	_	_	_
+17	zirudien	iruditu	VERB	_	_	4	conj	_	_	_
+18	belardirik	belardi	NOUN	_	_	19	obj	_	_	_
+19	zuenik	edun	VERB	_	_	17	xcomp	_	_	_
+20	)	)	PUNCT	_	_	13	punct	_	_	_
+21	.	.	PUNCT	_	_	3	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/airbnb-4460897_1-1
+# text = Samira eta bere familiak oso ondo hartu gaituzte .
+1	Samira	Samira	PROPN	_	_	7	nsubj	_	_	7:targ
+2	eta	eta	CCONJ	_	_	4	cc	_	_	_
+3	bere	bera	DET	_	_	4	nmod	_	_	4:targ
+4	familiak	familia	NOUN	_	_	1	conj	_	_	7:targ
+5	oso	oso	ADV	_	_	6	advmod	_	_	7:exp-Positive|7:exp-Positive
+6	ondo	ondo	ADV	_	_	7	advmod	_	_	7:exp-Positive|7:exp-Positive
+7	hartu	hartu	VERB	_	_	0	root	_	_	0:exp-Positive|0:exp-Positive
+8	gaituzte	edun	AUX	_	_	7	aux	_	_	7:holder|7:holder
+9	.	.	PUNCT	_	_	7	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/airbnb-4460897_1-2
+# text = Etxea Arles bertatik aparte samar dago , eta guk horregatik aukeratu genuen , gero aparkaleku arazorik ez izateko .
+1	Etxea	etxe	NOUN	_	_	6	nsubj	_	_	5:targ|11:targ|18:targ
+2	Arles	Arles	PROPN	_	_	6	nsubj	_	_	5:exp-Negative
+3	bertatik	bertatik	ADV	_	_	6	advmod	_	_	5:exp-Negative
+4	aparte	aparte	ADV	_	_	6	advmod	_	_	5:exp-Negative
+5	samar	samar	ADV	_	_	6	advmod	_	_	0:exp-Negative
+6	dago	egon	VERB	_	_	0	root	_	_	_
+7	,	,	PUNCT	_	_	11	punct	_	_	_
+8	eta	eta	CCONJ	_	_	11	cc	_	_	_
+9	guk	gu	PRON	_	_	11	nsubj	_	_	12:holder|12:holder|12:holder
+10	horregatik	horregatik	ADV	_	_	11	advmod	_	_	11:exp-Positive
+11	aukeratu	aukeratu	VERB	_	_	6	conj	_	_	0:exp-Positive
+12	genuen	edun	AUX	_	_	11	aux	_	_	5:holder|11:holder|18:holder
+13	,	,	PUNCT	_	_	18	punct	_	_	_
+14	gero	gero	ADV	_	_	18	advmod	_	_	_
+15	aparkaleku	aparkaleku	NOUN	_	_	16	nmod	_	_	18:exp-Positive
+16	arazorik	arazo	NOUN	_	_	18	obj	_	_	18:exp-Positive
+17	ez	ez	PART	_	_	18	advmod	_	_	18:exp-Positive
+18	izateko	izan	VERB	_	_	11	advcl	_	_	0:exp-Positive
+19	.	.	PUNCT	_	_	6	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/airbnb-4460897_1-3
+# text = Autoz 5 minututan iristen da bertara .
+1	Autoz	auto	NOUN	_	_	4	obl	_	_	5:exp-Positive
+2	5	5	NUM	_	_	3	nummod	_	_	5:exp-Positive
+3	minututan	minutu	NOUN	_	_	4	obl	_	_	5:exp-Positive
+4	iristen	iritsi	VERB	_	_	0	root	_	_	5:exp-Positive
+5	da	izan	AUX	_	_	4	aux	_	_	0:exp-Positive
+6	bertara	bertara	ADV	_	_	4	advmod	_	_	_
+7	.	.	PUNCT	_	_	4	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/airbnb-4460897_1-4
+# text = Bestela , etxea iragarkian ageri den bezalaxe topatu dugu : ondo eta egoki .
+1	Bestela	bestela	CCONJ	_	_	8	advmod	_	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_	_
+3	etxea	etxe	NOUN	_	_	6	nsubj	_	_	13:targ|7:targ|11:targ
+4	iragarkian	iragarki	NOUN	_	_	6	obl	_	_	7:exp-Positive
+5	ageri	ageri	ADJ	_	_	6	compound	_	_	7:exp-Positive
+6	den	izan	VERB	_	_	8	ccomp	_	_	7:exp-Positive
+7	bezalaxe	bezalaxe	ADV	_	_	8	advmod	_	_	0:exp-Positive
+8	topatu	topatu	VERB	_	_	0	root	_	_	_
+9	dugu	edun	AUX	_	_	8	aux	_	_	_
+10	:	:	PUNCT	_	_	11	punct	_	_	_
+11	ondo	ondo	ADV	_	_	8	advmod	_	_	0:exp-Positive
+12	eta	eta	CCONJ	_	_	13	cc	_	_	_
+13	egoki	egoki	ADV	_	_	11	conj	_	_	0:exp-Positive
+14	.	.	PUNCT	_	_	8	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/maison-aretxola-Gorka_1-1
+# text = Ezin da txartelagaz ordaindu Gosaria
+1	Ezin	ezin	NOUN	_	_	2	compound	_	_	4:exp-Negative
+2	da	izan	VERB	_	_	0	root	_	_	4:exp-Negative
+3	txartelagaz	txartel	NOUN	_	_	4	obl	_	_	4:exp-Negative
+4	ordaindu	ordaindu	VERB	_	_	2	csubj	_	_	0:exp-Negative
+5	Gosaria	gosari	ADJ	_	_	4	obj	_	_	_
+
+# sent_id = multibooked/corpora/eu/101_Guesthouse_reykyavik_1-1
+# text = Harreran zeuden langileen arreta ez zen onena izan .
+1	Harreran	harrera	NOUN	_	_	2	obl	_	_	4:targ
+2	zeuden	egon	VERB	_	_	3	acl	_	_	4:targ
+3	langileen	langile	NOUN	_	_	4	nmod	_	_	4:targ
+4	arreta	arreta	NOUN	_	_	7	nsubj	_	_	8:targ
+5	ez	ez	PART	_	_	7	advmod	_	_	8:exp-Negative
+6	zen	izan	AUX	_	_	7	aux	_	_	8:exp-Negative
+7	onena	on	ADJ	_	_	0	root	_	_	8:exp-Negative
+8	izan	izan	AUX	_	_	7	cop	_	_	0:exp-Negative
+9	.	.	PUNCT	_	_	7	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/101_Guesthouse_reykyavik_1-2
+# text = Zentrotik hurbil , wifi konexio bikaina eta nahiko hotel erosoa .
+1	Zentrotik	zentro	NOUN	_	_	9	obl	_	_	2:exp-Positive
+2	hurbil	hurbil	ADP	_	_	1	case	_	_	0:exp-Positive
+3	,	,	PUNCT	_	_	1	punct	_	_	_
+4	wifi	wifi	NOUN	_	_	5	nmod	_	_	5:targ
+5	konexio	konexio	NOUN	_	_	0	root	_	_	6:targ
+6	bikaina	bikain	ADJ	_	_	5	amod	_	_	0:exp-Positive
+7	eta	eta	CCONJ	_	_	9	cc	_	_	_
+8	nahiko	nahiko	ADV	_	_	10	advmod	_	_	10:exp-Positive
+9	hotel	hotel	NOUN	_	_	5	conj	_	_	10:targ
+10	erosoa	eroso	ADJ	_	_	9	amod	_	_	0:exp-Positive
+11	.	.	PUNCT	_	_	9	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/101_Guesthouse_reykyavik_1-3
+# text = Nahiz eta bi pertsona izan , lau pertsonetarako logela batean jarri ziguten , jende gehiagorik gabe .
+1	Nahiz	nahiz	CCONJ	_	_	5	advmod	_	_	_
+2	eta	eta	CCONJ	_	_	5	cc	_	_	_
+3	bi	bi	NUM	_	_	4	nummod	_	_	_
+4	pertsona	pertsona	NOUN	_	_	5	obj	_	_	_
+5	izan	izan	VERB	_	_	0	root	_	_	_
+6	,	,	PUNCT	_	_	11	punct	_	_	_
+7	lau	lau	NUM	_	_	8	nummod	_	_	_
+8	pertsonetarako	pertsona	NOUN	_	_	9	nmod	_	_	_
+9	logela	logela	NOUN	_	_	11	obl	_	_	_
+10	batean	bat	NUM	_	_	9	nummod	_	_	_
+11	jarri	jarri	VERB	_	_	5	conj	_	_	_
+12	ziguten	edun	AUX	_	_	11	aux	_	_	_
+13	,	,	PUNCT	_	_	14	punct	_	_	_
+14	jende	jende	NOUN	_	_	11	obl	_	_	_
+15	gehiagorik	gehiago	DET	_	_	14	det	_	_	_
+16	gabe	gabe	ADP	_	_	15	case	_	_	_
+17	.	.	PUNCT	_	_	5	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/mendieta-etxea_1-1
+# text = Oso gomendagarria .
+1	Oso	oso	ADV	_	_	2	advmod	_	_	2:exp-Positive
+2	gomendagarria	gomendagarri	ADJ	_	_	0	root	_	_	0:exp-Positive
+3	.	.	PUNCT	_	_	2	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/mendieta-etxea_1-2
+# text = Benetan toki atsegina eta atentzioa ezin hobea .
+1	Benetan	benetan	ADV	_	_	6	advmod	_	_	3:exp-Positive
+2	toki	toki	NOUN	_	_	6	obj	_	_	3:targ
+3	atsegina	atsegin	ADJ	_	_	2	amod	_	_	0:exp-Positive
+4	eta	eta	CCONJ	_	_	5	cc	_	_	_
+5	atentzioa	atentzio	NOUN	_	_	2	conj	_	_	7:targ
+6	ezin	ezin	NOUN	_	_	0	root	_	_	7:exp-Positive
+7	hobea	hobe	ADJ	_	_	2	amod	_	_	0:exp-Positive
+8	.	.	PUNCT	_	_	6	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/mendieta-etxea_1-3
+# text = Mila esker !
+1	Mila	mila	NUM	_	_	2	nummod	_	_	3:exp-Positive
+2	esker	esker	NOUN	_	_	0	root	_	_	3:exp-Positive
+3	!	!	PUNCT	_	_	2	punct	_	_	0:exp-Positive
+
+# sent_id = multibooked/corpora/eu/katxenea-endika_1-1
+# text = Kaixo !
+1	Kaixo	kaixo	INTJ	_	_	0	root	_	_	_
+2	!	!	PUNCT	_	_	1	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/katxenea-endika_1-2
+# text = Etxea izugarria da , obra duela gutxi egin dute , kriston gusto onarekin .
+1	Etxea	etxe	NOUN	_	_	2	nsubj	_	_	2:targ|13:targ|8:targ
+2	izugarria	izugarri	ADJ	_	_	0	root	_	_	0:exp-Positive
+3	da	izan	AUX	_	_	2	cop	_	_	_
+4	,	,	PUNCT	_	_	8	punct	_	_	_
+5	obra	obra	NOUN	_	_	8	obj	_	_	_
+6	duela	edun	AUX	_	_	8	aux	_	_	8:exp-Positive
+7	gutxi	gutxi	ADV	_	_	8	advmod	_	_	8:exp-Positive
+8	egin	egin	VERB	_	_	3	conj	_	_	0:exp-Positive
+9	dute	edun	AUX	_	_	8	aux	_	_	_
+10	,	,	PUNCT	_	_	12	punct	_	_	_
+11	kriston	kriston	NOUN	_	_	8	obl	_	_	13:exp-Positive
+12	gusto	gusto	NOUN	_	_	8	obl	_	_	13:exp-Positive
+13	onarekin	on	ADJ	_	_	12	amod	_	_	0:exp-Positive
+14	.	.	PUNCT	_	_	2	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/katxenea-endika_1-3
+# text = Etxe honetan behar duzun guztia aurkituko duzu .
+1	Etxe	etxe	NOUN	_	_	4	obl	_	_	2:targ
+2	honetan	hau	DET	_	_	1	det	_	_	6:targ
+3	behar	behar	NOUN	_	_	4	compound	_	_	6:exp-Positive
+4	duzun	edun	VERB	_	_	5	acl	_	_	6:exp-Positive
+5	guztia	guzti	DET	_	_	6	obj	_	_	6:exp-Positive
+6	aurkituko	aurkitu	VERB	_	_	0	root	_	_	0:exp-Positive
+7	duzu	edun	AUX	_	_	6	aux	_	_	_
+8	.	.	PUNCT	_	_	6	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/katxenea-endika_1-4
+# text = Gela bakoitzak bere komuna du , hau ezinhobea da !!
+1	Gela	gela	NOUN	_	_	5	nsubj	_	_	2:targ|2:targ
+2	bakoitzak	bakoitz	ADJ	_	_	1	amod	_	_	5:targ|10:targ
+3	bere	bera	DET	_	_	4	nmod	_	_	5:exp-Positive
+4	komuna	komun	NOUN	_	_	5	obj	_	_	5:exp-Positive
+5	du	ukan	VERB	_	_	0	root	_	_	0:exp-Positive
+6	,	,	PUNCT	_	_	8	punct	_	_	_
+7	hau	hau	DET	_	_	8	nsubj	_	_	_
+8	ezinhobea	ezinhobe	ADJ	_	_	5	conj	_	_	10:exp-Positive
+9	da	izan	AUX	_	_	8	cop	_	_	_
+10	!!	!!	PUNCT	_	_	5	punct	_	_	0:exp-Positive
+
+# sent_id = multibooked/corpora/eu/katxenea-endika_1-5
+# text = Oso gustora egon gara etxean .
+1	Oso	oso	ADV	_	_	2	advmod	_	_	3:exp-Positive
+2	gustora	gustura	ADV	_	_	3	advmod	_	_	3:exp-Positive
+3	egon	egon	VERB	_	_	0	root	_	_	0:exp-Positive
+4	gara	izan	AUX	_	_	3	aux	_	_	3:holder
+5	etxean	etxe	NOUN	_	_	3	obl	_	_	3:targ
+6	.	.	PUNCT	_	_	3	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/katxenea-endika_1-6
+# text = Inguru ikaragarria da , oso ibilbide polita eta errezak daude , baita ume txikiekin egiteko ere .
+1	Inguru	inguru	NOUN	_	_	0	root	_	_	2:targ
+2	ikaragarria	ikaragarri	ADJ	_	_	1	amod	_	_	0:exp-Positive
+3	da	izan	AUX	_	_	1	cop	_	_	_
+4	,	,	PUNCT	_	_	6	punct	_	_	_
+5	oso	oso	ADV	_	_	7	advmod	_	_	_
+6	ibilbide	ibilbide	NOUN	_	_	1	nsubj	_	_	_
+7	polita	polit	ADJ	_	_	6	amod	_	_	_
+8	eta	eta	CCONJ	_	_	9	cc	_	_	_
+9	errezak	errez	ADJ	_	_	7	conj	_	_	_
+10	daude	egon	AUX	_	_	6	cop	_	_	_
+11	,	,	PUNCT	_	_	15	punct	_	_	_
+12	baita	baita	CCONJ	_	_	15	cc	_	_	_
+13	ume	ume	NOUN	_	_	15	obl	_	_	_
+14	txikiekin	txiki	ADJ	_	_	13	amod	_	_	_
+15	egiteko	egin	VERB	_	_	10	conj	_	_	_
+16	ere	ere	CCONJ	_	_	15	advmod	_	_	_
+17	.	.	PUNCT	_	_	1	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/katxenea-endika_1-7
+# text = Eguraldi txarra izan dugu , baina sutondoan oso ongi igaro dugu asteburua .
+1	Eguraldi	eguraldi	NOUN	_	_	3	obj	_	_	_
+2	txarra	txar	ADJ	_	_	1	amod	_	_	_
+3	izan	izan	AUX	_	_	0	root	_	_	_
+4	dugu	edun	AUX	_	_	3	aux	_	_	_
+5	,	,	PUNCT	_	_	10	punct	_	_	_
+6	baina	baina	CCONJ	_	_	10	cc	_	_	_
+7	sutondoan	sutondo	NOUN	_	_	10	obl	_	_	12:exp-Positive
+8	oso	oso	ADV	_	_	9	advmod	_	_	12:exp-Positive
+9	ongi	ongi	ADV	_	_	10	advmod	_	_	12:exp-Positive
+10	igaro	igaro	VERB	_	_	3	conj	_	_	12:exp-Positive
+11	dugu	edun	AUX	_	_	10	aux	_	_	12:holder
+12	asteburua	asteburu	NOUN	_	_	10	obj	_	_	0:exp-Positive
+13	.	.	PUNCT	_	_	3	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/katxenea-endika_1-8
+# text = Maika oso jatorra da , denbora guztian laguntzeko prest .
+1	Maika	Maika	PROPN	_	_	3	nsubj	_	_	3:targ|9:targ
+2	oso	oso	ADV	_	_	3	advmod	_	_	3:exp-Positive
+3	jatorra	jator	ADJ	_	_	0	root	_	_	0:exp-Positive
+4	da	izan	AUX	_	_	3	cop	_	_	_
+5	,	,	PUNCT	_	_	9	punct	_	_	_
+6	denbora	denbora	NOUN	_	_	8	obl	_	_	9:exp-Positive
+7	guztian	guzti	DET	_	_	6	det	_	_	9:exp-Positive
+8	laguntzeko	lagundu	VERB	_	_	9	advcl	_	_	9:exp-Positive
+9	prest	prest	ADV	_	_	3	conj	_	_	0:exp-Positive
+10	.	.	PUNCT	_	_	3	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/katxenea-endika_1-9
+# text = Hark emandako aholkuak jarraitu ditugu eta oso ongi joan zaigu.Eta gainera , Mendukiloko kobazuloak ikusteko laguntza eman zigun .
+1	Hark	hura	DET	_	_	2	nsubj	_	_	_
+2	emandako	eman	VERB	_	_	3	advcl	_	_	_
+3	aholkuak	aholku	NOUN	_	_	4	obj	_	_	_
+4	jarraitu	jarraitu	VERB	_	_	0	root	_	_	_
+5	ditugu	edun	AUX	_	_	4	aux	_	_	_
+6	eta	eta	CCONJ	_	_	17	cc	_	_	_
+7	oso	oso	ADV	_	_	8	advmod	_	_	_
+8	ongi	ongi	ADV	_	_	9	advmod	_	_	_
+9	joan	joan	VERB	_	_	4	conj	_	_	_
+10	zaigu.Eta	edun	AUX	_	_	9	aux	_	_	_
+11	gainera	gainera	CCONJ	_	_	9	mark	_	_	_
+12	,	,	PUNCT	_	_	17	punct	_	_	_
+13	Mendukiloko	mendukilo	NOUN	_	_	14	nmod	_	_	17:exp-Positive
+14	kobazuloak	kobazulo	NOUN	_	_	15	obj	_	_	17:exp-Positive
+15	ikusteko	ikusi	VERB	_	_	16	advcl	_	_	17:exp-Positive
+16	laguntza	laguntza	NOUN	_	_	17	obj	_	_	17:exp-Positive
+17	eman	eman	VERB	_	_	4	conj	_	_	0:exp-Positive
+18	zigun	edun	AUX	_	_	17	aux	_	_	17:holder
+19	.	.	PUNCT	_	_	4	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/katxenea-endika_1-10
+# text = 3 bikote eta 4 ume egon gara , Otsailaren 27ko asteburuan .
+1	3	3	NUM	_	_	2	nummod	_	_	_
+2	bikote	bikote	NOUN	_	_	6	nsubj	_	_	_
+3	eta	eta	CCONJ	_	_	5	cc	_	_	_
+4	4	4	NUM	_	_	5	nummod	_	_	_
+5	ume	ume	NOUN	_	_	2	conj	_	_	_
+6	egon	egon	VERB	_	_	0	root	_	_	_
+7	gara	izan	AUX	_	_	6	aux	_	_	_
+8	,	,	PUNCT	_	_	11	punct	_	_	_
+9	Otsailaren	otsail	NOUN	_	_	10	nmod	_	_	_
+10	27ko	27	NUM	_	_	11	nmod	_	_	_
+11	asteburuan	asteburu	NOUN	_	_	6	obl	_	_	_
+12	.	.	PUNCT	_	_	6	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/katxenea-endika_1-11
+# text = Eskerrik asko !!
+1	Eskerrik	Eskerri	PROPN	_	_	2	nsubj	_	_	3:exp-Positive
+2	asko	asko	ADV	_	_	0	root	_	_	3:exp-Positive
+3	!!	!!	PUNCT	_	_	2	punct	_	_	0:exp-Positive
+
+# sent_id = multibooked/corpora/eu/casaruralennavarra-iristxu_1-1
+# text = Oso ondo pasatu dugu Ada , Luismi eta Aliziaren etxean .
+1	Oso	oso	ADV	_	_	2	advmod	_	_	3:exp-Positive
+2	ondo	ondo	ADV	_	_	3	advmod	_	_	3:exp-Positive
+3	pasatu	pasatu	VERB	_	_	0	root	_	_	0:exp-Positive
+4	dugu	edun	AUX	_	_	3	aux	_	_	3:holder
+5	Ada	Ada	PROPN	_	_	3	nsubj	_	_	_
+6	,	,	PUNCT	_	_	7	punct	_	_	_
+7	Luismi	Luismi	PROPN	_	_	5	conj	_	_	_
+8	eta	eta	CCONJ	_	_	9	cc	_	_	_
+9	Aliziaren	Alizia	PROPN	_	_	5	conj	_	_	_
+10	etxean	etxe	NOUN	_	_	3	obl	_	_	_
+11	.	.	PUNCT	_	_	3	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/casaruralennavarra-iristxu_1-2
+# text = Animaliak maitagarriarak dira eta eurekin asko jolastu gara .
+1	Animaliak	animalia	NOUN	_	_	2	nsubj	_	_	2:targ
+2	maitagarriarak	maitagarri	ADJ	_	_	0	root	_	_	0:exp-Positive
+3	dira	izan	AUX	_	_	2	cop	_	_	_
+4	eta	eta	CCONJ	_	_	7	cc	_	_	_
+5	eurekin	eurak	PRON	_	_	7	obl	_	_	_
+6	asko	asko	ADV	_	_	7	advmod	_	_	_
+7	jolastu	jolastu	VERB	_	_	3	conj	_	_	_
+8	gara	izan	AUX	_	_	7	aux	_	_	_
+9	.	.	PUNCT	_	_	2	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/casaruralennavarra-iristxu_1-3
+# text = Beste bat arte
+1	Beste	beste	DET	_	_	2	det	_	_	3:exp-Positive
+2	bat	bat	NUM	_	_	0	root	_	_	3:exp-Positive
+3	arte	arte	NOUN	_	_	2	nmod	_	_	0:exp-Positive
+
+# sent_id = multibooked/corpora/eu/catalonia-berlin-mitte_1-1
+# text = Ezer .
+1	Ezer	ezer	PRON	_	_	0	root	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/catalonia-berlin-mitte_1-2
+# text = Nada Kokapena .
+1	Nada	Nada	PROPN	_	_	2	nmod	_	_	_
+2	Kokapena	kokapen	NOUN	_	_	0	root	_	_	_
+3	.	.	PUNCT	_	_	2	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/catalonia-berlin-mitte_1-3
+# text = Alexanderplatzera iristeko metroan bigarren geldialdia da .
+1	Alexanderplatzera	alexanderplatu	VERB	_	_	2	obl	_	_	_
+2	iristeko	iritsi	VERB	_	_	3	advcl	_	_	_
+3	metroan	metro	NOUN	_	_	5	obl	_	_	_
+4	bigarren	bigarren	ADJ	_	_	5	amod	_	_	_
+5	geldialdia	geldialdi	NOUN	_	_	0	root	_	_	_
+6	da	izan	AUX	_	_	5	cop	_	_	_
+7	.	.	PUNCT	_	_	5	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/catalonia-berlin-mitte_1-4
+# text = Metroa hoteletik 25m-tara dago .
+1	Metroa	metro	NOUN	_	_	4	nsubj	_	_	3:targ
+2	hoteletik	hotel	NOUN	_	_	4	obl	_	_	3:exp-Positive
+3	25m-tara	25m-tara	ADV	_	_	4	advmod	_	_	0:exp-Positive
+4	dago	egon	VERB	_	_	0	root	_	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/catalonia-berlin-mitte_1-5
+# text = Oinez joan daiteke eta 15-20 minutu daude gehienez .
+1	Oinez	oinez	ADV	_	_	2	advmod	_	_	3:exp-Positive
+2	joan	joan	VERB	_	_	0	root	_	_	3:exp-Positive
+3	daiteke	edin	AUX	_	_	2	aux	_	_	0:exp-Positive
+4	eta	eta	CCONJ	_	_	7	cc	_	_	_
+5	15-20	15-20	NUM	_	_	6	nummod	_	_	_
+6	minutu	minutu	NOUN	_	_	7	nsubj	_	_	_
+7	daude	egon	VERB	_	_	2	conj	_	_	_
+8	gehienez	gehienez	ADV	_	_	7	advmod	_	_	_
+9	.	.	PUNCT	_	_	2	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/catalonia-berlin-mitte_1-6
+# text = Dena den aukera onena txirrindaz egitea da .
+1	Dena	dena	DET	_	_	6	nsubj	_	_	_
+2	den	izan	AUX	_	_	1	cop	_	_	_
+3	aukera	aukera	NOUN	_	_	6	obj	_	_	4:exp-Positive
+4	onena	on	ADJ	_	_	3	amod	_	_	0:exp-Positive
+5	txirrindaz	txirrinda	NOUN	_	_	6	obl	_	_	6:targ
+6	egitea	egin	VERB	_	_	0	root	_	_	4:targ
+7	da	izan	AUX	_	_	6	cop	_	_	_
+8	.	.	PUNCT	_	_	6	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/catalonia-berlin-mitte_1-7
+# text = 7 minututan Alexanderplatzen egon zintezke .
+1	7	7	NUM	_	_	2	nummod	_	_	_
+2	minututan	minutu	NOUN	_	_	3	obl	_	_	_
+3	Alexanderplatzen	alexanderplatu	VERB	_	_	4	advcl	_	_	_
+4	egon	egon	AUX	_	_	0	root	_	_	_
+5	zintezke	edin	AUX	_	_	4	aux	_	_	_
+6	.	.	PUNCT	_	_	4	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/catalonia-berlin-mitte_1-8
+# text = Txirrinda hotelean bertan aloka dezakezu 12 € tan eguna .
+1	Txirrinda	Txirrinda	PROPN	_	_	2	nmod	_	_	5:targ
+2	hotelean	hotel	NOUN	_	_	4	obl	_	_	5:exp-Positive
+3	bertan	bertan	ADV	_	_	4	advmod	_	_	5:exp-Positive
+4	aloka	aloka	VERB	_	_	0	root	_	_	5:exp-Positive
+5	dezakezu	ezan	AUX	_	_	4	aux	_	_	0:exp-Positive
+6	12	12	NUM	_	_	7	nummod	_	_	_
+7	€	€	NOUN	_	_	9	nmod	_	_	_
+8	tan	tan	NOUN	_	_	9	nmod	_	_	_
+9	eguna	egun	NOUN	_	_	4	obj	_	_	_
+10	.	.	PUNCT	_	_	4	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/catalonia-berlin-mitte_1-9
+# text = Hotela zoragarria da .
+1	Hotela	hotel	NOUN	_	_	2	nsubj	_	_	2:targ
+2	zoragarria	zoragarri	ADJ	_	_	0	root	_	_	0:exp-Positive
+3	da	izan	AUX	_	_	2	cop	_	_	_
+4	.	.	PUNCT	_	_	2	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/catalonia-berlin-mitte_1-10
+# text = Behekaldean dagoen taberna , egongela eta jatetxea eremu irekia eta zabala dira .
+1	Behekaldean	behekalde	NOUN	_	_	2	obl	_	_	3:targ|3:targ
+2	dagoen	egon	VERB	_	_	3	acl	_	_	3:targ|3:targ
+3	taberna	taberna	NOUN	_	_	8	nsubj	_	_	11:targ|9:targ
+4	,	,	PUNCT	_	_	5	punct	_	_	_
+5	egongela	egongela	NOUN	_	_	3	conj	_	_	11:targ|9:targ
+6	eta	eta	CCONJ	_	_	7	cc	_	_	_
+7	jatetxea	jatetxe	NOUN	_	_	3	conj	_	_	8:targ|8:targ
+8	eremu	eremu	NOUN	_	_	0	root	_	_	11:targ|9:targ
+9	irekia	ireki	VERB	_	_	8	nmod	_	_	0:exp-Positive|0:exp-Positive|0:exp-Positive
+10	eta	eta	CCONJ	_	_	11	cc	_	_	_
+11	zabala	zabal	ADJ	_	_	9	conj	_	_	0:exp-Positive|0:exp-Positive|0:exp-Positive
+12	dira	izan	AUX	_	_	8	cop	_	_	_
+13	.	.	PUNCT	_	_	8	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/catalonia-berlin-mitte_1-11
+# text = Dekorazio berezia du baina erakargarria .
+1	Dekorazio	dekorazio	NOUN	_	_	3	obj	_	_	2:targ|5:targ
+2	berezia	berezi	ADJ	_	_	1	amod	_	_	0:exp-Negative
+3	du	ukan	VERB	_	_	0	root	_	_	_
+4	baina	baina	CCONJ	_	_	5	cc	_	_	_
+5	erakargarria	erakargarri	ADJ	_	_	3	conj	_	_	0:exp-Positive
+6	.	.	PUNCT	_	_	3	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/catalonia-berlin-mitte_1-12
+# text = Logela ixila eta erosoa .
+1	Logela	logela	NOUN	_	_	0	root	_	_	2:targ|4:targ
+2	ixila	ixil	ADJ	_	_	1	amod	_	_	0:exp-Positive
+3	eta	eta	CCONJ	_	_	4	cc	_	_	_
+4	erosoa	eroso	ADJ	_	_	2	conj	_	_	0:exp-Positive
+5	.	.	PUNCT	_	_	1	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/catalonia-berlin-mitte_1-13
+# text = Dekorazio polita eta ohe oso erosoa .
+1	Dekorazio	dekorazio	NOUN	_	_	6	nsubj	_	_	2:targ
+2	polita	polit	ADJ	_	_	1	amod	_	_	0:exp-Positive
+3	eta	eta	CCONJ	_	_	4	cc	_	_	_
+4	ohe	ohe	NOUN	_	_	2	conj	_	_	6:targ
+5	oso	oso	ADV	_	_	6	advmod	_	_	6:exp-Positive
+6	erosoa	eroso	ADJ	_	_	0	root	_	_	0:exp-Positive
+7	.	.	PUNCT	_	_	6	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/catalonia-berlin-mitte_1-14
+# text = Komuna eta dutxa handiak .
+1	Komuna	komuna	NOUN	_	_	0	root	_	_	4:targ
+2	eta	eta	CCONJ	_	_	3	cc	_	_	_
+3	dutxa	dutxa	NOUN	_	_	1	conj	_	_	4:targ
+4	handiak	handi	ADJ	_	_	3	amod	_	_	0:exp-Positive|0:exp-Positive
+5	.	.	PUNCT	_	_	1	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/catalonia-berlin-mitte_1-15
+# text = Gosaria aparta .
+1	Gosaria	gosari	NOUN	_	_	0	root	_	_	2:targ
+2	aparta	aparta	ADJ	_	_	1	amod	_	_	0:exp-Positive
+3	.	.	PUNCT	_	_	1	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/catalonia-berlin-mitte_1-16
+# text = Jaki beroa , hotza , gozoa , gazia ... denetik dago .
+1	Jaki	jaki	NOUN	_	_	0	root	_	_	11:targ
+2	beroa	bero	ADJ	_	_	1	amod	_	_	_
+3	,	,	PUNCT	_	_	4	punct	_	_	_
+4	hotza	hotz	ADJ	_	_	2	conj	_	_	_
+5	,	,	PUNCT	_	_	6	punct	_	_	_
+6	gozoa	gozo	ADJ	_	_	2	conj	_	_	_
+7	,	,	PUNCT	_	_	8	punct	_	_	_
+8	gazia	gazi	ADJ	_	_	2	conj	_	_	_
+9	...	...	PUNCT	_	_	1	punct	_	_	_
+10	denetik	izan	AUX	_	_	1	cop	_	_	11:exp-Positive
+11	dago	egon	AUX	_	_	1	cop	_	_	0:exp-Positive
+12	.	.	PUNCT	_	_	1	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/el-cerco-Anonimo_1-1
+# text = Dena oso atsegina , harreragileak , gela , erosotasuna , herria bera
+1	Dena	dena	DET	_	_	3	nsubj	_	_	3:targ
+2	oso	oso	ADV	_	_	3	advmod	_	_	3:exp-Positive|3:exp-Positive|3:exp-Positive|3:exp-Positive|3:exp-Positive
+3	atsegina	atsegin	ADJ	_	_	0	root	_	_	0:exp-Positive|0:exp-Positive|0:exp-Positive|0:exp-Positive|0:exp-Positive
+4	,	,	PUNCT	_	_	5	punct	_	_	_
+5	harreragileak	harreragile	NOUN	_	_	3	conj	_	_	3:targ
+6	,	,	PUNCT	_	_	7	punct	_	_	_
+7	gela	gela	NOUN	_	_	3	conj	_	_	3:targ
+8	,	,	PUNCT	_	_	9	punct	_	_	_
+9	erosotasuna	erosotasun	NOUN	_	_	3	conj	_	_	3:targ
+10	,	,	PUNCT	_	_	11	punct	_	_	_
+11	herria	herri	NOUN	_	_	3	conj	_	_	12:targ
+12	bera	bera	DET	_	_	11	det	_	_	3:targ
+
+# sent_id = multibooked/corpora/eu/h24vacanze-villanova-monteleone_1-1
+# text = Ezer aipatzekotan , topatzeko izan genituen zailtasunak Jasandako tratua oso atsegina .
+1	Ezer	ezer	PRON	_	_	2	obj	_	_	_
+2	aipatzekotan	aipatu	VERB	_	_	5	advcl	_	_	_
+3	,	,	PUNCT	_	_	2	punct	_	_	_
+4	topatzeko	topatu	VERB	_	_	5	advcl	_	_	7:exp-Negative
+5	izan	izan	VERB	_	_	7	acl	_	_	7:exp-Negative
+6	genituen	edun	AUX	_	_	5	aux	_	_	7:holder
+7	zailtasunak	zailtasun	NOUN	_	_	11	nsubj	_	_	0:exp-Negative
+8	Jasandako	Jasanda	PROPN	_	_	9	nmod	_	_	9:targ
+9	tratua	tratu	NOUN	_	_	11	nsubj	_	_	11:targ
+10	oso	oso	ADV	_	_	11	advmod	_	_	11:exp-Positive
+11	atsegina	atsegin	ADJ	_	_	0	root	_	_	0:exp-Positive
+12	.	.	PUNCT	_	_	5	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/h24vacanze-villanova-monteleone_1-2
+# text = Instalazioak eta garbitasuna aparta .
+1	Instalazioak	instalazio	NOUN	_	_	4	nsubj	_	_	4:targ
+2	eta	eta	CCONJ	_	_	3	cc	_	_	_
+3	garbitasuna	garbitasun	NOUN	_	_	1	conj	_	_	4:targ
+4	aparta	aparta	ADJ	_	_	0	root	_	_	0:exp-Positive|0:exp-Positive
+5	.	.	PUNCT	_	_	4	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/h24vacanze-villanova-monteleone_1-3
+# text = Kokapena ezin hobea : hondartza 15 km-ra ; Alghero 24 km-ra .
+1	Kokapena	kokapen	NOUN	_	_	2	nsubj	_	_	3:targ
+2	ezin	ezin	NOUN	_	_	0	root	_	_	3:exp-Positive
+3	hobea	hobe	ADJ	_	_	2	amod	_	_	0:exp-Positive
+4	:	:	PUNCT	_	_	7	punct	_	_	_
+5	hondartza	hondartza	NOUN	_	_	7	nmod	_	_	_
+6	15	15	NUM	_	_	5	nummod	_	_	_
+7	km-ra	km-	NOUN	_	_	2	appos	_	_	_
+8	;	;	PUNCT	_	_	11	punct	_	_	_
+9	Alghero	Alghero	PROPN	_	_	7	appos	_	_	_
+10	24	24	NUM	_	_	11	nummod	_	_	_
+11	km-ra	km-	NOUN	_	_	7	conj	_	_	_
+12	.	.	PUNCT	_	_	2	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/h24vacanze-villanova-monteleone_1-4
+# text = Egun batzuk emateko erabat gomendagarria .
+1	Egun	egun	NOUN	_	_	3	obj	_	_	_
+2	batzuk	batzuk	DET	_	_	1	det	_	_	_
+3	emateko	eman	VERB	_	_	5	advcl	_	_	_
+4	erabat	erabat	ADV	_	_	5	advmod	_	_	5:exp-Positive
+5	gomendagarria	gomendagarri	ADJ	_	_	0	root	_	_	0:exp-Positive
+6	.	.	PUNCT	_	_	5	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/4evora-hostel_1-1
+# text = Ez dago seinalerik bertara iristeko Leku modernoa , garbia eta txukuna .
+1	Ez	ez	PART	_	_	2	advmod	_	_	5:exp-Negative
+2	dago	egon	VERB	_	_	0	root	_	_	5:exp-Negative
+3	seinalerik	seinale	NOUN	_	_	2	nsubj	_	_	5:targ
+4	bertara	bertara	NOUN	_	_	5	obl	_	_	5:exp-Negative
+5	iristeko	iritsi	VERB	_	_	2	advcl	_	_	0:exp-Negative
+6	Leku	leku	NOUN	_	_	2	nsubj	_	_	11:targ|7:targ|9:targ
+7	modernoa	moderno	ADJ	_	_	6	amod	_	_	0:exp-Positive
+8	,	,	PUNCT	_	_	9	punct	_	_	_
+9	garbia	garbi	ADJ	_	_	7	conj	_	_	0:exp-Positive
+10	eta	eta	CCONJ	_	_	11	cc	_	_	_
+11	txukuna	txukun	ADJ	_	_	7	conj	_	_	0:exp-Positive
+12	.	.	PUNCT	_	_	2	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/4evora-hostel_1-2
+# text = Langileak oso jatorrak , laguntzeko prest eta profesionalak .
+1	Langileak	langile	NOUN	_	_	3	nsubj	_	_	3:targ|8:targ|6:targ
+2	oso	oso	ADV	_	_	3	advmod	_	_	3:exp-Positive
+3	jatorrak	jator	ADJ	_	_	0	root	_	_	0:exp-Positive
+4	,	,	PUNCT	_	_	6	punct	_	_	_
+5	laguntzeko	lagundu	VERB	_	_	6	advcl	_	_	6:exp-Positive
+6	prest	prest	ADV	_	_	3	conj	_	_	0:exp-Positive
+7	eta	eta	CCONJ	_	_	8	cc	_	_	_
+8	profesionalak	profesional	NOUN	_	_	6	conj	_	_	0:exp-Positive
+9	.	.	PUNCT	_	_	3	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/aparthotel-baobal_1-1
+# text = Ezer ez .
+1	Ezer	ezer	PRON	_	_	0	root	_	_	_
+2	ez	ez	PART	_	_	1	advmod	_	_	_
+3	.	.	PUNCT	_	_	1	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/aparthotel-baobal_1-2
+# text = Goiko solairua : jakuzia , ohea , ...
+1	Goiko	goiko	ADJ	_	_	2	amod	_	_	_
+2	solairua	solairu	NOUN	_	_	0	root	_	_	_
+3	:	:	PUNCT	_	_	4	punct	_	_	_
+4	jakuzia	jakuzi	NOUN	_	_	2	appos	_	_	_
+5	,	,	PUNCT	_	_	6	punct	_	_	_
+6	ohea	ohe	NOUN	_	_	4	conj	_	_	_
+7	,	,	PUNCT	_	_	4	punct	_	_	_
+8	...	...	PUNCT	_	_	4	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/aparthotel-baobal_1-3
+# text = Aparkalekua : ate aurrean .
+1	Aparkalekua	aparkaleku	NOUN	_	_	0	root	_	_	4:targ
+2	:	:	PUNCT	_	_	3	punct	_	_	_
+3	ate	ate	NOUN	_	_	1	appos	_	_	4:exp-Positive
+4	aurrean	aurre	ADP	_	_	3	case	_	_	0:exp-Positive
+5	.	.	PUNCT	_	_	1	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/aparthotel-baobal_1-4
+# text = Lasaitasuna , garbitasuna .
+1	Lasaitasuna	lasaitasun	NOUN	_	_	0	root	_	_	_
+2	,	,	PUNCT	_	_	3	punct	_	_	_
+3	garbitasuna	garbitasun	NOUN	_	_	1	conj	_	_	_
+4	.	.	PUNCT	_	_	1	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/airbnb-7144181_1-1
+# text = Azkenean bertan lo egin barik geratu nintzen .
+1	Azkenean	azkenean	ADV	_	_	6	advmod	_	_	_
+2	bertan	bertan	ADV	_	_	6	advmod	_	_	_
+3	lo	lo	NOUN	_	_	4	obj	_	_	_
+4	egin	egin	VERB	_	_	6	advcl	_	_	_
+5	barik	barik	ADV	_	_	4	advcl	_	_	_
+6	geratu	geratu	VERB	_	_	0	root	_	_	_
+7	nintzen	izan	AUX	_	_	6	aux	_	_	_
+8	.	.	PUNCT	_	_	6	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/airbnb-7144181_1-2
+# text = Oso jatorra eta lagunkorra izan da tratua Anna , baina hegaldia bertan behera geratu zen Lufthansaren greba zela eta , ...
+1	Oso	oso	ADV	_	_	2	advmod	_	_	2:exp-Positive
+2	jatorra	jator	ADJ	_	_	0	root	_	_	0:exp-Positive
+3	eta	eta	CCONJ	_	_	4	cc	_	_	_
+4	lagunkorra	lagunkor	ADJ	_	_	2	conj	_	_	0:exp-Positive
+5	izan	izan	AUX	_	_	2	cop	_	_	_
+6	da	izan	AUX	_	_	2	aux	_	_	_
+7	tratua	tratu	NOUN	_	_	2	nsubj	_	_	_
+8	Anna	Anna	PROPN	_	_	2	nsubj	_	_	2:targ|4:targ
+9	,	,	PUNCT	_	_	14	punct	_	_	_
+10	baina	baina	CCONJ	_	_	14	cc	_	_	_
+11	hegaldia	hegaldi	NOUN	_	_	14	nsubj	_	_	_
+12	bertan	bertan	ADV	_	_	13	compound	_	_	_
+13	behera	behe	NOUN	_	_	14	obl	_	_	_
+14	geratu	geratu	VERB	_	_	5	conj	_	_	_
+15	zen	izan	AUX	_	_	14	aux	_	_	_
+16	Lufthansaren	Lufthansa	PROPN	_	_	17	nmod	_	_	_
+17	greba	greba	NOUN	_	_	14	advcl	_	_	_
+18	zela	izan	AUX	_	_	17	cop	_	_	_
+19	eta	eta	CCONJ	_	_	17	mark	_	_	_
+20	,	,	PUNCT	_	_	2	punct	_	_	_
+21	...	...	PUNCT	_	_	2	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/airbnb-4159654_1-1
+# text = Urteak dira Bakartxo ezagutzen dudala eta bere perfilean agertzen den informazioak nahiko ongi deskribatzen du .
+1	Urteak	urte	NOUN	_	_	0	root	_	_	_
+2	dira	izan	AUX	_	_	1	cop	_	_	_
+3	Bakartxo	Bakartxo	PROPN	_	_	4	obj	_	_	_
+4	ezagutzen	ezagutu	VERB	_	_	1	csubj	_	_	_
+5	dudala	edun	AUX	_	_	4	aux	_	_	_
+6	eta	eta	CCONJ	_	_	14	cc	_	_	_
+7	bere	bera	DET	_	_	8	nmod	_	_	_
+8	perfilean	perfil	NOUN	_	_	9	obl	_	_	_
+9	agertzen	agertu	VERB	_	_	11	acl	_	_	_
+10	den	izan	AUX	_	_	9	aux	_	_	_
+11	informazioak	informazio	NOUN	_	_	14	obj	_	_	_
+12	nahiko	nahiko	ADV	_	_	13	advmod	_	_	_
+13	ongi	ongi	ADV	_	_	14	advmod	_	_	_
+14	deskribatzen	deskribatu	VERB	_	_	2	conj	_	_	_
+15	du	edun	AUX	_	_	14	aux	_	_	_
+16	.	.	PUNCT	_	_	1	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/airbnb-4159654_1-2
+# text = Nire lagun baten laguna zen , Tarragonako kostaldean daukan etxe bat alokatu genion eta momentu horretatik aurrera lagunak izan gara .
+1	Nire	ni	PRON	_	_	2	nmod	_	_	_
+2	lagun	lagun	NOUN	_	_	4	nmod	_	_	_
+3	baten	bat	NUM	_	_	2	nummod	_	_	_
+4	laguna	lagun	NOUN	_	_	0	root	_	_	_
+5	zen	izan	AUX	_	_	4	cop	_	_	_
+6	,	,	PUNCT	_	_	12	punct	_	_	_
+7	Tarragonako	Tarragona	PROPN	_	_	8	nmod	_	_	_
+8	kostaldean	kostalde	NOUN	_	_	9	obl	_	_	_
+9	daukan	eduki	VERB	_	_	10	acl	_	_	_
+10	etxe	etxe	NOUN	_	_	12	obj	_	_	_
+11	bat	bat	NUM	_	_	10	nummod	_	_	_
+12	alokatu	alokatu	VERB	_	_	5	conj	_	_	_
+13	genion	edun	AUX	_	_	12	aux	_	_	_
+14	eta	eta	CCONJ	_	_	19	cc	_	_	_
+15	momentu	momentu	NOUN	_	_	19	obl	_	_	_
+16	horretatik	hori	DET	_	_	15	det	_	_	_
+17	aurrera	aurrera	ADP	_	_	16	case	_	_	_
+18	lagunak	lagun	NOUN	_	_	19	nsubj	_	_	_
+19	izan	izan	VERB	_	_	5	conj	_	_	_
+20	gara	izan	AUX	_	_	19	aux	_	_	_
+21	.	.	PUNCT	_	_	4	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/airbnb-4159654_1-3
+# text = Bakartxok etxea garbi-garbia emango dizu eta bere etxean zauden bitartean ahal duen guztia egingo du zure egonaldia atsegina izateko .
+1	Bakartxok	bakartxo	NOUN	_	_	4	nsubj	_	_	19:targ
+2	etxea	etxe	NOUN	_	_	4	obj	_	_	3:targ
+3	garbi-garbia	garbi-garbi	ADJ	_	_	4	xcomp	_	_	0:exp-Positive
+4	emango	eman	VERB	_	_	0	root	_	_	_
+5	dizu	edun	AUX	_	_	4	aux	_	_	_
+6	eta	eta	CCONJ	_	_	14	cc	_	_	_
+7	bere	bera	DET	_	_	8	nmod	_	_	_
+8	etxean	etxe	NOUN	_	_	9	obl	_	_	_
+9	zauden	egon	VERB	_	_	14	advcl	_	_	_
+10	bitartean	bitarte	NOUN	_	_	9	obl	_	_	_
+11	ahal	ahal	NOUN	_	_	12	compound	_	_	19:exp-Positive
+12	duen	ukan	VERB	_	_	13	acl	_	_	19:exp-Positive
+13	guztia	guzti	DET	_	_	14	obj	_	_	19:exp-Positive
+14	egingo	egin	VERB	_	_	4	conj	_	_	19:exp-Positive
+15	du	edun	AUX	_	_	14	aux	_	_	19:exp-Positive
+16	zure	zu	PRON	_	_	17	nmod	_	_	19:exp-Positive
+17	egonaldia	egonaldi	NOUN	_	_	18	nsubj	_	_	19:exp-Positive
+18	atsegina	atsegin	ADJ	_	_	14	advcl	_	_	19:exp-Positive
+19	izateko	izan	AUX	_	_	18	cop	_	_	0:exp-Positive
+20	.	.	PUNCT	_	_	4	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/airbnb-4159654_1-4
+# text = Hendaiako etxea ederra da , urteko edozein sasoian egoteko aproposa .
+1	Hendaiako	Hendaia	PROPN	_	_	2	nmod	_	_	2:targ|2:targ
+2	etxea	etxe	NOUN	_	_	3	nsubj	_	_	3:targ|10:targ
+3	ederra	eder	ADJ	_	_	0	root	_	_	0:exp-Positive
+4	da	izan	AUX	_	_	3	cop	_	_	_
+5	,	,	PUNCT	_	_	10	punct	_	_	_
+6	urteko	urte	NOUN	_	_	8	nmod	_	_	10:exp-Positive
+7	edozein	edozein	DET	_	_	8	det	_	_	10:exp-Positive
+8	sasoian	sasoi	NOUN	_	_	9	obl	_	_	10:exp-Positive
+9	egoteko	egon	VERB	_	_	10	advcl	_	_	10:exp-Positive
+10	aproposa	apropos	ADJ	_	_	4	conj	_	_	0:exp-Positive
+11	.	.	PUNCT	_	_	3	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/airbnb-4159654_1-5
+# text = Udan , Ondarraitzeko ondartza paregabea duzu urbil , lorategia etxe-inguruan , portxea kanpoan bazkaldu , afaldu eta lagunekin disfrutatzeko ...
+1	Udan	udan	ADV	_	_	6	advmod	_	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_	_
+3	Ondarraitzeko	ondarraitu	VERB	_	_	4	advcl	_	_	4:targ|4:targ
+4	ondartza	ondartza	NOUN	_	_	6	obj	_	_	7:targ|5:targ
+5	paregabea	paregabe	ADJ	_	_	4	amod	_	_	0:exp-Positive
+6	duzu	ukan	VERB	_	_	0	root	_	_	_
+7	urbil	urbil	NOUN	_	_	6	obj	_	_	0:exp-Positive
+8	,	,	PUNCT	_	_	10	punct	_	_	_
+9	lorategia	lorategi	NOUN	_	_	10	nmod	_	_	10:targ
+10	etxe-inguruan	etxe-inguru	NOUN	_	_	6	obl	_	_	0:exp-Positive
+11	,	,	PUNCT	_	_	14	punct	_	_	_
+12	portxea	portxe	NOUN	_	_	14	obj	_	_	19:targ
+13	kanpoan	kanpo	NOUN	_	_	14	obl	_	_	19:exp-Positive
+14	bazkaldu	bazkaldu	VERB	_	_	6	conj	_	_	19:exp-Positive
+15	,	,	PUNCT	_	_	16	punct	_	_	19:exp-Positive
+16	afaldu	afaldu	VERB	_	_	14	conj	_	_	19:exp-Positive
+17	eta	eta	CCONJ	_	_	19	cc	_	_	19:exp-Positive
+18	lagunekin	lagun	NOUN	_	_	19	obl	_	_	19:exp-Positive
+19	disfrutatzeko	disfrutatu	VERB	_	_	14	conj	_	_	0:exp-Positive
+20	...	...	PUNCT	_	_	6	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/airbnb-4159654_1-6
+# text = Eta neguan , berriz , tximini eder bat goxo goxo egoteko .
+1	Eta	eta	CCONJ	_	_	11	cc	_	_	_
+2	neguan	negu	NOUN	_	_	11	obl	_	_	_
+3	,	,	PUNCT	_	_	2	punct	_	_	_
+4	berriz	berriz	CCONJ	_	_	11	advmod	_	_	_
+5	,	,	PUNCT	_	_	4	punct	_	_	_
+6	tximini	tximini	NOUN	_	_	11	obj	_	_	11:targ|7:targ
+7	eder	eder	ADJ	_	_	6	amod	_	_	0:exp-Positive
+8	bat	bat	NUM	_	_	6	nummod	_	_	_
+9	goxo	goxo	ADJ	_	_	11	xcomp	_	_	11:exp-Positive
+10	goxo	goxo	ADJ	_	_	11	xcomp	_	_	11:exp-Positive
+11	egoteko	egon	VERB	_	_	0	root	_	_	0:exp-Positive
+12	.	.	PUNCT	_	_	11	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/airbnb-4159654_1-7
+# text = Hendaia Irun eta Donostitik urbil , ordu batera Iruña edo Bilbotik .
+1	Hendaia	Hendaia	PROPN	_	_	0	root	_	_	5:targ
+2	Irun	Irun	PROPN	_	_	1	flat	_	_	5:exp-Positive
+3	eta	eta	CCONJ	_	_	4	cc	_	_	5:exp-Positive
+4	Donostitik	Donosti	PROPN	_	_	1	conj	_	_	5:exp-Positive
+5	urbil	urbil	ADP	_	_	4	case	_	_	0:exp-Positive
+6	,	,	PUNCT	_	_	1	punct	_	_	_
+7	ordu	ordu	NOUN	_	_	1	conj	_	_	_
+8	batera	bat	NUM	_	_	7	nummod	_	_	_
+9	Iruña	Iruña	PROPN	_	_	7	conj	_	_	_
+10	edo	edo	CCONJ	_	_	11	cc	_	_	_
+11	Bilbotik	Bilbo	PROPN	_	_	9	conj	_	_	_
+12	.	.	PUNCT	_	_	1	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/airbnb-4159654_1-8
+# text = Ongi kokatua .
+1	Ongi	ongi	ADV	_	_	2	advmod	_	_	2:exp-Positive
+2	kokatua	kokatu	VERB	_	_	0	root	_	_	0:exp-Positive
+3	.	.	PUNCT	_	_	2	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/airbnb-4159654_1-9
+# text = Bakartxo pertsona gomendagarria da , hartzen dituen konpromezuak bete egiten ditu .
+1	Bakartxo	Bakartxo	PROPN	_	_	2	nsubj	_	_	3:targ|11:targ
+2	pertsona	pertsona	NOUN	_	_	0	root	_	_	3:exp-Positive
+3	gomendagarria	gomendagarri	ADJ	_	_	2	amod	_	_	0:exp-Positive
+4	da	izan	AUX	_	_	2	cop	_	_	_
+5	,	,	PUNCT	_	_	9	punct	_	_	_
+6	hartzen	hartu	VERB	_	_	8	acl	_	_	11:exp-Positive
+7	dituen	edun	AUX	_	_	6	aux	_	_	11:exp-Positive
+8	konpromezuak	konpromiso	NOUN	_	_	9	obj	_	_	11:exp-Positive
+9	bete	bete	VERB	_	_	4	conj	_	_	11:exp-Positive
+10	egiten	egin	VERB	_	_	9	compound	_	_	11:exp-Positive
+11	ditu	edun	AUX	_	_	9	aux	_	_	0:exp-Positive
+12	.	.	PUNCT	_	_	2	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/hotel-nagusi_1-1
+# text = Garbia eta erosoa. ostatuko langileak azkarrak eta atseginak. oso gomendagarria ,
+1	Garbia	garbi	ADJ	_	_	4	obl	_	_	0:exp-Positive
+2	eta	eta	CCONJ	_	_	3	cc	_	_	_
+3	erosoa.	erosoa.	NOUN	_	_	1	conj	_	_	0:exp-Positive
+4	ostatuko	ostatu	VERB	_	_	5	advcl	_	_	_
+5	langileak	langile	NOUN	_	_	10	nsubj	_	_	6:targ|8:targ
+6	azkarrak	azkar	ADJ	_	_	10	advcl	_	_	0:exp-Positive
+7	eta	eta	CCONJ	_	_	8	cc	_	_	_
+8	atseginak.	atsegin	ADJ	_	_	6	conj	_	_	0:exp-Positive
+9	oso	oso	ADV	_	_	10	advmod	_	_	10:exp-Positive
+10	gomendagarria	gomendagarri	ADJ	_	_	0	root	_	_	0:exp-Positive
+11	,	,	PUNCT	_	_	10	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/amethyst-house_1-1
+# text = Eguneko menua jan genun eta benetan txarra zegon .
+1	Eguneko	egun	NOUN	_	_	2	nmod	_	_	2:targ
+2	menua	menu	NOUN	_	_	3	obj	_	_	7:targ
+3	jan	jan	VERB	_	_	0	root	_	_	_
+4	genun	edun	AUX	_	_	3	aux	_	_	7:holder
+5	eta	eta	CCONJ	_	_	7	cc	_	_	_
+6	benetan	benetan	ADV	_	_	7	advmod	_	_	7:exp-Negative
+7	txarra	txar	ADJ	_	_	3	conj	_	_	0:exp-Negative
+8	zegon	egon	AUX	_	_	7	cop	_	_	_
+9	.	.	PUNCT	_	_	3	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/amethyst-house_1-2
+# text = Gertu ez dago jatetxe edo dendarik .
+1	Gertu	gertu	ADV	_	_	3	advmod	_	_	3:exp-Negative|3:exp-Negative
+2	ez	ez	PART	_	_	3	advmod	_	_	3:exp-Negative|3:exp-Negative
+3	dago	egon	VERB	_	_	0	root	_	_	0:exp-Negative|0:exp-Negative
+4	jatetxe	jatetxe	NOUN	_	_	3	nsubj	_	_	3:targ
+5	edo	edo	CCONJ	_	_	6	cc	_	_	_
+6	dendarik	denda	NOUN	_	_	4	conj	_	_	3:targ
+7	.	.	PUNCT	_	_	3	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/amethyst-house_1-3
+# text = Aireportutik gertu dagi eta hara eramaten zaituzte edozein ordutan , gelaren prezio barruan .
+1	Aireportutik	aireportu	NOUN	_	_	3	obl	_	_	2:exp-Positive
+2	gertu	gertu	ADV	_	_	3	advmod	_	_	0:exp-Positive
+3	dagi	jakin	VERB	_	_	0	root	_	_	_
+4	eta	eta	CCONJ	_	_	6	cc	_	_	_
+5	hara	hara	ADV	_	_	6	advmod	_	_	9:exp-Positive
+6	eramaten	eraman	VERB	_	_	3	conj	_	_	9:exp-Positive
+7	zaituzte	edun	AUX	_	_	6	aux	_	_	9:exp-Positive
+8	edozein	edozein	DET	_	_	9	det	_	_	9:exp-Positive
+9	ordutan	ordu	NOUN	_	_	6	obl	_	_	0:exp-Positive
+10	,	,	PUNCT	_	_	12	punct	_	_	_
+11	gelaren	gela	NOUN	_	_	12	nmod	_	_	_
+12	prezio	prezio	NOUN	_	_	6	obl	_	_	_
+13	barruan	barru	ADP	_	_	12	case	_	_	_
+14	.	.	PUNCT	_	_	3	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/amethyst-house_1-4
+# text = Logela ongi .
+1	Logela	logela	NOUN	_	_	2	nmod	_	_	2:targ
+2	ongi	ongi	ADV	_	_	0	root	_	_	0:exp-Positive
+3	.	.	PUNCT	_	_	2	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/amethyst-house_1-5
+# text = Taxia Bucarest zentrotik 30 ron , taximetroakin .
+1	Taxia	Taxia	PROPN	_	_	3	nmod	_	_	_
+2	Bucarest	Bukarest	PROPN	_	_	1	flat	_	_	_
+3	zentrotik	zentro	NOUN	_	_	5	obl	_	_	_
+4	30	30	NUM	_	_	5	nummod	_	_	_
+5	ron	ron	PROPN	_	_	0	root	_	_	_
+6	,	,	PUNCT	_	_	7	punct	_	_	_
+7	taximetroakin	taximetro	NOUN	_	_	5	conj	_	_	_
+8	.	.	PUNCT	_	_	5	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/casa-kordoa_1-1
+# text = Gaur bertan iritsi berri gara Kordoa-tik .
+1	Gaur	gaur	ADV	_	_	3	advmod	_	_	_
+2	bertan	bertan	ADV	_	_	1	fixed	_	_	_
+3	iritsi	iritsi	VERB	_	_	0	root	_	_	_
+4	berri	berri	ADJ	_	_	3	obl	_	_	_
+5	gara	izan	AUX	_	_	3	aux	_	_	_
+6	Kordoa-tik	kordo	NOUN	_	_	3	obl	_	_	_
+7	.	.	PUNCT	_	_	3	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/casa-kordoa_1-2
+# text = Asteburu bat baio besterik ez gara egon ta Josepik emondako atentzioa ta aholkuak ederrak izan dira .
+1	Asteburu	asteburu	NOUN	_	_	3	nsubj	_	_	_
+2	bat	bat	NUM	_	_	1	nummod	_	_	_
+3	baio	baio	NOUN	_	_	0	root	_	_	_
+4	besterik	beste	DET	_	_	3	advmod	_	_	_
+5	ez	ez	PART	_	_	7	advmod	_	_	_
+6	gara	izan	AUX	_	_	7	aux	_	_	_
+7	egon	egon	VERB	_	_	3	advcl	_	_	_
+8	ta	ta	INTJ	_	_	14	discourse	_	_	_
+9	Josepik	Josepi	PROPN	_	_	8	flat	_	_	11:targ
+10	emondako	emondako	ADJ	_	_	11	amod	_	_	11:targ
+11	atentzioa	atentzio	NOUN	_	_	14	nsubj	_	_	14:targ
+12	ta	ta	NOUN	_	_	13	nmod	_	_	_
+13	aholkuak	aholku	NOUN	_	_	14	nsubj	_	_	14:targ
+14	ederrak	eder	ADJ	_	_	3	conj	_	_	0:exp-Positive|0:exp-Positive
+15	izan	izan	AUX	_	_	14	cop	_	_	_
+16	dira	izan	AUX	_	_	14	aux	_	_	_
+17	.	.	PUNCT	_	_	3	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/casa-kordoa_1-3
+# text = Logelak oso ongi dekoratuak ta txukun-txukun dana , gosarik oso goxoak ta beti konpainia onean .
+1	Logelak	logela	NOUN	_	_	4	nsubj	_	_	4:targ
+2	oso	oso	ADV	_	_	3	advmod	_	_	4:exp-Positive
+3	ongi	ongi	ADV	_	_	4	advmod	_	_	4:exp-Positive
+4	dekoratuak	dekoratu	VERB	_	_	0	root	_	_	0:exp-Positive
+5	ta	izan	AUX	_	_	4	cop	_	_	_
+6	txukun-txukun	txukun-txukun	NOUN	_	_	7	obl	_	_	0:exp-Positive
+7	dana	izan	VERB	_	_	4	advcl	_	_	6:targ
+8	,	,	PUNCT	_	_	11	punct	_	_	_
+9	gosarik	gosa	NOUN	_	_	11	nsubj	_	_	11:targ
+10	oso	oso	ADV	_	_	15	advmod	_	_	11:exp-Positive
+11	goxoak	goxo	ADJ	_	_	4	conj	_	_	0:exp-Positive
+12	ta	ta	INTJ	_	_	11	cc	_	_	_
+13	beti	beti	ADV	_	_	11	advmod	_	_	_
+14	konpainia	konpainia	NOUN	_	_	11	obl	_	_	15:targ
+15	onean	on	ADJ	_	_	14	amod	_	_	0:exp-Positive
+16	.	.	PUNCT	_	_	4	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/casa-kordoa_1-4
+# text = Merezi du Erratzutik pasatia ta hantxe bertan egun batzuk igarotia .
+1	Merezi	merezi	NOUN	_	_	2	compound	_	_	2:exp-Positive
+2	du	ukan	VERB	_	_	0	root	_	_	0:exp-Positive
+3	Erratzutik	erratzu	NOUN	_	_	2	obl	_	_	10:targ
+4	pasatia	pasatia	NOUN	_	_	5	nsubj	_	_	10:targ
+5	ta	ta	INTJ	_	_	2	ccomp	_	_	10:targ
+6	hantxe	hantxe	ADV	_	_	5	dep	_	_	10:targ
+7	bertan	bertan	ADV	_	_	5	dep	_	_	10:targ
+8	egun	egun	NOUN	_	_	2	obj	_	_	10:targ
+9	batzuk	batzuk	DET	_	_	8	det	_	_	10:targ
+10	igarotia	igaroti	NOUN	_	_	5	dep	_	_	2:targ
+11	.	.	PUNCT	_	_	2	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/casa-kordoa_1-5
+# text = Muxu handi bat bizkaialdetik ¡¡¡
+1	Muxu	muxu	NOUN	_	_	0	root	_	_	5:exp-Positive
+2	handi	handi	ADJ	_	_	1	amod	_	_	5:exp-Positive
+3	bat	bat	NUM	_	_	1	nummod	_	_	5:exp-Positive
+4	bizkaialdetik	bizkaialde	NOUN	_	_	1	obl	_	_	5:exp-Positive
+5	¡¡¡	hu	PUNCT	_	_	1	punct	_	_	0:exp-Positive
+
+# sent_id = multibooked/corpora/eu/a-amp-o-karlsruhe-hauptbahnhof_1-1
+# text = Logeletan ez dago takillarik edo banakako giltzapeko armairurik .
+1	Logeletan	logel	NOUN	_	_	3	obl	_	_	_
+2	ez	ez	PART	_	_	3	advmod	_	_	3:exp-Negative|3:exp-Negative
+3	dago	egon	VERB	_	_	0	root	_	_	0:exp-Negative|0:exp-Negative
+4	takillarik	takilla	NOUN	_	_	3	nsubj	_	_	3:targ
+5	edo	edo	CCONJ	_	_	8	cc	_	_	_
+6	banakako	banakako	ADJ	_	_	7	amod	_	_	8:targ
+7	giltzapeko	giltzapeko	NOUN	_	_	8	nmod	_	_	8:targ
+8	armairurik	armairu	NOUN	_	_	3	nsubj	_	_	3:targ
+9	.	.	PUNCT	_	_	3	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/a-amp-o-karlsruhe-hauptbahnhof_1-2
+# text = Logela partekatu batzuk oso handiak dira , baina beste batzuk oso txikiak eta ohe gehiegi .
+1	Logela	logela	NOUN	_	_	5	nsubj	_	_	3:targ
+2	partekatu	partekatu	VERB	_	_	1	nmod	_	_	3:targ
+3	batzuk	batzuk	DET	_	_	1	det	_	_	5:targ
+4	oso	oso	ADV	_	_	5	advmod	_	_	5:exp-Positive
+5	handiak	handi	ADJ	_	_	0	root	_	_	0:exp-Positive
+6	dira	izan	AUX	_	_	5	cop	_	_	_
+7	,	,	PUNCT	_	_	8	punct	_	_	_
+8	baina	baina	CCONJ	_	_	12	cc	_	_	_
+9	beste	beste	DET	_	_	10	det	_	_	10:targ|10:targ
+10	batzuk	batzuk	DET	_	_	12	nsubj	_	_	15:targ|12:targ
+11	oso	oso	ADV	_	_	15	advmod	_	_	12:exp-Negative
+12	txikiak	txiki	ADJ	_	_	5	conj	_	_	0:exp-Negative
+13	eta	eta	CCONJ	_	_	14	cc	_	_	_
+14	ohe	ohe	NOUN	_	_	12	conj	_	_	15:exp-Negative
+15	gehiegi	gehiegi	DET	_	_	14	det	_	_	0:exp-Negative
+16	.	.	PUNCT	_	_	5	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/a-amp-o-karlsruhe-hauptbahnhof_1-3
+# text = Tranbiaren zarata gau osoan .
+1	Tranbiaren	Tranbia	PROPN	_	_	2	nmod	_	_	2:exp-Negative
+2	zarata	zarata	NOUN	_	_	0	root	_	_	0:exp-Negative
+3	gau	gau	NOUN	_	_	2	nmod	_	_	_
+4	osoan	oso	ADJ	_	_	3	amod	_	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/a-amp-o-karlsruhe-hauptbahnhof_1-4
+# text = Logelak nahiko zikin .
+1	Logelak	logela	NOUN	_	_	3	obj	_	_	3:targ
+2	nahiko	nahiko	ADV	_	_	3	advmod	_	_	3:exp-Negative
+3	zikin	zikin	ADJ	_	_	0	root	_	_	0:exp-Negative
+4	.	.	PUNCT	_	_	3	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/a-amp-o-karlsruhe-hauptbahnhof_1-5
+# text = Gosaria goizeko 10etan ixten dute astean zehar .
+1	Gosaria	gosari	NOUN	_	_	4	obj	_	_	_
+2	goizeko	goiz	NOUN	_	_	3	nmod	_	_	_
+3	10etan	10	NUM	_	_	4	obl	_	_	_
+4	ixten	itxi	VERB	_	_	0	root	_	_	_
+5	dute	edun	AUX	_	_	4	aux	_	_	_
+6	astean	aste	NOUN	_	_	4	obl	_	_	_
+7	zehar	None	ADP	_	_	6	case	_	_	_
+8	.	.	PUNCT	_	_	4	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/a-amp-o-karlsruhe-hauptbahnhof_1-6
+# text = Harreraren ondoan tabernaz gain egongela , ordenagailu gela eta jolastoki bat daude , eta lehen solairuan mahai batzuk ikasteko edo eramangarriarekin lan egiteko eta billar bat .
+1	Harreraren	harrera	NOUN	_	_	12	obl	_	_	_
+2	ondoan	ondoan	ADP	_	_	1	case	_	_	_
+3	tabernaz	taberna	NOUN	_	_	12	obl	_	_	_
+4	gain	gain	ADP	_	_	3	case	_	_	_
+5	egongela	egongela	NOUN	_	_	12	nsubj	_	_	_
+6	,	,	PUNCT	_	_	8	punct	_	_	_
+7	ordenagailu	ordenagailu	NOUN	_	_	5	conj	_	_	_
+8	gela	gela	NOUN	_	_	5	conj	_	_	_
+9	eta	eta	CCONJ	_	_	10	cc	_	_	_
+10	jolastoki	jolastoki	NOUN	_	_	5	conj	_	_	_
+11	bat	bat	NUM	_	_	10	nummod	_	_	_
+12	daude	egon	VERB	_	_	0	root	_	_	_
+13	,	,	PUNCT	_	_	14	punct	_	_	_
+14	eta	eta	CCONJ	_	_	12	cc	_	_	_
+15	lehen	lehen	ADJ	_	_	16	amod	_	_	_
+16	solairuan	solairu	NOUN	_	_	19	obl	_	_	_
+17	mahai	mahai	NOUN	_	_	19	obj	_	_	_
+18	batzuk	batzuk	DET	_	_	17	det	_	_	_
+19	ikasteko	ikasi	VERB	_	_	12	advcl	_	_	_
+20	edo	edo	CCONJ	_	_	21	cc	_	_	_
+21	eramangarriarekin	eramangarri	ADJ	_	_	19	conj	_	_	_
+22	lan	lan	NOUN	_	_	23	obj	_	_	_
+23	egiteko	egin	VERB	_	_	19	conj	_	_	_
+24	eta	eta	CCONJ	_	_	25	cc	_	_	_
+25	billar	billar	NOUN	_	_	23	conj	_	_	_
+26	bat	bat	NUM	_	_	25	nummod	_	_	_
+27	.	.	PUNCT	_	_	12	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/a-amp-o-karlsruhe-hauptbahnhof_1-7
+# text = Doako interneta ez da motelegia , eta abiadura handikoa eskuragarri dago , gehiago ordainduz gero .
+1	Doako	doa	NOUN	_	_	2	nmod	_	_	2:targ
+2	interneta	interneta	NOUN	_	_	5	nsubj	_	_	5:targ
+3	ez	ez	PART	_	_	5	advmod	_	_	5:exp-Positive
+4	da	izan	AUX	_	_	5	cop	_	_	5:exp-Positive
+5	motelegia	motelegia	NOUN	_	_	0	root	_	_	0:exp-Positive
+6	,	,	PUNCT	_	_	10	punct	_	_	_
+7	eta	eta	CCONJ	_	_	10	cc	_	_	_
+8	abiadura	abiadura	NOUN	_	_	10	nsubj	_	_	9:targ
+9	handikoa	handi	NOUN	_	_	8	nmod	_	_	11:targ
+10	eskuragarri	eskuragarri	ADJ	_	_	4	conj	_	_	11:exp-Positive
+11	dago	egon	AUX	_	_	10	cop	_	_	0:exp-Positive
+12	,	,	PUNCT	_	_	14	punct	_	_	_
+13	gehiago	gehiago	DET	_	_	14	obl	_	_	_
+14	ordainduz	ordaindu	VERB	_	_	10	advcl	_	_	_
+15	gero	gero	ADV	_	_	14	advcl	_	_	_
+16	.	.	PUNCT	_	_	5	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/a-amp-o-karlsruhe-hauptbahnhof_1-8
+# text = Gosaria bikaina da : fruta , gazta , urdaiazpiko , zereal , entsalada , oliba olio , arrautz eta denetarik , buffet askea 7 euroren truke .
+1	Gosaria	gosari	NOUN	_	_	0	root	_	_	2:targ
+2	bikaina	bikain	ADJ	_	_	1	amod	_	_	0:exp-Positive
+3	da	izan	AUX	_	_	1	cop	_	_	_
+4	:	:	PUNCT	_	_	5	punct	_	_	_
+5	fruta	fruta	NOUN	_	_	25	nmod	_	_	_
+6	,	,	PUNCT	_	_	7	punct	_	_	_
+7	gazta	gazta	NOUN	_	_	5	conj	_	_	_
+8	,	,	PUNCT	_	_	9	punct	_	_	_
+9	urdaiazpiko	urdaiazpi	NOUN	_	_	5	conj	_	_	_
+10	,	,	PUNCT	_	_	11	punct	_	_	_
+11	zereal	zereal	NOUN	_	_	5	conj	_	_	_
+12	,	,	PUNCT	_	_	13	punct	_	_	_
+13	entsalada	entsalada	NOUN	_	_	5	conj	_	_	_
+14	,	,	PUNCT	_	_	16	punct	_	_	_
+15	oliba	oliba	NOUN	_	_	5	conj	_	_	_
+16	olio	olio	NOUN	_	_	5	conj	_	_	_
+17	,	,	PUNCT	_	_	18	punct	_	_	_
+18	arrautz	arrautz	NOUN	_	_	5	conj	_	_	_
+19	eta	eta	CCONJ	_	_	20	cc	_	_	_
+20	denetarik	dena	DET	_	_	5	conj	_	_	_
+21	,	,	PUNCT	_	_	22	punct	_	_	_
+22	buffet	buffet	NOUN	_	_	5	conj	_	_	_
+23	askea	aske	PUNCT	_	_	22	punct	_	_	_
+24	7	7	NUM	_	_	25	nummod	_	_	_
+25	euroren	euro	NOUN	_	_	1	obl	_	_	_
+26	truke	truke	ADP	_	_	25	case	_	_	_
+27	.	.	PUNCT	_	_	1	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/hotel-restaurante-arimune_1-1
+# text = Bikaineko hotela , oso polita eta ondo kokatuta , hondartza ondoan .
+1	Bikaineko	bikain	ADJ	_	_	2	nmod	_	_	0:exp-Positive
+2	hotela	hotel	NOUN	_	_	8	nsubj	_	_	11:targ|8:targ|1:targ|5:targ
+3	,	,	PUNCT	_	_	5	punct	_	_	_
+4	oso	oso	ADV	_	_	5	advmod	_	_	5:exp-Positive
+5	polita	polit	ADJ	_	_	2	conj	_	_	0:exp-Positive
+6	eta	eta	CCONJ	_	_	7	cc	_	_	_
+7	ondo	ondo	ADV	_	_	5	conj	_	_	8:exp-Positive
+8	kokatuta	kokatu	VERB	_	_	0	root	_	_	0:exp-Positive
+9	,	,	PUNCT	_	_	10	punct	_	_	_
+10	hondartza	hondartza	NOUN	_	_	8	obl	_	_	11:exp-Positive
+11	ondoan	ondoan	ADP	_	_	10	case	_	_	0:exp-Positive
+12	.	.	PUNCT	_	_	8	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/hotel-restaurante-arimune_1-2
+# text = Etxekoak bezela tratatu gaituzte .
+1	Etxekoak	etxe	NOUN	_	_	3	obj	_	_	3:exp-Positive
+2	bezela	bezela	ADV	_	_	3	advmod	_	_	3:exp-Positive
+3	tratatu	tratatu	VERB	_	_	0	root	_	_	0:exp-Positive
+4	gaituzte	edun	AUX	_	_	3	aux	_	_	3:holder
+5	.	.	PUNCT	_	_	3	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/hotel-restaurante-arimune_1-3
+# text = Mila Eskar !!
+1	Mila	mila	NUM	_	_	2	nummod	_	_	3:exp-Positive
+2	Eskar	eskar	NOUN	_	_	0	root	_	_	3:exp-Positive
+3	!!	!!	PUNCT	_	_	2	punct	_	_	0:exp-Positive
+
+# sent_id = multibooked/corpora/eu/airbnb-16163127_1-1
+# text = Lau egun igaro ditugu Timen etxean .
+1	Lau	lau	NUM	_	_	2	nummod	_	_	_
+2	egun	egun	NOUN	_	_	3	obj	_	_	_
+3	igaro	igaro	VERB	_	_	0	root	_	_	_
+4	ditugu	edun	AUX	_	_	3	aux	_	_	_
+5	Timen	Timen	PROPN	_	_	3	obl	_	_	_
+6	etxean	etxe	NOUN	_	_	3	obl	_	_	_
+7	.	.	PUNCT	_	_	3	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/airbnb-16163127_1-2
+# text = Erosoa , modernoa eta behar duzun guztia ditu etxeak .
+1	Erosoa	eroso	ADJ	_	_	8	obj	_	_	0:exp-Positive
+2	,	,	PUNCT	_	_	3	punct	_	_	_
+3	modernoa	moderno	ADJ	_	_	1	conj	_	_	0:exp-Positive
+4	eta	eta	CCONJ	_	_	7	cc	_	_	_
+5	behar	behar	NOUN	_	_	6	compound	_	_	8:exp-Positive
+6	duzun	edun	VERB	_	_	7	acl	_	_	8:exp-Positive
+7	guztia	guzti	DET	_	_	8	obj	_	_	8:exp-Positive
+8	ditu	ukan	VERB	_	_	0	root	_	_	0:exp-Positive
+9	etxeak	etxe	NOUN	_	_	8	nsubj	_	_	8:targ|1:targ|3:targ
+10	.	.	PUNCT	_	_	8	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/airbnb-16163127_1-3
+# text = Hiriburu erdian ez dagoen arrren , 26. tranbiaren bitartez lotuta dago geltoki zentralarekin .
+1	Hiriburu	hiriburu	NOUN	_	_	4	obl	_	_	4:exp-Negative
+2	erdian	erdi	ADP	_	_	1	case	_	_	4:exp-Negative
+3	ez	ez	PART	_	_	4	advmod	_	_	4:exp-Negative
+4	dagoen	egon	VERB	_	_	5	acl	_	_	0:exp-Negative
+5	arrren	arren	NOUN	_	_	10	obl	_	_	_
+6	,	,	PUNCT	_	_	5	punct	_	_	_
+7	26.	26.	ADJ	_	_	8	amod	_	_	_
+8	tranbiaren	tranbia	NOUN	_	_	10	obl	_	_	_
+9	bitartez	None	ADP	_	_	8	case	_	_	_
+10	lotuta	lotu	VERB	_	_	0	root	_	_	_
+11	dago	egon	AUX	_	_	10	cop	_	_	_
+12	geltoki	geltoki	NOUN	_	_	13	nmod	_	_	_
+13	zentralarekin	zentral	NOUN	_	_	10	obl	_	_	_
+14	.	.	PUNCT	_	_	10	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/airbnb-16163127_1-4
+# text = Oso anfitrioi ona da Tim .
+1	Oso	oso	ADV	_	_	3	advmod	_	_	3:exp-Positive
+2	anfitrioi	anfitrio	NOUN	_	_	0	root	_	_	3:exp-Positive
+3	ona	on	ADJ	_	_	2	amod	_	_	0:exp-Positive
+4	da	izan	AUX	_	_	2	cop	_	_	_
+5	Tim	Tim	PROPN	_	_	2	nsubj	_	_	3:targ
+6	.	.	PUNCT	_	_	2	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/airbnb-16163127_1-5
+# text = Gure hegaldia atzerapenarekin iritzi zan Amsterdamera eta bertan egon zan zain , opari eta guzti .
+1	Gure	gu	PRON	_	_	2	nmod	_	_	_
+2	hegaldia	hegaldi	NOUN	_	_	4	nsubj	_	_	_
+3	atzerapenarekin	atzerapen	NOUN	_	_	4	obl	_	_	_
+4	iritzi	iritzi	VERB	_	_	0	root	_	_	_
+5	zan	izan	AUX	_	_	4	aux	_	_	_
+6	Amsterdamera	Amsterdam	PROPN	_	_	4	obl	_	_	_
+7	eta	eta	CCONJ	_	_	9	cc	_	_	_
+8	bertan	bertan	ADV	_	_	9	advmod	_	_	_
+9	egon	egon	VERB	_	_	4	conj	_	_	_
+10	zan	izan	AUX	_	_	9	aux	_	_	_
+11	zain	zain	ADV	_	_	9	advmod	_	_	_
+12	,	,	PUNCT	_	_	13	punct	_	_	_
+13	opari	opari	NOUN	_	_	9	obl	_	_	_
+14	eta	eta	CCONJ	_	_	15	cc	_	_	_
+15	guzti	guzti	DET	_	_	13	conj	_	_	_
+16	.	.	PUNCT	_	_	4	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/airbnb-16163127_1-6
+# text = Bost kideko familia gara eta kalitatea eta prezioa kontutan izanda aukera oso egokia ikusten dogu .
+1	Bost	bost	NUM	_	_	2	nummod	_	_	_
+2	kideko	kide	NOUN	_	_	3	nmod	_	_	_
+3	familia	familia	NOUN	_	_	0	root	_	_	_
+4	gara	izan	AUX	_	_	3	cop	_	_	_
+5	eta	eta	CCONJ	_	_	14	cc	_	_	_
+6	kalitatea	kalitate	NOUN	_	_	10	obj	_	_	_
+7	eta	eta	CCONJ	_	_	8	cc	_	_	_
+8	prezioa	prezio	NOUN	_	_	6	conj	_	_	_
+9	kontutan	kontu	NOUN	_	_	10	compound	_	_	_
+10	izanda	izan	VERB	_	_	14	advcl	_	_	_
+11	aukera	aukera	NOUN	_	_	14	obj	_	_	13:exp-Positive
+12	oso	oso	ADV	_	_	13	advmod	_	_	13:exp-Positive
+13	egokia	egoki	ADJ	_	_	11	amod	_	_	0:exp-Positive
+14	ikusten	ikusi	VERB	_	_	4	conj	_	_	_
+15	dogu	edun	AUX	_	_	14	aux	_	_	13:holder
+16	.	.	PUNCT	_	_	3	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/appart-ha-tel-mer-amp-golf_1-1
+# text = Oso dotore apainduta , tranbia geltokia gertu .
+1	Oso	oso	ADV	_	_	2	advmod	_	_	3:exp-Positive
+2	dotore	dotore	ADJ	_	_	3	xcomp	_	_	3:exp-Positive
+3	apainduta	apaindu	VERB	_	_	0	root	_	_	0:exp-Positive
+4	,	,	PUNCT	_	_	6	punct	_	_	_
+5	tranbia	tranbia	NOUN	_	_	6	nmod	_	_	6:targ
+6	geltokia	geltoki	NOUN	_	_	3	obl	_	_	7:targ
+7	gertu	gertu	ADP	_	_	6	case	_	_	0:exp-Positive
+8	.	.	PUNCT	_	_	3	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/appart-ha-tel-mer-amp-golf_1-2
+# text = Oso eroso , bikain .
+1	Oso	oso	ADV	_	_	2	advmod	_	_	2:exp-Positive
+2	eroso	eroso	ADJ	_	_	0	root	_	_	0:exp-Positive
+3	,	,	PUNCT	_	_	4	punct	_	_	_
+4	bikain	bikain	ADJ	_	_	2	obl	_	_	0:exp-Positive
+5	.	.	PUNCT	_	_	2	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/appart-ha-tel-mer-amp-golf_1-3
+# text = Thalaso baten ondoan .
+1	Thalaso	Thalaso	PROPN	_	_	0	root	_	_	_
+2	baten	bat	NUM	_	_	1	nummod	_	_	_
+3	ondoan	ondoan	ADP	_	_	2	case	_	_	_
+4	.	.	PUNCT	_	_	1	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/aparamentos-jeremias_1-1
+# text = Eurhostal hotelaren ondoko ondartza , playa de las fuentes , polita bada ere ez da oso erosoa .
+1	Eurhostal	Eurhostal	PROPN	_	_	2	nmod	_	_	4:targ|4:targ
+2	hotelaren	hotel	NOUN	_	_	4	nmod	_	_	4:targ|4:targ
+3	ondoko	ondoko	ADP	_	_	2	case	_	_	4:targ|4:targ
+4	ondartza	ondartza	NOUN	_	_	17	nsubj	_	_	11:targ|17:targ
+5	,	,	PUNCT	_	_	6	punct	_	_	_
+6	playa	playa	PROPN	_	_	4	conj	_	_	_
+7	de	de	X	_	_	6	flat	_	_	_
+8	las	las	PROPN	_	_	7	flat	_	_	_
+9	fuentes	fuentes	PROPN	_	_	8	flat	_	_	_
+10	,	,	PUNCT	_	_	4	punct	_	_	_
+11	polita	polit	ADJ	_	_	17	advcl	_	_	0:exp-Positive
+12	bada	izan	AUX	_	_	11	cop	_	_	_
+13	ere	ere	CCONJ	_	_	11	mark	_	_	_
+14	ez	ez	PART	_	_	17	advmod	_	_	17:exp-Negative
+15	da	izan	AUX	_	_	17	cop	_	_	17:exp-Negative
+16	oso	oso	ADV	_	_	17	advmod	_	_	17:exp-Negative
+17	erosoa	eroso	ADJ	_	_	0	root	_	_	0:exp-Negative
+18	.	.	PUNCT	_	_	17	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/aparamentos-jeremias_1-2
+# text = Hezetasun handiko ondartza da eta iturri naturalak sortzen direnez lurrean , zuloak zeuden edonon eta zorua ez zen oso uniformea eta beraz arriskutsua .
+1	Hezetasun	hezetasun	NOUN	_	_	3	nmod	_	_	_
+2	handiko	handi	ADJ	_	_	1	nmod	_	_	_
+3	ondartza	ondartza	NOUN	_	_	0	root	_	_	_
+4	da	izan	AUX	_	_	3	cop	_	_	_
+5	eta	eta	CCONJ	_	_	13	cc	_	_	_
+6	iturri	iturri	NOUN	_	_	8	nsubj	_	_	_
+7	naturalak	natural	ADJ	_	_	6	amod	_	_	_
+8	sortzen	sortu	VERB	_	_	13	advcl	_	_	_
+9	direnez	izan	AUX	_	_	8	aux	_	_	_
+10	lurrean	lur	NOUN	_	_	8	obl	_	_	_
+11	,	,	PUNCT	_	_	8	punct	_	_	_
+12	zuloak	zulo	NOUN	_	_	13	nsubj	_	_	14:targ
+13	zeuden	egon	VERB	_	_	4	conj	_	_	14:exp-Negative
+14	edonon	edonon	ADV	_	_	13	advmod	_	_	0:exp-Negative
+15	eta	eta	CCONJ	_	_	20	cc	_	_	_
+16	zorua	zoru	NOUN	_	_	20	nsubj	_	_	20:targ|23:targ
+17	ez	ez	PART	_	_	20	advmod	_	_	20:exp-Negative
+18	zen	izan	AUX	_	_	20	cop	_	_	20:exp-Negative
+19	oso	oso	ADV	_	_	20	advmod	_	_	20:exp-Negative
+20	uniformea	uniforme	ADJ	_	_	4	conj	_	_	0:exp-Negative
+21	eta	eta	CCONJ	_	_	23	cc	_	_	_
+22	beraz	beraz	CCONJ	_	_	23	advmod	_	_	_
+23	arriskutsua	arriskutsu	ADJ	_	_	4	conj	_	_	0:exp-Negative
+24	.	.	PUNCT	_	_	3	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/aparamentos-jeremias_1-3
+# text = Baina gertu baziren beste ondartzak , erosoak eta egokiak .
+1	Baina	baina	CCONJ	_	_	3	cc	_	_	_
+2	gertu	gertu	ADV	_	_	3	advmod	_	_	0:exp-Positive
+3	baziren	izan	VERB	_	_	0	root	_	_	_
+4	beste	beste	DET	_	_	5	det	_	_	5:targ|5:targ|5:targ
+5	ondartzak	ondartza	NOUN	_	_	3	nsubj	_	_	9:targ|2:targ|7:targ
+6	,	,	PUNCT	_	_	7	punct	_	_	_
+7	erosoak	eroso	ADJ	_	_	5	conj	_	_	0:exp-Positive
+8	eta	eta	CCONJ	_	_	9	cc	_	_	_
+9	egokiak	egoki	ADJ	_	_	5	conj	_	_	0:exp-Positive
+10	.	.	PUNCT	_	_	3	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/aparamentos-jeremias_1-4
+# text = Azkenean , arazo batengatik badirudi ez zutela jeremias hoteleko jantokia irekitzen eta petsio osoa genuenez naiz eta apartamentuetan egon , eurhostal-era bideratu gintuzten .
+1	Azkenean	azkenean	ADV	_	_	5	advmod	_	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_	_
+3	arazo	arazo	NOUN	_	_	5	obl	_	_	_
+4	batengatik	bat	NUM	_	_	3	nummod	_	_	_
+5	badirudi	iruditu	VERB	_	_	0	root	_	_	_
+6	ez	ez	PART	_	_	7	advmod	_	_	_
+7	zutela	ukan	VERB	_	_	5	ccomp	_	_	_
+8	jeremias	jeremias	PROPN	_	_	9	nmod	_	_	_
+9	hoteleko	hotel	NOUN	_	_	10	nmod	_	_	_
+10	jantokia	jantoki	NOUN	_	_	11	obj	_	_	_
+11	irekitzen	ireki	VERB	_	_	5	xcomp	_	_	_
+12	eta	eta	CCONJ	_	_	16	cc	_	_	_
+13	petsio	petsio	NOUN	_	_	15	obj	_	_	_
+14	osoa	oso	ADJ	_	_	13	amod	_	_	_
+15	genuenez	edun	VERB	_	_	16	advcl	_	_	_
+16	naiz	izan	VERB	_	_	5	conj	_	_	_
+17	eta	eta	CCONJ	_	_	22	cc	_	_	_
+18	apartamentuetan	apartamentu	NOUN	_	_	19	obl	_	_	_
+19	egon	egon	VERB	_	_	22	advcl	_	_	_
+20	,	,	PUNCT	_	_	19	punct	_	_	_
+21	eurhostal-era	eurhostal	NOUN	_	_	22	obl	_	_	_
+22	bideratu	bideratu	VERB	_	_	5	conj	_	_	_
+23	gintuzten	edun	AUX	_	_	22	aux	_	_	_
+24	.	.	PUNCT	_	_	5	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/aparamentos-jeremias_1-5
+# text = Balorazioa beraz azken honena da .
+1	Balorazioa	balorazio	NOUN	_	_	4	nsubj	_	_	_
+2	beraz	beraz	CCONJ	_	_	4	advmod	_	_	_
+3	azken	azken	ADJ	_	_	4	amod	_	_	_
+4	honena	hau	DET	_	_	0	root	_	_	_
+5	da	izan	AUX	_	_	4	cop	_	_	_
+6	.	.	PUNCT	_	_	4	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/aparamentos-jeremias_1-6
+# text = Dena oso ongi .
+1	Dena	dena	DET	_	_	3	nsubj	_	_	3:targ
+2	oso	oso	ADV	_	_	3	advmod	_	_	3:exp-Positive
+3	ongi	ongi	ADV	_	_	0	root	_	_	0:exp-Positive
+4	.	.	PUNCT	_	_	3	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/aparamentos-jeremias_1-7
+# text = Oso harrera ona , janaria primerakoa , atentzioa ezin hobea , zerbait esateko apartamentuak zaharrak direla baina oso garbi eta txukunak .
+1	Oso	oso	ADV	_	_	3	advmod	_	_	3:exp-Positive
+2	harrera	harrera	NOUN	_	_	0	root	_	_	3:targ
+3	ona	on	ADJ	_	_	2	amod	_	_	0:exp-Positive
+4	,	,	PUNCT	_	_	5	punct	_	_	_
+5	janaria	janari	NOUN	_	_	2	conj	_	_	6:targ
+6	primerakoa	primerako	ADJ	_	_	3	conj	_	_	0:exp-Positive
+7	,	,	PUNCT	_	_	8	punct	_	_	_
+8	atentzioa	atentzio	NOUN	_	_	2	conj	_	_	10:targ
+9	ezin	ezin	NOUN	_	_	2	conj	_	_	10:exp-Positive
+10	hobea	hobe	ADJ	_	_	2	amod	_	_	0:exp-Positive
+11	,	,	PUNCT	_	_	14	punct	_	_	_
+12	zerbait	zerbait	PRON	_	_	13	obj	_	_	_
+13	esateko	esan	VERB	_	_	14	advcl	_	_	_
+14	apartamentuak	apartamentu	NOUN	_	_	2	conj	_	_	21:targ|19:targ|15:targ
+15	zaharrak	zahar	ADJ	_	_	14	amod	_	_	0:exp-Negative
+16	direla	izan	AUX	_	_	15	cop	_	_	_
+17	baina	baina	CCONJ	_	_	21	cc	_	_	_
+18	oso	oso	ADV	_	_	19	advmod	_	_	19:exp-Positive
+19	garbi	garbi	ADV	_	_	16	conj	_	_	0:exp-Positive
+20	eta	eta	CCONJ	_	_	21	cc	_	_	_
+21	txukunak	txukun	ADJ	_	_	19	conj	_	_	0:exp-Positive
+22	.	.	PUNCT	_	_	2	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/aparamentos-jeremias_1-8
+# text = Oso ongi egon gara .
+1	Oso	oso	ADV	_	_	2	advmod	_	_	3:exp-Positive
+2	ongi	ongi	ADV	_	_	3	advmod	_	_	3:exp-Positive
+3	egon	egon	VERB	_	_	0	root	_	_	0:exp-Positive
+4	gara	izan	AUX	_	_	3	aux	_	_	3:holder
+5	.	.	PUNCT	_	_	3	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/aparamentos-jeremias_1-9
+# text = Piszina eta jardina oso ongi eta lekua paregabea paseatu eta egun batzutan deskonektatzeko .
+1	Piszina	piszin	NOUN	_	_	9	obj	_	_	5:targ
+2	eta	eta	CCONJ	_	_	3	cc	_	_	_
+3	jardina	jardin	NOUN	_	_	1	conj	_	_	5:targ
+4	oso	oso	ADV	_	_	8	advmod	_	_	5:exp-Positive|5:exp-Positive
+5	ongi	ongi	ADV	_	_	9	advmod	_	_	0:exp-Positive|0:exp-Positive
+6	eta	eta	CCONJ	_	_	7	cc	_	_	_
+7	lekua	leku	NOUN	_	_	5	conj	_	_	13:targ
+8	paregabea	paregabe	ADJ	_	_	7	amod	_	_	13:exp-Positive
+9	paseatu	paseatu	VERB	_	_	0	root	_	_	13:exp-Positive
+10	eta	eta	CCONJ	_	_	13	cc	_	_	13:exp-Positive
+11	egun	egun	NOUN	_	_	13	obl	_	_	13:exp-Positive
+12	batzutan	batzuk	DET	_	_	11	det	_	_	13:exp-Positive
+13	deskonektatzeko	deskonektatu	VERB	_	_	9	conj	_	_	0:exp-Positive
+14	.	.	PUNCT	_	_	9	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/aparamentos-jeremias_1-10
+# text = Haurrekin joateko oso toki egokia iruditzen zait .
+1	Haurrekin	haur	NOUN	_	_	2	obl	_	_	5:exp-Positive
+2	joateko	joan	VERB	_	_	6	advcl	_	_	5:exp-Positive
+3	oso	oso	ADV	_	_	5	advmod	_	_	5:exp-Positive
+4	toki	toki	NOUN	_	_	6	obj	_	_	5:targ
+5	egokia	egoki	ADJ	_	_	4	amod	_	_	0:exp-Positive
+6	iruditzen	iruditu	VERB	_	_	0	root	_	_	_
+7	zait	izan	AUX	_	_	6	aux	_	_	5:holder
+8	.	.	PUNCT	_	_	6	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/aparamentos-jeremias_1-11
+# text = Autoz joanez gero berriz nahiko toki dago aparkatzeko .
+1	Autoz	auto	NOUN	_	_	2	obl	_	_	_
+2	joanez	joan	VERB	_	_	7	advcl	_	_	_
+3	gero	gero	ADV	_	_	2	advcl	_	_	_
+4	berriz	berriz	ADV	_	_	7	advmod	_	_	_
+5	nahiko	nahiko	ADV	_	_	6	advmod	_	_	7:exp-Positive
+6	toki	toki	NOUN	_	_	7	nsubj	_	_	8:targ
+7	dago	egon	VERB	_	_	0	root	_	_	0:exp-Positive
+8	aparkatzeko	aparkatu	VERB	_	_	7	advcl	_	_	7:targ
+9	.	.	PUNCT	_	_	7	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/aparamentos-jeremias_1-12
+# text = Egun zoragareiak pasa ditugu .
+1	Egun	egun	NOUN	_	_	3	obj	_	_	3:exp-Positive
+2	zoragareiak	zoragarei	ADJ	_	_	1	amod	_	_	3:exp-Positive
+3	pasa	pasatu	VERB	_	_	0	root	_	_	0:exp-Positive
+4	ditugu	edun	AUX	_	_	3	aux	_	_	3:holder
+5	.	.	PUNCT	_	_	3	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/casa-rural-urruska-Anonimo_1-1
+# text = Leku aproposa denetatik alde egiteko .
+1	Leku	leku	NOUN	_	_	5	obj	_	_	5:targ
+2	aproposa	apropos	ADJ	_	_	1	amod	_	_	5:exp-Positive
+3	denetatik	dena	DET	_	_	5	obl	_	_	5:exp-Positive
+4	alde	alde	ADP	_	_	3	case	_	_	5:exp-Positive
+5	egiteko	egin	VERB	_	_	0	root	_	_	0:exp-Positive
+6	.	.	PUNCT	_	_	5	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/casa-rural-urruska-Anonimo_1-2
+# text = Ta etxeko jendie ezin jatorragoa .
+1	Ta	ta	INTJ	_	_	5	discourse	_	_	_
+2	etxeko	etxe	NOUN	_	_	3	nmod	_	_	3:targ
+3	jendie	jendie	NOUN	_	_	5	nsubj	_	_	5:targ
+4	ezin	ezin	NOUN	_	_	5	obl	_	_	5:exp-Positive
+5	jatorragoa	jator	ADJ	_	_	0	root	_	_	0:exp-Positive
+6	.	.	PUNCT	_	_	5	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/lekeitio-aterpetxea-hostel-Ander_1-1
+# text = Oso oso gustura egon gara !
+1	Oso	oso	ADV	_	_	3	advmod	_	_	6:exp-Positive
+2	oso	oso	ADV	_	_	3	advmod	_	_	6:exp-Positive
+3	gustura	gustura	ADV	_	_	4	advmod	_	_	6:exp-Positive
+4	egon	egon	VERB	_	_	0	root	_	_	6:exp-Positive
+5	gara	izan	AUX	_	_	4	aux	_	_	6:holder
+6	!	!	PUNCT	_	_	4	punct	_	_	0:exp-Positive
+
+# sent_id = multibooked/corpora/eu/lekeitio-aterpetxea-hostel-Ander_1-2
+# text = Jabea oso jatorra ta etxea oso ongi berriztua !
+1	Jabea	jabe	NOUN	_	_	3	nsubj	_	_	3:targ
+2	oso	oso	ADV	_	_	3	advmod	_	_	3:exp-Positive
+3	jatorra	jator	ADJ	_	_	0	root	_	_	0:exp-Positive
+4	ta	"	PUNCT	_	_	3	punct	_	_	_
+5	etxea	etxe	NOUN	_	_	8	obj	_	_	9:targ
+6	oso	oso	ADV	_	_	7	advmod	_	_	9:exp-Positive
+7	ongi	ongi	ADV	_	_	8	advmod	_	_	9:exp-Positive
+8	berriztua	berriztu	VERB	_	_	3	advcl	_	_	9:exp-Positive
+9	!	!	PUNCT	_	_	3	punct	_	_	0:exp-Positive
+
+# sent_id = multibooked/corpora/eu/italia-goerlitz_1-1
+# text = Lehen egunean wifia ez zebilen .
+1	Lehen	lehen	ADJ	_	_	2	amod	_	_	_
+2	egunean	egun	NOUN	_	_	5	obl	_	_	_
+3	wifia	wifia	NOUN	_	_	5	nsubj	_	_	5:targ
+4	ez	ez	PART	_	_	5	advmod	_	_	5:exp-Negative
+5	zebilen	ibili	VERB	_	_	0	root	_	_	0:exp-Negative
+6	.	.	PUNCT	_	_	5	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/italia-goerlitz_1-2
+# text = Hiria ederra da eta hotela erdi-erdian dago .
+1	Hiria	hiri	NOUN	_	_	0	root	_	_	2:targ
+2	ederra	eder	ADJ	_	_	1	amod	_	_	0:exp-Positive
+3	da	izan	AUX	_	_	1	cop	_	_	_
+4	eta	eta	CCONJ	_	_	7	cc	_	_	_
+5	hotela	hotel	NOUN	_	_	7	nsubj	_	_	6:targ
+6	erdi-erdian	erdi+-+erdi	NOUN	_	_	7	obl	_	_	0:exp-Positive
+7	dago	egon	VERB	_	_	3	conj	_	_	_
+8	.	.	PUNCT	_	_	1	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/italia-goerlitz_1-3
+# text = Jabe italiar sinpatikoa dauka eta eman zigun gela handi-handia zen .
+1	Jabe	jabe	NOUN	_	_	4	obj	_	_	2:targ
+2	italiar	italiar	ADJ	_	_	1	amod	_	_	3:targ
+3	sinpatikoa	sinpatiko	ADJ	_	_	1	amod	_	_	0:exp-Positive
+4	dauka	eduki	VERB	_	_	0	root	_	_	_
+5	eta	eta	CCONJ	_	_	6	cc	_	_	_
+6	eman	eman	VERB	_	_	4	conj	_	_	8:targ
+7	zigun	edun	AUX	_	_	6	aux	_	_	8:targ
+8	gela	gela	NOUN	_	_	6	obj	_	_	9:targ
+9	handi-handia	handi-handi	ADJ	_	_	8	amod	_	_	0:exp-Positive
+10	zen	izan	AUX	_	_	6	ccomp	_	_	_
+11	.	.	PUNCT	_	_	4	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/italia-goerlitz_1-4
+# text = Gustura egon ginen .
+1	Gustura	gustura	ADV	_	_	2	advmod	_	_	2:exp-Positive
+2	egon	egon	VERB	_	_	0	root	_	_	0:exp-Positive
+3	ginen	izan	AUX	_	_	2	aux	_	_	2:holder
+4	.	.	PUNCT	_	_	2	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/lurdeia_1-1
+# text = Izugarri ondo pasa deu asteburua lurdeian .
+1	Izugarri	izugarri	ADV	_	_	3	advmod	_	_	3:exp-Positive
+2	ondo	ondo	ADV	_	_	3	advmod	_	_	3:exp-Positive
+3	pasa	pasatu	VERB	_	_	0	root	_	_	0:exp-Positive
+4	deu	edun	AUX	_	_	3	aux	_	_	3:holder
+5	asteburua	asteburu	NOUN	_	_	3	obj	_	_	_
+6	lurdeian	lurdei	NOUN	_	_	3	obl	_	_	_
+7	.	.	PUNCT	_	_	3	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/lurdeia_1-2
+# text = Urdaibai erdin kokatuta dagoenez , naturarekin bat egiten dezu eta mendi puntan egoteak ematen dizun lasaitasunak ezin da diruz ordaindu .
+1	Urdaibai	Urdaibai	PROPN	_	_	3	nsubj	_	_	3:exp-Positive
+2	erdin	erdin	NOUN	_	_	3	obl	_	_	3:exp-Positive
+3	kokatuta	kokatu	VERB	_	_	8	advcl	_	_	0:exp-Positive
+4	dagoenez	egon	AUX	_	_	3	cop	_	_	_
+5	,	,	PUNCT	_	_	3	punct	_	_	_
+6	naturarekin	natura	NOUN	_	_	8	obl	_	_	9:exp-Positive
+7	bat	bat	NUM	_	_	6	nummod	_	_	9:exp-Positive
+8	egiten	egin	VERB	_	_	0	root	_	_	9:exp-Positive
+9	dezu	edun	AUX	_	_	8	aux	_	_	0:exp-Positive
+10	eta	eta	CCONJ	_	_	18	cc	_	_	_
+11	mendi	mendi	NOUN	_	_	13	obl	_	_	16:targ
+12	puntan	punta	ADP	_	_	11	case	_	_	16:targ
+13	egoteak	egon	VERB	_	_	14	csubj	_	_	16:targ
+14	ematen	eman	VERB	_	_	16	acl	_	_	16:targ
+15	dizun	edun	AUX	_	_	14	aux	_	_	16:targ
+16	lasaitasunak	lasaitasun	NOUN	_	_	20	obj	_	_	20:targ
+17	ezin	ezin	NOUN	_	_	18	compound	_	_	20:exp-Positive
+18	da	izan	VERB	_	_	8	conj	_	_	20:exp-Positive
+19	diruz	diru	NOUN	_	_	20	obj	_	_	20:exp-Positive
+20	ordaindu	ordaindu	VERB	_	_	18	xcomp	_	_	0:exp-Positive
+21	.	.	PUNCT	_	_	8	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/lurdeia_1-3
+# text = Etxea kampotik oso polita da eta paisaiak paradisiakuak , barrutik ere oso polita da , dekorazioa oso landua dago eta logela bakoitza bere xarma berezia dauka .
+1	Etxea	etxe	NOUN	_	_	4	nsubj	_	_	4:targ
+2	kampotik	kampo	NOUN	_	_	4	obl	_	_	4:exp-Positive
+3	oso	oso	ADV	_	_	4	advmod	_	_	4:exp-Positive
+4	polita	polit	ADJ	_	_	0	root	_	_	0:exp-Positive
+5	da	izan	AUX	_	_	4	cop	_	_	_
+6	eta	eta	CCONJ	_	_	13	cc	_	_	_
+7	paisaiak	paisai	NOUN	_	_	13	nsubj	_	_	8:targ
+8	paradisiakuak	paradisiaku	NOUN	_	_	13	nsubj	_	_	0:exp-Positive
+9	,	,	PUNCT	_	_	8	punct	_	_	_
+10	barrutik	barru	NOUN	_	_	13	obl	_	_	13:exp-Positive
+11	ere	ere	CCONJ	_	_	13	advmod	_	_	_
+12	oso	oso	ADV	_	_	13	advmod	_	_	13:exp-Positive
+13	polita	polit	ADJ	_	_	5	conj	_	_	0:exp-Positive
+14	da	izan	AUX	_	_	13	cop	_	_	_
+15	,	,	PUNCT	_	_	18	punct	_	_	_
+16	dekorazioa	dekorazio	NOUN	_	_	18	nsubj	_	_	18:targ
+17	oso	oso	ADV	_	_	18	advmod	_	_	18:exp-Positive
+18	landua	landu	VERB	_	_	5	conj	_	_	0:exp-Positive
+19	dago	egon	AUX	_	_	18	cop	_	_	_
+20	eta	eta	CCONJ	_	_	26	cc	_	_	_
+21	logela	logela	NOUN	_	_	26	nsubj	_	_	22:targ
+22	bakoitza	bakoitz	ADJ	_	_	21	amod	_	_	26:targ
+23	bere	bera	DET	_	_	24	nmod	_	_	26:exp-Positive
+24	xarma	xarma	NOUN	_	_	26	obj	_	_	26:exp-Positive
+25	berezia	berezi	ADJ	_	_	24	amod	_	_	26:exp-Positive
+26	dauka	eduki	VERB	_	_	5	conj	_	_	0:exp-Positive
+27	.	.	PUNCT	_	_	4	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/lurdeia_1-4
+# text = Baino lurdeiako onena bere jabeak dira , pertsona oso atseginak , jatorrak ta oso adeitsuak , horrela bai gustora .
+1	Baino	baino	ADV	_	_	5	advmod	_	_	_
+2	lurdeiako	lurdei	NOUN	_	_	5	nsubj	_	_	_
+3	onena	on	ADJ	_	_	2	amod	_	_	0:exp-Positive
+4	bere	bera	DET	_	_	5	nmod	_	_	5:targ|5:targ|5:targ|5:targ
+5	jabeak	jabe	NOUN	_	_	0	root	_	_	12:targ|10:targ|15:targ|3:targ
+6	dira	izan	AUX	_	_	5	cop	_	_	_
+7	,	,	PUNCT	_	_	10	punct	_	_	_
+8	pertsona	pertsona	NOUN	_	_	10	nsubj	_	_	10:exp-Positive
+9	oso	oso	ADV	_	_	10	advmod	_	_	10:exp-Positive
+10	atseginak	atsegin	ADJ	_	_	5	conj	_	_	0:exp-Positive
+11	,	,	PUNCT	_	_	12	punct	_	_	_
+12	jatorrak	jator	NOUN	_	_	8	conj	_	_	0:exp-Positive
+13	ta	"	PUNCT	_	_	15	punct	_	_	_
+14	oso	oso	ADV	_	_	15	advmod	_	_	15:exp-Positive
+15	adeitsuak	adeitsu	ADJ	_	_	10	conj	_	_	0:exp-Positive
+16	,	,	PUNCT	_	_	17	punct	_	_	_
+17	horrela	horrela	ADV	_	_	15	advmod	_	_	19:exp-Positive
+18	bai	bai	PART	_	_	19	cc	_	_	19:exp-Positive
+19	gustora	gustura	ADV	_	_	15	advmod	_	_	0:exp-Positive
+20	.	.	PUNCT	_	_	5	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/lurdeia_1-5
+# text = Edozeini gomendatzeko lekua , mila esker lurdeiakoei , laister itzuliko gera. ( oso onak tomatiak )
+1	Edozeini	edozeini	NOUN	_	_	2	obj	_	_	2:exp-Positive
+2	gomendatzeko	gomendatu	VERB	_	_	3	advcl	_	_	0:exp-Positive
+3	lekua	leku	NOUN	_	_	10	obj	_	_	2:targ
+4	,	,	PUNCT	_	_	3	punct	_	_	_
+5	mila	mila	NUM	_	_	6	nummod	_	_	6:exp-Positive
+6	esker	esker	NOUN	_	_	10	obl	_	_	0:exp-Positive
+7	lurdeiakoei	lurdeia	NOUN	_	_	10	iobj	_	_	_
+8	,	,	PUNCT	_	_	7	punct	_	_	_
+9	laister	laister	ADV	_	_	10	advmod	_	_	11:exp-Positive
+10	itzuliko	itzuli	VERB	_	_	0	root	_	_	11:exp-Positive
+11	gera.	izan	AUX	_	_	10	aux	_	_	0:exp-Positive
+12	(	(	PUNCT	_	_	14	punct	_	_	_
+13	oso	oso	ADV	_	_	14	advmod	_	_	14:exp-Positive
+14	onak	on	ADJ	_	_	10	parataxis	_	_	0:exp-Positive
+15	tomatiak	tomati	NOUN	_	_	14	nmod	_	_	14:targ
+16	)	)	PUNCT	_	_	14	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/country-house-zulueta-Leire_1-1
+# text = Bidea heltzeko oso estua da , ez da erreza beste kotxe batekin topatzen bazara .
+1	Bidea	bide	NOUN	_	_	2	obj	_	_	2:targ
+2	heltzeko	heldu	VERB	_	_	4	advcl	_	_	4:targ
+3	oso	oso	ADV	_	_	4	advmod	_	_	4:exp-Negative
+4	estua	estu	ADJ	_	_	0	root	_	_	0:exp-Negative
+5	da	izan	AUX	_	_	4	cop	_	_	_
+6	,	,	PUNCT	_	_	9	punct	_	_	_
+7	ez	ez	PART	_	_	9	advmod	_	_	14:exp-Negative
+8	da	izan	AUX	_	_	9	cop	_	_	14:exp-Negative
+9	erreza	errez	ADJ	_	_	5	conj	_	_	14:exp-Negative
+10	beste	beste	DET	_	_	11	det	_	_	14:exp-Negative
+11	kotxe	kotxe	NOUN	_	_	13	obl	_	_	14:exp-Negative
+12	batekin	bat	NUM	_	_	11	nummod	_	_	14:exp-Negative
+13	topatzen	topatu	VERB	_	_	9	advcl	_	_	14:exp-Negative
+14	bazara	izan	AUX	_	_	13	aux	_	_	0:exp-Negative
+15	.	.	PUNCT	_	_	4	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/country-house-zulueta-Leire_1-2
+# text = Bestela dena primeran !
+1	Bestela	bestela	CCONJ	_	_	0	root	_	_	_
+2	dena	dena	DET	_	_	3	nsubj	_	_	4:targ
+3	primeran	primeran	ADV	_	_	1	nmod	_	_	4:exp-Positive
+4	!	!	PUNCT	_	_	1	punct	_	_	0:exp-Positive
+
+# sent_id = multibooked/corpora/eu/country-house-zulueta-Leire_1-3
+# text = Oso gustura egon ginen , lekua itzela da
+1	Oso	oso	ADV	_	_	2	advmod	_	_	3:exp-Positive
+2	gustura	gustura	ADV	_	_	3	advmod	_	_	3:exp-Positive
+3	egon	egon	VERB	_	_	0	root	_	_	0:exp-Positive
+4	ginen	izan	AUX	_	_	3	aux	_	_	3:holder
+5	,	,	PUNCT	_	_	7	punct	_	_	_
+6	lekua	leku	NOUN	_	_	7	nsubj	_	_	7:targ
+7	itzela	itzel	ADJ	_	_	3	conj	_	_	0:exp-Positive
+8	da	izan	AUX	_	_	7	cop	_	_	_
+
+# sent_id = multibooked/corpora/eu/airbnb-8525617_1-1
+# text = Egun zoragarriak pasa ditugu Bartzelonan eta apartamentu honek zerikusi haundia izan du : oso ondo kokatuta dago , argitasun haundia du eta lasai lasaia da .
+1	Egun	egun	NOUN	_	_	3	obj	_	_	3:targ
+2	zoragarriak	zoragarri	ADJ	_	_	1	amod	_	_	3:exp-Positive
+3	pasa	pasatu	VERB	_	_	0	root	_	_	0:exp-Positive
+4	ditugu	edun	AUX	_	_	3	aux	_	_	3:holder
+5	Bartzelonan	Bartzelona	PROPN	_	_	3	obl	_	_	_
+6	eta	eta	CCONJ	_	_	11	cc	_	_	_
+7	apartamentu	apartamentu	NOUN	_	_	11	nsubj	_	_	8:targ|8:targ|8:targ
+8	honek	hau	DET	_	_	7	det	_	_	24:targ|21:targ|16:targ
+9	zerikusi	zerikusi	NOUN	_	_	11	obj	_	_	_
+10	haundia	handi	ADJ	_	_	9	amod	_	_	_
+11	izan	izan	VERB	_	_	3	conj	_	_	_
+12	du	edun	AUX	_	_	11	aux	_	_	_
+13	:	:	PUNCT	_	_	16	punct	_	_	_
+14	oso	oso	ADV	_	_	15	advmod	_	_	16:exp-Positive
+15	ondo	ondo	ADV	_	_	16	advmod	_	_	16:exp-Positive
+16	kokatuta	kokatu	VERB	_	_	3	conj	_	_	0:exp-Positive
+17	dago	egon	AUX	_	_	16	cop	_	_	_
+18	,	,	PUNCT	_	_	21	punct	_	_	_
+19	argitasun	argitasun	NOUN	_	_	21	obj	_	_	21:exp-Positive
+20	haundia	handi	ADJ	_	_	19	amod	_	_	21:exp-Positive
+21	du	ukan	VERB	_	_	3	conj	_	_	0:exp-Positive
+22	eta	eta	CCONJ	_	_	24	cc	_	_	_
+23	lasai	lasai	ADV	_	_	24	advmod	_	_	24:exp-Positive
+24	lasaia	lasai	ADJ	_	_	3	conj	_	_	0:exp-Positive
+25	da	izan	AUX	_	_	24	cop	_	_	_
+26	.	.	PUNCT	_	_	3	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/airbnb-8525617_1-2
+# text = Etxean bezala sentitu gara .
+1	Etxean	etxe	NOUN	_	_	3	obl	_	_	3:exp-Positive
+2	bezala	bezala	ADP	_	_	1	case	_	_	3:exp-Positive
+3	sentitu	sentitu	VERB	_	_	0	root	_	_	0:exp-Positive
+4	gara	izan	AUX	_	_	3	aux	_	_	3:holder
+5	.	.	PUNCT	_	_	3	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/airbnb-8525617_1-3
+# text = Bartzelonara bueltatzekotan apartamentu honetara etorriko gara berriz , dudik gabe .
+1	Bartzelonara	Bartzelona	PROPN	_	_	2	obl	_	_	_
+2	bueltatzekotan	bueltatu	VERB	_	_	5	advcl	_	_	_
+3	apartamentu	apartamentu	NOUN	_	_	5	obl	_	_	7:exp-Positive
+4	honetara	hau	DET	_	_	3	det	_	_	7:exp-Positive
+5	etorriko	etorri	VERB	_	_	0	root	_	_	7:exp-Positive
+6	gara	izan	AUX	_	_	5	aux	_	_	7:exp-Positive
+7	berriz	berriz	CCONJ	_	_	5	advmod	_	_	0:exp-Positive
+8	,	,	PUNCT	_	_	9	punct	_	_	_
+9	dudik	dudi	NOUN	_	_	5	obl	_	_	_
+10	gabe	gabe	ADP	_	_	9	case	_	_	_
+11	.	.	PUNCT	_	_	5	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/airbnb-8525617_1-4
+# text = Hemos disfrutado de unos días preciosos en Barcelona alojándonos en este acogedor apartamento que nos ha hecho sentirnos como en casa .
+1	Hemos	hemos	INTJ	_	_	0	root	_	_	_
+2	disfrutado	disfrutado	NOUN	_	_	1	flat	_	_	_
+3	de	de	X	_	_	2	flat	_	_	_
+4	unos	unos	INTJ	_	_	3	flat	_	_	_
+5	días	días	X	_	_	4	flat	_	_	_
+6	preciosos	preciosos	NOUN	_	_	5	flat	_	_	_
+7	en	en	X	_	_	9	nmod	_	_	_
+8	Barcelona	Barcelona	PROPN	_	_	7	flat	_	_	_
+9	alojándonos	alojándonos	NOUN	_	_	6	nmod	_	_	_
+10	en	en	X	_	_	13	nmod	_	_	_
+11	este	este	INTJ	_	_	10	flat	_	_	_
+12	acogedor	acogedor	NOUN	_	_	13	nmod	_	_	_
+13	apartamento	apartamento	NOUN	_	_	9	conj	_	_	_
+14	que	que	INTJ	_	_	13	nmod	_	_	_
+15	nos	nos	INTJ	_	_	14	flat	_	_	_
+16	ha	ha	INTJ	_	_	15	flat	_	_	_
+17	hecho	hecho	X	_	_	16	flat	_	_	_
+18	sentirnos	sentirnos	PROPN	_	_	17	flat	_	_	_
+19	como	como	X	_	_	18	flat	_	_	_
+20	en	en	X	_	_	19	flat	_	_	_
+21	casa	casa	PROPN	_	_	20	flat	_	_	_
+22	.	.	PUNCT	_	_	13	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/airbnb-8525617_1-5
+# text = Muy bien ubicado , luminoso y tranquilo .
+1	Muy	muy	INTJ	_	_	3	discourse	_	_	_
+2	bien	bi	NUM	_	_	1	flat	_	_	_
+3	ubicado	ubicado	NOUN	_	_	0	root	_	_	_
+4	,	,	PUNCT	_	_	7	punct	_	_	_
+5	luminoso	luminoso	NOUN	_	_	7	nmod	_	_	_
+6	y	y	PROPN	_	_	5	flat	_	_	_
+7	tranquilo	tranquilo	NOUN	_	_	3	conj	_	_	_
+8	.	.	PUNCT	_	_	3	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/airbnb-8525617_1-6
+# text = Muy recomendable .
+1	Muy	muy	INTJ	_	_	2	discourse	_	_	_
+2	recomendable	recomendable	NOUN	_	_	0	root	_	_	_
+3	.	.	PUNCT	_	_	1	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/balneario-elorriaga_1-1
+# text = Nabarmentzeko deusik ez .
+1	Nabarmentzeko	nabarmendu	VERB	_	_	2	advcl	_	_	_
+2	deusik	deus	NOUN	_	_	0	root	_	_	_
+3	ez	ez	PART	_	_	2	advmod	_	_	_
+4	.	.	PUNCT	_	_	2	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/balneario-elorriaga_1-2
+# text = Bainuetxearen sinpletasuna , ZEN estilokoa , alegia ; erlaxatzeko eta gogoeta egiteko oso aproposa .
+1	Bainuetxearen	Bainuetxea	PROPN	_	_	2	nmod	_	_	5:targ|2:targ|14:targ
+2	sinpletasuna	sinpletasun	NOUN	_	_	5	nsubj	_	_	0:exp-Positive
+3	,	,	PUNCT	_	_	2	punct	_	_	_
+4	ZEN	izan	AUX	_	_	5	cop	_	_	5:exp-Positive
+5	estilokoa	estilo	NOUN	_	_	0	root	_	_	0:exp-Positive
+6	,	,	PUNCT	_	_	7	punct	_	_	_
+7	alegia	alegia	CCONJ	_	_	5	advmod	_	_	_
+8	;	;	PUNCT	_	_	14	punct	_	_	_
+9	erlaxatzeko	erlaxatu	VERB	_	_	14	advcl	_	_	14:exp-Positive
+10	eta	eta	CCONJ	_	_	11	cc	_	_	14:exp-Positive
+11	gogoeta	gogoeta	NOUN	_	_	12	obj	_	_	14:exp-Positive
+12	egiteko	egin	VERB	_	_	9	conj	_	_	14:exp-Positive
+13	oso	oso	ADV	_	_	14	advmod	_	_	14:exp-Positive
+14	aproposa	apropos	ADJ	_	_	4	conj	_	_	0:exp-Positive
+15	.	.	PUNCT	_	_	5	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/iberreko-errota_1-1
+# text = Asteburu honetan 18 gazte egon gara Iberreko Errotan .
+1	Asteburu	asteburu	NOUN	_	_	5	obl	_	_	_
+2	honetan	hau	DET	_	_	1	det	_	_	_
+3	18	18	NUM	_	_	4	nummod	_	_	_
+4	gazte	gazte	NOUN	_	_	5	nsubj	_	_	_
+5	egon	egon	VERB	_	_	0	root	_	_	_
+6	gara	izan	AUX	_	_	5	aux	_	_	_
+7	Iberreko	Iberre	PROPN	_	_	8	nmod	_	_	_
+8	Errotan	Errota	PROPN	_	_	5	obl	_	_	_
+9	.	.	PUNCT	_	_	5	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/iberreko-errota_1-2
+# text = Etxe guztia alokatu genuen eta oso gustora egon ginen .
+1	Etxe	etxe	NOUN	_	_	3	obj	_	_	_
+2	guztia	guzti	DET	_	_	1	det	_	_	_
+3	alokatu	alokatu	VERB	_	_	0	root	_	_	_
+4	genuen	edun	AUX	_	_	3	aux	_	_	_
+5	eta	eta	CCONJ	_	_	8	cc	_	_	_
+6	oso	oso	ADV	_	_	7	advmod	_	_	8:exp-Positive
+7	gustora	gustura	ADV	_	_	8	advmod	_	_	8:exp-Positive
+8	egon	egon	VERB	_	_	3	conj	_	_	0:exp-Positive
+9	ginen	izan	AUX	_	_	8	aux	_	_	8:holder
+10	.	.	PUNCT	_	_	3	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/iberreko-errota_1-3
+# text = Hain talde handia izanda , etxeko jabeak ohe gehiago jarri zizkigun eta dena zegoen primeran .
+1	Hain	hain	ADV	_	_	3	advmod	_	_	_
+2	talde	talde	NOUN	_	_	4	obj	_	_	_
+3	handia	handi	ADJ	_	_	2	amod	_	_	_
+4	izanda	izan	VERB	_	_	10	advcl	_	_	_
+5	,	,	PUNCT	_	_	4	punct	_	_	_
+6	etxeko	etxe	NOUN	_	_	7	nmod	_	_	_
+7	jabeak	jabe	NOUN	_	_	10	nsubj	_	_	_
+8	ohe	ohe	NOUN	_	_	10	obj	_	_	_
+9	gehiago	gehiago	DET	_	_	8	det	_	_	_
+10	jarri	jarri	VERB	_	_	0	root	_	_	_
+11	zizkigun	edun	AUX	_	_	10	aux	_	_	_
+12	eta	eta	CCONJ	_	_	14	cc	_	_	_
+13	dena	dena	DET	_	_	14	nsubj	_	_	15:targ
+14	zegoen	egon	VERB	_	_	10	conj	_	_	_
+15	primeran	primeran	ADV	_	_	14	advmod	_	_	0:exp-Positive
+16	.	.	PUNCT	_	_	10	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/iberreko-errota_1-4
+# text = Etxe ondoan dagoen txokoan egon ginen denbora gehiena , oso ondo ekipatuta baitzegoen sukaldea eta han lasai egoteko leku aproposena delako .
+1	Etxe	etxe	NOUN	_	_	3	obl	_	_	_
+2	ondoan	ondoan	ADP	_	_	1	case	_	_	_
+3	dagoen	egon	VERB	_	_	4	acl	_	_	_
+4	txokoan	txoko	NOUN	_	_	5	obl	_	_	_
+5	egon	egon	VERB	_	_	0	root	_	_	_
+6	ginen	izan	AUX	_	_	5	aux	_	_	_
+7	denbora	denbora	NOUN	_	_	5	nsubj	_	_	_
+8	gehiena	gehien	DET	_	_	7	det	_	_	_
+9	,	,	PUNCT	_	_	12	punct	_	_	_
+10	oso	oso	ADV	_	_	11	advmod	_	_	12:exp-Positive
+11	ondo	ondo	ADV	_	_	12	advmod	_	_	12:exp-Positive
+12	ekipatuta	ekipatu	VERB	_	_	5	advcl	_	_	0:exp-Positive
+13	baitzegoen	egon	AUX	_	_	12	cop	_	_	_
+14	sukaldea	sukalde	NOUN	_	_	12	nsubj	_	_	12:targ
+15	eta	eta	CCONJ	_	_	19	cc	_	_	_
+16	han	han	ADV	_	_	17	advmod	_	_	_
+17	lasai	lasai	ADV	_	_	19	advmod	_	_	18:exp-Positive
+18	egoteko	egon	AUX	_	_	17	cop	_	_	0:exp-Positive
+19	leku	leku	NOUN	_	_	5	advcl	_	_	18:targ|20:targ
+20	aproposena	apropos	ADJ	_	_	19	amod	_	_	0:exp-Positive
+21	delako	izan	AUX	_	_	19	cop	_	_	_
+22	.	.	PUNCT	_	_	5	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/iberreko-errota_1-5
+# text = Etxea oso zainduta dago eta garbitasuna ere azpimarratu nahi genuke .
+1	Etxea	etxe	NOUN	_	_	3	nsubj	_	_	3:targ
+2	oso	oso	ADV	_	_	3	advmod	_	_	3:exp-Positive
+3	zainduta	zaindu	VERB	_	_	0	root	_	_	0:exp-Positive
+4	dago	egon	AUX	_	_	3	cop	_	_	_
+5	eta	eta	CCONJ	_	_	10	cc	_	_	_
+6	garbitasuna	garbitasun	NOUN	_	_	8	obj	_	_	9:targ
+7	ere	ere	CCONJ	_	_	8	advmod	_	_	_
+8	azpimarratu	azpimarratu	VERB	_	_	4	conj	_	_	9:exp-Positive
+9	nahi	nahi	NOUN	_	_	10	compound	_	_	0:exp-Positive
+10	genuke	edun	VERB	_	_	4	conj	_	_	9:holder
+11	.	.	PUNCT	_	_	3	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/iberreko-errota_1-6
+# text = Hurrengoan ere hona bueltatzeko ahalegina egingo dugulakoan nago .
+1	Hurrengoan	hurren	NOUN	_	_	6	obl	_	_	6:exp-Positive
+2	ere	ere	CCONJ	_	_	8	advmod	_	_	6:exp-Positive
+3	hona	hona	ADV	_	_	4	advmod	_	_	6:exp-Positive
+4	bueltatzeko	bueltatu	VERB	_	_	5	advcl	_	_	6:exp-Positive
+5	ahalegina	ahalegin	NOUN	_	_	6	obj	_	_	6:exp-Positive
+6	egingo	egin	VERB	_	_	8	advcl	_	_	0:exp-Positive
+7	dugulakoan	edun	AUX	_	_	6	aux	_	_	_
+8	nago	egon	VERB	_	_	0	root	_	_	6:holder
+9	.	.	PUNCT	_	_	8	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/airbnb-2068599_1-1
+# text = Iragarkiko argazkiei esker erabaki genuen etxe hori aukeratzea .
+1	Iragarkiko	iragarki	NOUN	_	_	2	nmod	_	_	_
+2	argazkiei	argazki	NOUN	_	_	4	obl	_	_	_
+3	esker	esker	ADP	_	_	2	case	_	_	_
+4	erabaki	erabaki	VERB	_	_	0	root	_	_	_
+5	genuen	edun	AUX	_	_	4	aux	_	_	_
+6	etxe	etxe	NOUN	_	_	8	obj	_	_	_
+7	hori	hori	DET	_	_	6	det	_	_	_
+8	aukeratzea	aukeratu	VERB	_	_	4	xcomp	_	_	_
+9	.	.	PUNCT	_	_	4	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/airbnb-2068599_1-2
+# text = Gainera , guk nahi genuena eskaintzen zuen : gertutasuna , erosoa , bi gela , lau ohe ...
+1	Gainera	gainera	CCONJ	_	_	6	advmod	_	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_	_
+3	guk	gu	PRON	_	_	6	nsubj	_	_	7:holder
+4	nahi	nahi	NOUN	_	_	5	compound	_	_	5:targ
+5	genuena	ukan	VERB	_	_	6	xcomp	_	_	7:targ
+6	eskaintzen	eskaini	VERB	_	_	0	root	_	_	7:exp-Positive
+7	zuen	edun	AUX	_	_	6	aux	_	_	0:exp-Positive
+8	:	:	PUNCT	_	_	9	punct	_	_	_
+9	gertutasuna	gertutasun	NOUN	_	_	6	obj	_	_	0:exp-Positive
+10	,	,	PUNCT	_	_	11	punct	_	_	_
+11	erosoa	eroso	ADJ	_	_	9	conj	_	_	0:exp-Positive
+12	,	,	PUNCT	_	_	14	punct	_	_	_
+13	bi	bi	NUM	_	_	14	nummod	_	_	_
+14	gela	gela	NOUN	_	_	9	conj	_	_	_
+15	,	,	PUNCT	_	_	17	punct	_	_	_
+16	lau	lau	NUM	_	_	17	nummod	_	_	_
+17	ohe	ohe	NOUN	_	_	9	conj	_	_	_
+18	...	...	PUNCT	_	_	6	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/nekatur-ibarrolabekoa-david_1-1
+# text = Ezin ahaztuzko egonaldia izan dugu .
+1	Ezin	ezin	NOUN	_	_	2	compound	_	_	2:exp-Positive
+2	ahaztuzko	ahaztu	VERB	_	_	3	advcl	_	_	0:exp-Positive
+3	egonaldia	egonaldi	NOUN	_	_	4	obj	_	_	2:targ
+4	izan	izan	VERB	_	_	0	root	_	_	_
+5	dugu	edun	AUX	_	_	4	aux	_	_	2:holder
+6	.	.	PUNCT	_	_	4	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/nekatur-ibarrolabekoa-david_1-2
+# text = Nekane Eskerrik Asko , Xabier , Maite eta Patxi .
+1	Nekane	Nekane	PROPN	_	_	3	nsubj	_	_	3:targ
+2	Eskerrik	Eskerri	PROPN	_	_	1	flat	_	_	3:exp-Positive
+3	Asko	asko	ADV	_	_	0	root	_	_	0:exp-Positive
+4	,	,	PUNCT	_	_	5	punct	_	_	_
+5	Xabier	Xabier	PROPN	_	_	1	conj	_	_	_
+6	,	,	PUNCT	_	_	7	punct	_	_	_
+7	Maite	Maite	PROPN	_	_	3	conj	_	_	_
+8	eta	eta	CCONJ	_	_	9	cc	_	_	_
+9	Patxi	Patxi	PROPN	_	_	3	conj	_	_	_
+10	.	.	PUNCT	_	_	3	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/nekatur-ibarrolabekoa-david_1-3
+# text = Bartzelonatik zuengatiko txacoli-etako kopa onaz topa egiten dugu .
+1	Bartzelonatik	Bartzelona	PROPN	_	_	6	obl	_	_	_
+2	zuengatiko	zuengatiko	ADP	_	_	1	case	_	_	_
+3	txacoli-etako	txacoli	NOUN	_	_	4	nmod	_	_	_
+4	kopa	kopa	NOUN	_	_	6	obl	_	_	_
+5	onaz	on	ADJ	_	_	4	amod	_	_	_
+6	topa	topatu	VERB	_	_	0	root	_	_	_
+7	egiten	egin	VERB	_	_	6	compound	_	_	_
+8	dugu	edun	AUX	_	_	6	aux	_	_	_
+9	.	.	PUNCT	_	_	6	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/nekatur-ibarrolabekoa-david_1-4
+# text = Osasuna !
+1	Osasuna	Osasuna	PROPN	_	_	0	root	_	_	_
+2	!	!	PUNCT	_	_	1	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/Iturrienea-ostatua_1-1
+# text = Iruzkinak euskaraz egiteko aukera ez izatea .
+1	Iruzkinak	iruzkin	NOUN	_	_	3	obj	_	_	6:targ
+2	euskaraz	euskara	NOUN	_	_	3	obl	_	_	6:exp-Negative
+3	egiteko	egin	VERB	_	_	4	advcl	_	_	6:exp-Negative
+4	aukera	aukera	NOUN	_	_	6	obj	_	_	6:exp-Negative
+5	ez	ez	PART	_	_	6	advmod	_	_	6:exp-Negative
+6	izatea	izan	VERB	_	_	0	root	_	_	0:exp-Negative
+7	.	.	PUNCT	_	_	6	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/Iturrienea-ostatua_1-2
+# text = Azken finean , Bilboko ostatu bat da. dekorazioa euskal tradiziokoa. izena ere euskalduna ...
+1	Azken	azken	ADJ	_	_	2	amod	_	_	_
+2	finean	fin	NOUN	_	_	13	obl	_	_	_
+3	,	,	PUNCT	_	_	2	punct	_	_	_
+4	Bilboko	Bilbo	PROPN	_	_	5	nmod	_	_	_
+5	ostatu	ostatu	NOUN	_	_	13	nsubj	_	_	_
+6	bat	bat	NUM	_	_	5	nummod	_	_	_
+7	da.	izan	AUX	_	_	5	cop	_	_	_
+8	dekorazioa	dekorazio	NOUN	_	_	13	nsubj	_	_	_
+9	euskal	euskal	NOUN	_	_	10	compound	_	_	_
+10	tradiziokoa.	tradizio	NOUN	_	_	11	nmod	_	_	_
+11	izena	izen	NOUN	_	_	13	nsubj	_	_	_
+12	ere	ere	CCONJ	_	_	13	advmod	_	_	_
+13	euskalduna	euskaldun	ADJ	_	_	0	root	_	_	_
+14	...	...	PUNCT	_	_	13	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/Iturrienea-ostatua_1-3
+# text = Ea etorkizunean aukera emango duzuen ...
+1	Ea	ea	INTJ	_	_	4	discourse	_	_	_
+2	etorkizunean	etorkizun	NOUN	_	_	4	obl	_	_	_
+3	aukera	aukera	NOUN	_	_	4	obj	_	_	_
+4	emango	eman	VERB	_	_	0	root	_	_	_
+5	duzuen	edun	AUX	_	_	4	aux	_	_	_
+6	...	...	PUNCT	_	_	4	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/Iturrienea-ostatua_1-4
+# text = Dena ( ondokoan jarritakoa izan ezik )
+1	Dena	dena	DET	_	_	4	nsubj	_	_	_
+2	(	(	PUNCT	_	_	4	punct	_	_	_
+3	ondokoan	ondoko	ADJ	_	_	4	obl	_	_	_
+4	jarritakoa	jarri	VERB	_	_	0	root	_	_	_
+5	izan	izan	AUX	_	_	4	cop	_	_	_
+6	ezik	ezik	CCONJ	_	_	4	mark	_	_	_
+7	)	)	PUNCT	_	_	4	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/Hostal_Plaza_Mayor_1-1
+# text = Plaza Nagusiaren ondoan kokaturiko Hotal txikia da .
+1	Plaza	Plaza	NOUN	_	_	4	obl	_	_	4:exp-Positive
+2	Nagusiaren	nagusi	ADJ	_	_	1	nmod	_	_	4:exp-Positive
+3	ondoan	ondoan	ADP	_	_	2	case	_	_	4:exp-Positive
+4	kokaturiko	kokatu	VERB	_	_	5	advcl	_	_	0:exp-Positive
+5	Hotal	hotal	NOUN	_	_	0	root	_	_	4:targ|6:targ
+6	txikia	txiki	ADJ	_	_	5	amod	_	_	0:exp-Negative
+7	da	izan	AUX	_	_	5	cop	_	_	_
+8	.	.	PUNCT	_	_	5	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/Hostal_Plaza_Mayor_1-2
+# text = Bere inguruan jatetxeak , tabernak eta hiriko leku garrantzitsuenak daude .
+1	Bere	bera	DET	_	_	10	obl	_	_	_
+2	inguruan	inguru	ADP	_	_	1	case	_	_	_
+3	jatetxeak	jatetxe	NOUN	_	_	10	nsubj	_	_	_
+4	,	,	PUNCT	_	_	5	punct	_	_	_
+5	tabernak	taberna	NOUN	_	_	3	conj	_	_	_
+6	eta	eta	CCONJ	_	_	7	cc	_	_	_
+7	hiriko	hiri	NOUN	_	_	3	conj	_	_	_
+8	leku	leku	NOUN	_	_	10	nsubj	_	_	_
+9	garrantzitsuenak	garrantzitsu	ADJ	_	_	8	amod	_	_	_
+10	daude	egon	VERB	_	_	0	root	_	_	_
+11	.	.	PUNCT	_	_	10	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/Hostal_Plaza_Mayor_1-3
+# text = Tratu egokia eman ziguten .
+1	Tratu	tratu	NOUN	_	_	3	obj	_	_	2:targ
+2	egokia	egoki	ADJ	_	_	1	amod	_	_	0:exp-Positive
+3	eman	eman	VERB	_	_	0	root	_	_	_
+4	ziguten	edun	AUX	_	_	3	aux	_	_	2:holder
+5	.	.	PUNCT	_	_	3	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/Hostal_Plaza_Mayor_1-4
+# text = Lotarako leku paregabea da , txarrena igogailurik ez dagoela eta eskilera bidez heldu behar zarela logelara .
+1	Lotarako	Lota	PROPN	_	_	2	nmod	_	_	_
+2	leku	leku	NOUN	_	_	0	root	_	_	3:targ
+3	paregabea	paregabe	ADJ	_	_	2	amod	_	_	0:exp-Positive
+4	da	izan	AUX	_	_	2	cop	_	_	_
+5	,	,	PUNCT	_	_	15	punct	_	_	_
+6	txarrena	txar	ADJ	_	_	7	amod	_	_	0:exp-Negative
+7	igogailurik	igogailu	NOUN	_	_	9	nsubj	_	_	6:targ|9:targ
+8	ez	ez	PART	_	_	9	advmod	_	_	9:exp-Negative
+9	dagoela	egon	VERB	_	_	2	csubj	_	_	0:exp-Negative
+10	eta	eta	CCONJ	_	_	15	cc	_	_	_
+11	eskilera	eskilera	NOUN	_	_	13	obl	_	_	_
+12	bidez	bide	ADP	_	_	11	case	_	_	_
+13	heldu	heldu	VERB	_	_	15	xcomp	_	_	_
+14	behar	behar	NOUN	_	_	15	compound	_	_	_
+15	zarela	izan	VERB	_	_	9	conj	_	_	_
+16	logelara	logela	NOUN	_	_	13	obl	_	_	_
+17	.	.	PUNCT	_	_	2	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/airbnb-4727823_1-1
+# text = Kokaleku aprosean dagoen etxea da : Salamancako alde zaharrean , baina aldi berean aparte samar .
+1	Kokaleku	kokaleku	NOUN	_	_	3	obl	_	_	2:exp-Positive
+2	aprosean	apros	NOUN	_	_	3	obl	_	_	0:exp-Positive
+3	dagoen	egon	VERB	_	_	4	acl	_	_	_
+4	etxea	etxe	NOUN	_	_	0	root	_	_	2:targ
+5	da	izan	AUX	_	_	4	cop	_	_	_
+6	:	:	PUNCT	_	_	8	punct	_	_	_
+7	Salamancako	Salamanca	PROPN	_	_	8	nmod	_	_	_
+8	alde	alde	NOUN	_	_	4	obl	_	_	_
+9	zaharrean	zahar	ADJ	_	_	8	amod	_	_	_
+10	,	,	PUNCT	_	_	11	punct	_	_	_
+11	baina	baina	CCONJ	_	_	15	cc	_	_	_
+12	aldi	aldi	NOUN	_	_	15	obl	_	_	_
+13	berean	bera	DET	_	_	12	fixed	_	_	_
+14	aparte	aparte	NOUN	_	_	15	nmod	_	_	_
+15	samar	samar	ADJ	_	_	4	conj	_	_	_
+16	.	.	PUNCT	_	_	4	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/airbnb-4727823_1-2
+# text = Logela bakarrekoa bada ere , hiru lagunentzat oso ondo etorri zaigu .
+1	Logela	logela	NOUN	_	_	10	advcl	_	_	2:targ|9:targ
+2	bakarrekoa	bakar	ADJ	_	_	1	amod	_	_	0:exp-Negative
+3	bada	izan	AUX	_	_	1	cop	_	_	_
+4	ere	ere	CCONJ	_	_	1	mark	_	_	_
+5	,	,	PUNCT	_	_	1	punct	_	_	_
+6	hiru	hiru	NUM	_	_	7	nummod	_	_	9:exp-Positive
+7	lagunentzat	lagun	NOUN	_	_	10	obl	_	_	9:exp-Positive
+8	oso	oso	ADV	_	_	9	advmod	_	_	9:exp-Positive
+9	ondo	ondo	ADV	_	_	10	advmod	_	_	0:exp-Positive
+10	etorri	etorri	VERB	_	_	0	root	_	_	_
+11	zaigu	izan	AUX	_	_	10	aux	_	_	2:holder|9:holder
+12	.	.	PUNCT	_	_	10	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/airbnb-4727823_1-3
+# text = Duen oker handiena udako beroa da .
+1	Duen	ukan	VERB	_	_	2	acl	_	_	_
+2	oker	oker	NOUN	_	_	5	nsubj	_	_	3:exp-Negative
+3	handiena	handi	ADJ	_	_	2	amod	_	_	0:exp-Negative
+4	udako	uda	NOUN	_	_	5	nmod	_	_	5:targ
+5	beroa	bero	NOUN	_	_	0	root	_	_	3:targ
+6	da	izan	AUX	_	_	5	cop	_	_	_
+7	.	.	PUNCT	_	_	5	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/airbnb-4727823_1-4
+# text = Pertsianarik edo kortinarik ez duenez , ezinezkoa da etxea fresko mantentzea udan .
+1	Pertsianarik	pertsiana	NOUN	_	_	5	obj	_	_	5:targ
+2	edo	edo	CCONJ	_	_	3	cc	_	_	_
+3	kortinarik	kortin	NOUN	_	_	1	conj	_	_	5:targ
+4	ez	ez	PART	_	_	5	advmod	_	_	5:exp-Negative|5:exp-Negative
+5	duenez	ukan	VERB	_	_	7	advcl	_	_	0:exp-Negative|0:exp-Negative
+6	,	,	PUNCT	_	_	5	punct	_	_	_
+7	ezinezkoa	ezinezko	ADJ	_	_	0	root	_	_	12:exp-Negative
+8	da	izan	AUX	_	_	7	cop	_	_	12:exp-Negative
+9	etxea	etxe	NOUN	_	_	11	obj	_	_	12:exp-Negative
+10	fresko	fresko	ADJ	_	_	11	obl	_	_	12:exp-Negative
+11	mantentzea	mantendu	VERB	_	_	7	csubj	_	_	12:exp-Negative
+12	udan	uda	NOUN	_	_	11	obl	_	_	0:exp-Negative
+13	.	.	PUNCT	_	_	7	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/airbnb-4727823_1-5
+# text = Bestalde , janaria prestatzeko ontzi aldetik urri samar sumatu dugu sukaldea .
+1	Bestalde	bestalde	CCONJ	_	_	9	advmod	_	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_	_
+3	janaria	janari	NOUN	_	_	4	obj	_	_	_
+4	prestatzeko	prestatu	VERB	_	_	5	advcl	_	_	_
+5	ontzi	ontzi	NOUN	_	_	9	obl	_	_	_
+6	aldetik	alde	ADP	_	_	5	case	_	_	_
+7	urri	urri	ADJ	_	_	9	obl	_	_	9:exp-Negative
+8	samar	samar	ADV	_	_	7	advmod	_	_	9:exp-Negative
+9	sumatu	sumatu	VERB	_	_	0	root	_	_	0:exp-Negative
+10	dugu	edun	AUX	_	_	9	aux	_	_	9:holder
+11	sukaldea	sukalde	NOUN	_	_	9	obj	_	_	9:targ
+12	.	.	PUNCT	_	_	9	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/airbnb-4727823_1-6
+# text = Web orrian datorren iragarkian garajea eskaintzen da etxebizitzaren prezio barnean .
+1	Web	Web	NOUN	_	_	2	nmod	_	_	_
+2	orrian	orri	NOUN	_	_	6	obl	_	_	_
+3	datorren	etorri	VERB	_	_	4	acl	_	_	_
+4	iragarkian	iragarki	NOUN	_	_	6	obl	_	_	_
+5	garajea	garaje	NOUN	_	_	6	nsubj	_	_	10:targ
+6	eskaintzen	eskaini	VERB	_	_	0	root	_	_	10:exp-Positive
+7	da	izan	AUX	_	_	6	aux	_	_	10:exp-Positive
+8	etxebizitzaren	etxebizitza	NOUN	_	_	9	nmod	_	_	10:exp-Positive
+9	prezio	prezio	NOUN	_	_	6	obl	_	_	10:exp-Positive
+10	barnean	barne	ADP	_	_	9	case	_	_	0:exp-Positive
+11	.	.	PUNCT	_	_	6	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/airbnb-4727823_1-7
+# text = Guri gehiegarria eskatu zigun , baina gaur gaurkoz ez da beharrezkoa , etxearen justu ondoan aparkatzeko lekua dagoelako .
+1	Guri	gu	PRON	_	_	3	iobj	_	_	4:holder
+2	gehiegarria	gehiegarri	ADJ	_	_	3	xcomp	_	_	3:targ
+3	eskatu	eskatu	VERB	_	_	0	root	_	_	0:exp-Negative
+4	zigun	edun	AUX	_	_	3	aux	_	_	3:holder
+5	,	,	PUNCT	_	_	11	punct	_	_	_
+6	baina	baina	CCONJ	_	_	11	cc	_	_	_
+7	gaur	gaur	ADV	_	_	11	advmod	_	_	_
+8	gaurkoz	gaur	ADV	_	_	11	advmod	_	_	_
+9	ez	ez	PART	_	_	11	advmod	_	_	_
+10	da	izan	AUX	_	_	11	cop	_	_	_
+11	beharrezkoa	beharrezko	ADJ	_	_	3	conj	_	_	_
+12	,	,	PUNCT	_	_	18	punct	_	_	_
+13	etxearen	etxe	NOUN	_	_	14	nmod	_	_	18:exp-Positive
+14	justu	justu	NOUN	_	_	16	obl	_	_	18:exp-Positive
+15	ondoan	ondoan	ADP	_	_	14	case	_	_	18:exp-Positive
+16	aparkatzeko	aparkatu	VERB	_	_	17	advcl	_	_	17:targ
+17	lekua	leku	NOUN	_	_	18	nsubj	_	_	18:targ
+18	dagoelako	egon	VERB	_	_	11	advcl	_	_	0:exp-Positive
+19	.	.	PUNCT	_	_	3	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/zelaikoetxe-6_1-1
+# text = Zelaikoetxetik etxera iritsi berriak gara , asteburu bikaina pasa ondoren .
+1	Zelaikoetxetik	Zelaikoetxe	PROPN	_	_	3	obl	_	_	_
+2	etxera	etxe	NOUN	_	_	3	obl	_	_	_
+3	iritsi	iritsi	VERB	_	_	0	root	_	_	_
+4	berriak	berri	ADJ	_	_	3	obl	_	_	_
+5	gara	izan	AUX	_	_	3	aux	_	_	_
+6	,	,	PUNCT	_	_	9	punct	_	_	_
+7	asteburu	asteburu	NOUN	_	_	9	obj	_	_	9:exp-Positive
+8	bikaina	bikain	ADJ	_	_	7	amod	_	_	9:exp-Positive
+9	pasa	pasatu	VERB	_	_	3	advcl	_	_	0:exp-Positive
+10	ondoren	ondoren	ADV	_	_	9	advcl	_	_	_
+11	.	.	PUNCT	_	_	3	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/zelaikoetxe-6_1-2
+# text = Bagenekien Aiara eskualdea ederra dela eta pixka bat mugitzeko asmoa genuen baina aitortu behar dugu ia ez garela etxetik mugitu : lau bikote eta hiru haur txiki ginen , etxe osoa genuen alokatua , eta denbora falta izan zaigu soilik etxea bera , aurreko zelai eta bidexkak guztiz gozatzeko .
+1	Bagenekien	jakin	VERB	_	_	0	root	_	_	_
+2	Aiara	Aiara	PROPN	_	_	3	nmod	_	_	3:targ
+3	eskualdea	eskualde	NOUN	_	_	4	nsubj	_	_	4:targ
+4	ederra	eder	ADJ	_	_	1	ccomp	_	_	0:exp-Positive
+5	dela	izan	AUX	_	_	4	cop	_	_	_
+6	eta	eta	CCONJ	_	_	9	cc	_	_	_
+7	pixka	pixka	NOUN	_	_	9	obj	_	_	_
+8	bat	bat	NUM	_	_	7	nummod	_	_	_
+9	mugitzeko	mugitu	VERB	_	_	10	advcl	_	_	_
+10	asmoa	asmo	NOUN	_	_	11	obj	_	_	_
+11	genuen	ukan	VERB	_	_	1	ccomp	_	_	_
+12	baina	baina	CCONJ	_	_	15	cc	_	_	_
+13	aitortu	aitortu	VERB	_	_	15	xcomp	_	_	_
+14	behar	behar	NOUN	_	_	15	compound	_	_	_
+15	dugu	ukan	VERB	_	_	11	conj	_	_	_
+16	ia	ia	ADV	_	_	20	advmod	_	_	_
+17	ez	ez	PART	_	_	20	advmod	_	_	_
+18	garela	izan	AUX	_	_	20	aux	_	_	_
+19	etxetik	etxe	NOUN	_	_	20	obl	_	_	_
+20	mugitu	mugitu	VERB	_	_	15	xcomp	_	_	_
+21	:	:	PUNCT	_	_	23	punct	_	_	_
+22	lau	lau	NUM	_	_	23	nummod	_	_	_
+23	bikote	bikote	NOUN	_	_	20	obj	_	_	_
+24	eta	eta	CCONJ	_	_	26	cc	_	_	_
+25	hiru	hiru	NUM	_	_	26	nummod	_	_	_
+26	haur	haur	NOUN	_	_	28	nsubj	_	_	_
+27	txiki	txiki	ADJ	_	_	26	amod	_	_	_
+28	ginen	izan	VERB	_	_	32	conj	_	_	_
+29	,	,	PUNCT	_	_	32	punct	_	_	_
+30	etxe	etxe	NOUN	_	_	32	obj	_	_	_
+31	osoa	oso	ADJ	_	_	30	amod	_	_	_
+32	genuen	ukan	VERB	_	_	1	conj	_	_	_
+33	alokatua	alokatu	VERB	_	_	32	xcomp	_	_	_
+34	,	,	PUNCT	_	_	41	punct	_	_	_
+35	eta	eta	CCONJ	_	_	41	cc	_	_	_
+36	denbora	denbora	NOUN	_	_	37	nmod	_	_	_
+37	falta	falta	NOUN	_	_	41	nsubj	_	_	_
+38	izan	izan	AUX	_	_	41	cop	_	_	_
+39	zaigu	izan	AUX	_	_	41	aux	_	_	_
+40	soilik	soilik	ADV	_	_	41	advmod	_	_	_
+41	etxea	etxe	NOUN	_	_	32	obj	_	_	_
+42	bera	bera	DET	_	_	41	det	_	_	_
+43	,	,	PUNCT	_	_	49	punct	_	_	_
+44	aurreko	aurre	NOUN	_	_	45	nmod	_	_	_
+45	zelai	zelai	NOUN	_	_	49	obj	_	_	_
+46	eta	eta	CCONJ	_	_	47	cc	_	_	_
+47	bidexkak	bidexka	NOUN	_	_	45	conj	_	_	_
+48	guztiz	guztiz	ADV	_	_	49	advmod	_	_	_
+49	gozatzeko	gozatu	VERB	_	_	41	advcl	_	_	_
+50	.	.	PUNCT	_	_	1	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/zelaikoetxe-6_1-3
+# text = Oso-oso polita eta ongi antolatua da etxea , ingurua eta bistak ederrak , lasaitasuna da nagusi .
+1	Oso-oso	oso-oso	ADV	_	_	5	advmod	_	_	2:exp-Positive
+2	polita	polit	ADJ	_	_	5	obl	_	_	0:exp-Positive
+3	eta	eta	CCONJ	_	_	4	cc	_	_	_
+4	ongi	ongi	ADV	_	_	2	conj	_	_	5:exp-Positive
+5	antolatua	antolatu	VERB	_	_	0	root	_	_	0:exp-Positive
+6	da	izan	AUX	_	_	5	cop	_	_	_
+7	etxea	etxe	NOUN	_	_	5	nsubj	_	_	5:targ|2:targ
+8	,	,	PUNCT	_	_	9	punct	_	_	_
+9	ingurua	inguru	NOUN	_	_	7	conj	_	_	12:targ
+10	eta	eta	CCONJ	_	_	11	cc	_	_	_
+11	bistak	bista	NOUN	_	_	7	conj	_	_	12:targ
+12	ederrak	eder	ADJ	_	_	11	amod	_	_	0:exp-Positive|0:exp-Positive
+13	,	,	PUNCT	_	_	16	punct	_	_	_
+14	lasaitasuna	lasaitasun	NOUN	_	_	16	nsubj	_	_	16:targ
+15	da	izan	AUX	_	_	16	cop	_	_	_
+16	nagusi	nagusi	ADJ	_	_	6	conj	_	_	0:exp-Positive
+17	.	.	PUNCT	_	_	5	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/zelaikoetxe-6_1-4
+# text = Milesker Josu eta Begoña jabeei egindako lanagatik eta halako gustuarekin .
+1	Milesker	milesker	PROPN	_	_	5	nmod	_	_	0:exp-Positive
+2	Josu	Josu	PROPN	_	_	1	flat	_	_	_
+3	eta	eta	CCONJ	_	_	4	cc	_	_	_
+4	Begoña	Begoña	PROPN	_	_	1	conj	_	_	_
+5	jabeei	jabe	NOUN	_	_	6	iobj	_	_	_
+6	egindako	egin	VERB	_	_	7	advcl	_	_	_
+7	lanagatik	lan	NOUN	_	_	0	root	_	_	_
+8	eta	eta	CCONJ	_	_	10	cc	_	_	_
+9	halako	halako	ADJ	_	_	10	amod	_	_	_
+10	gustuarekin	gustu	NOUN	_	_	7	conj	_	_	_
+11	.	.	PUNCT	_	_	2	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/zelaikoetxe-6_1-5
+# text = Itzultzeko gogoz gelditu gara , benetan !
+1	Itzultzeko	itzuli	VERB	_	_	2	advcl	_	_	7:exp-Positive
+2	gogoz	gogo	NOUN	_	_	3	obl	_	_	7:exp-Positive
+3	gelditu	gelditu	VERB	_	_	0	root	_	_	7:exp-Positive
+4	gara	izan	AUX	_	_	3	aux	_	_	7:holder
+5	,	,	PUNCT	_	_	6	punct	_	_	_
+6	benetan	benetan	ADV	_	_	3	advmod	_	_	7:exp-Positive
+7	!	!	PUNCT	_	_	3	punct	_	_	0:exp-Positive
+
+# sent_id = multibooked/corpora/eu/saem-seam-reap_1-1
+# text = Hotela oso ondo dago , igerileku txikia baina atsegina , eta logela txukuna .
+1	Hotela	hotel	NOUN	_	_	4	nsubj	_	_	3:targ
+2	oso	oso	ADV	_	_	3	advmod	_	_	3:exp-Positive
+3	ondo	ondo	ADV	_	_	4	advmod	_	_	0:exp-Positive
+4	dago	egon	VERB	_	_	0	root	_	_	_
+5	,	,	PUNCT	_	_	6	punct	_	_	_
+6	igerileku	igerileku	NOUN	_	_	4	nsubj	_	_	7:targ|9:targ
+7	txikia	txiki	ADJ	_	_	6	amod	_	_	0:exp-Negative
+8	baina	baina	CCONJ	_	_	9	cc	_	_	_
+9	atsegina	atsegin	ADJ	_	_	7	conj	_	_	0:exp-Positive
+10	,	,	PUNCT	_	_	12	punct	_	_	_
+11	eta	eta	CCONJ	_	_	12	cc	_	_	_
+12	logela	logela	NOUN	_	_	4	conj	_	_	13:targ
+13	txukuna	txukun	ADJ	_	_	12	amod	_	_	0:exp-Positive
+14	.	.	PUNCT	_	_	4	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/saem-seam-reap_1-2
+# text = Hotelean bertan antolatzen dizute Angkor-erako bixita gidatua .
+1	Hotelean	hotel	NOUN	_	_	3	obl	_	_	3:exp-Positive
+2	bertan	bertan	ADV	_	_	3	advmod	_	_	3:exp-Positive
+3	antolatzen	antolatu	VERB	_	_	0	root	_	_	0:exp-Positive
+4	dizute	edun	AUX	_	_	3	aux	_	_	_
+5	Angkor-erako	Angor	PROPN	_	_	6	nmod	_	_	7:targ
+6	bixita	bixita	NOUN	_	_	3	obj	_	_	7:targ
+7	gidatua	gidatu	VERB	_	_	6	nmod	_	_	3:targ
+8	.	.	PUNCT	_	_	3	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/estanys-blaus_1-1
+# text = Berria eta garbia .
+1	Berria	berri	ADJ	_	_	0	root	_	_	0:exp-Positive
+2	eta	eta	CCONJ	_	_	3	cc	_	_	_
+3	garbia	garbi	ADJ	_	_	1	conj	_	_	0:exp-Positive
+4	.	.	PUNCT	_	_	1	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/estanys-blaus_1-2
+# text = Gosaria eta afaria oso goxoak .
+1	Gosaria	gosari	NOUN	_	_	5	nsubj	_	_	5:targ
+2	eta	eta	CCONJ	_	_	3	cc	_	_	_
+3	afaria	afari	NOUN	_	_	1	conj	_	_	5:targ
+4	oso	oso	ADV	_	_	5	advmod	_	_	5:exp-Positive|5:exp-Positive
+5	goxoak	goxo	ADJ	_	_	0	root	_	_	0:exp-Positive|0:exp-Positive
+6	.	.	PUNCT	_	_	5	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/estanys-blaus_1-3
+# text = Jabeak oso-oso atseginak .
+1	Jabeak	jabe	NOUN	_	_	3	nsubj	_	_	3:targ
+2	oso-oso	oso-oso	ADV	_	_	3	advmod	_	_	3:exp-Positive
+3	atseginak	atsegin	ADJ	_	_	0	root	_	_	0:exp-Positive
+4	.	.	PUNCT	_	_	3	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/estanys-blaus_1-4
+# text = Mendia egitea bada zeure helburua bertako jaunak aholku baliagarriak emango dizkizu .
+1	Mendia	mendi	NOUN	_	_	2	obj	_	_	_
+2	egitea	egin	VERB	_	_	10	advcl	_	_	_
+3	bada	izan	AUX	_	_	2	cop	_	_	_
+4	zeure	zeu	PRON	_	_	5	nmod	_	_	_
+5	helburua	helburu	NOUN	_	_	10	nsubj	_	_	_
+6	bertako	bertako	ADJ	_	_	7	amod	_	_	7:targ
+7	jaunak	jaun	NOUN	_	_	10	nsubj	_	_	11:targ
+8	aholku	aholku	NOUN	_	_	10	obj	_	_	11:exp-Positive
+9	baliagarriak	baliagarri	ADJ	_	_	8	amod	_	_	11:exp-Positive
+10	emango	eman	VERB	_	_	0	root	_	_	11:exp-Positive
+11	dizkizu	edun	AUX	_	_	10	aux	_	_	0:exp-Positive
+12	.	.	PUNCT	_	_	10	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/cotoon-colmar8_1-1
+# text = aipatzeko gauza bakarra sartenen falta . gustokoa dana izan zan ederto dago
+1	aipatzeko	aipatu	VERB	_	_	2	advcl	_	_	_
+2	gauza	gauza	NOUN	_	_	12	nsubj	_	_	_
+3	bakarra	bakar	ADJ	_	_	2	amod	_	_	_
+4	sartenen	sarten	NOUN	_	_	5	nmod	_	_	5:targ
+5	falta	falta	NOUN	_	_	8	nsubj	_	_	0:exp-Negative
+6	.	.	PUNCT	_	_	7	punct	_	_	_
+7	gustokoa	gustu	NOUN	_	_	8	nsubj	_	_	0:exp-Positive
+8	dana	izan	VERB	_	_	12	advcl	_	_	7:targ
+9	izan	izan	AUX	_	_	12	cop	_	_	_
+10	zan	izan	AUX	_	_	12	aux	_	_	_
+11	ederto	ederto	ADV	_	_	12	advmod	_	_	0:exp-Positive
+12	dago	egon	VERB	_	_	0	root	_	_	_
+
+# sent_id = multibooked/corpora/eu/belgrade-downtown-apartments-brankova-street_1-1
+# text = Kale handi batean dago eta pixka bat zaratatsua da .
+1	Kale	kale	NOUN	_	_	4	obl	_	_	3:exp-Negative
+2	handi	handi	ADJ	_	_	1	amod	_	_	3:exp-Negative
+3	batean	bat	NUM	_	_	1	nummod	_	_	0:exp-Negative
+4	dago	egon	VERB	_	_	0	root	_	_	_
+5	eta	eta	CCONJ	_	_	8	cc	_	_	_
+6	pixka	pixka	NOUN	_	_	8	nsubj	_	_	8:exp-Negative
+7	bat	bat	NUM	_	_	6	nummod	_	_	8:exp-Negative
+8	zaratatsua	zaratatsu	ADJ	_	_	4	conj	_	_	0:exp-Negative
+9	da	izan	AUX	_	_	8	cop	_	_	_
+10	.	.	PUNCT	_	_	4	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/belgrade-downtown-apartments-brankova-street_1-2
+# text = Baina pertsianak dauzka ! ; - ) Apartamentua berri-berria .
+1	Baina	baina	CCONJ	_	_	3	cc	_	_	_
+2	pertsianak	pertsiana	NOUN	_	_	3	obj	_	_	4:exp-Positive
+3	dauzka	eduki	VERB	_	_	0	root	_	_	4:exp-Positive
+4	!	!	PUNCT	_	_	3	punct	_	_	0:exp-Positive
+5	;	;	PUNCT	_	_	8	punct	_	_	_
+6	-	-	PUNCT	_	_	8	punct	_	_	_
+7	)	)	PUNCT	_	_	8	punct	_	_	_
+8	Apartamentua	apartamentu	NOUN	_	_	3	obj	_	_	9:targ
+9	berri-berria	berri-berri	ADJ	_	_	8	amod	_	_	0:exp-Positive
+10	.	.	PUNCT	_	_	3	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/belgrade-downtown-apartments-brankova-street_1-3
+# text = Jabea , mutil gazte bat , oso jatorra .
+1	Jabea	jabe	NOUN	_	_	3	nsubj	_	_	5:targ
+2	,	,	PUNCT	_	_	1	punct	_	_	_
+3	mutil	mutil	NOUN	_	_	0	root	_	_	5:targ
+4	gazte	gazte	ADJ	_	_	3	amod	_	_	5:targ
+5	bat	bat	NUM	_	_	3	nummod	_	_	8:targ
+6	,	,	PUNCT	_	_	8	punct	_	_	_
+7	oso	oso	ADV	_	_	4	advmod	_	_	8:exp-Positive
+8	jatorra	jator	ADJ	_	_	3	amod	_	_	0:exp-Positive
+9	.	.	PUNCT	_	_	3	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/belgrade-downtown-apartments-brankova-street_1-4
+# text = Hasieran kosta zitzaigun topatzea , gaua zen , euria ari zun , ta Broncova 18ra iristerakoan ez zegoen inongo txartelil .
+1	Hasieran	hasiera	NOUN	_	_	2	obl	_	_	_
+2	kosta	kostatu	VERB	_	_	0	root	_	_	4:exp-Negative
+3	zitzaigun	izan	AUX	_	_	2	aux	_	_	4:holder
+4	topatzea	topatu	VERB	_	_	2	csubj	_	_	0:exp-Negative
+5	,	,	PUNCT	_	_	11	punct	_	_	_
+6	gaua	gau	NOUN	_	_	11	nsubj	_	_	_
+7	zen	izan	AUX	_	_	11	cop	_	_	_
+8	,	,	PUNCT	_	_	11	punct	_	_	_
+9	euria	euri	NOUN	_	_	11	obj	_	_	_
+10	ari	ari	AUX	_	_	11	aux	_	_	_
+11	zun	ukan	VERB	_	_	2	advcl	_	_	_
+12	,	,	PUNCT	_	_	18	punct	_	_	_
+13	ta	ta	PROPN	_	_	15	nmod	_	_	_
+14	Broncova	Broncova	PROPN	_	_	13	flat	_	_	_
+15	18ra	18	NUM	_	_	16	obl	_	_	_
+16	iristerakoan	iritsi	VERB	_	_	18	advcl	_	_	_
+17	ez	ez	PART	_	_	18	advmod	_	_	20:exp-Negative
+18	zegoen	egon	VERB	_	_	2	conj	_	_	20:exp-Negative
+19	inongo	inongo	ADJ	_	_	20	amod	_	_	20:exp-Negative
+20	txartelil	txartelil	NOUN	_	_	18	nsubj	_	_	0:exp-Negative
+21	.	.	PUNCT	_	_	2	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/belgrade-downtown-apartments-brankova-street_1-5
+# text = Portal berean hostel bat dago , baina ez du apartamentuakim zerikusirik .
+1	Portal	portal	NOUN	_	_	5	obl	_	_	_
+2	berean	bera	DET	_	_	1	det	_	_	_
+3	hostel	hostel	NOUN	_	_	5	nsubj	_	_	_
+4	bat	bat	NUM	_	_	3	nummod	_	_	_
+5	dago	egon	VERB	_	_	0	root	_	_	_
+6	,	,	PUNCT	_	_	9	punct	_	_	_
+7	baina	baina	CCONJ	_	_	9	cc	_	_	_
+8	ez	ez	PART	_	_	9	advmod	_	_	_
+9	du	edun	AUX	_	_	5	conj	_	_	_
+10	apartamentuakim	apartamentu	NOUN	_	_	11	nmod	_	_	_
+11	zerikusirik	zerikusi	NOUN	_	_	9	obj	_	_	_
+12	.	.	PUNCT	_	_	5	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/belgrade-downtown-apartments-brankova-street_1-6
+# text = Etxe zahar batean apartamentu txikia da , 3. pisuan .
+1	Etxe	etxe	NOUN	_	_	6	obl	_	_	3:exp-Negative
+2	zahar	zahar	ADJ	_	_	1	amod	_	_	3:exp-Negative
+3	batean	bat	NUM	_	_	1	nummod	_	_	0:exp-Negative
+4	apartamentu	apartamentu	NOUN	_	_	6	nsubj	_	_	3:targ|5:targ
+5	txikia	txiki	ADJ	_	_	4	amod	_	_	0:exp-Negative
+6	da	izan	AUX	_	_	0	root	_	_	_
+7	,	,	PUNCT	_	_	9	punct	_	_	_
+8	3.	3+garren!	ADJ	_	_	9	amod	_	_	_
+9	pisuan	pisu	NOUN	_	_	6	obl	_	_	_
+10	.	.	PUNCT	_	_	6	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/belgrade-downtown-apartments-brankova-street_1-7
+# text = Igogailua daka .
+1	Igogailua	igogailu	NOUN	_	_	2	obj	_	_	2:targ
+2	daka	jakin	VERB	_	_	0	root	_	_	0:exp-Positive
+3	.	.	PUNCT	_	_	2	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/belgrade-downtown-apartments-brankova-street_1-8
+# text = Wifia primeran , aire girotua , komuna , ohea ...
+1	Wifia	Wifia	INTJ	_	_	0	root	_	_	2:targ
+2	primeran	primeran	ADV	_	_	1	nmod	_	_	0:exp-Positive
+3	,	,	PUNCT	_	_	2	punct	_	_	_
+4	aire	aire	NOUN	_	_	1	nsubj	_	_	_
+5	girotua	girotu	VERB	_	_	4	nmod	_	_	_
+6	,	,	PUNCT	_	_	7	punct	_	_	_
+7	komuna	komun	ADJ	_	_	5	conj	_	_	_
+8	,	,	PUNCT	_	_	9	punct	_	_	_
+9	ohea	ohe	NOUN	_	_	4	conj	_	_	_
+10	...	...	PUNCT	_	_	4	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/belgrade-downtown-apartments-brankova-street_1-9
+# text = Dena ongi .
+1	Dena	dena	DET	_	_	2	nsubj	_	_	2:targ
+2	ongi	ongi	ADV	_	_	0	root	_	_	0:exp-Positive
+3	.	.	PUNCT	_	_	2	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/belgrade-downtown-apartments-brankova-street_1-10
+# text = Ta oinez mugitzeko toki onean .
+1	Ta	ta	INTJ	_	_	0	root	_	_	_
+2	oinez	oin	NOUN	_	_	3	obl	_	_	5:exp-Positive
+3	mugitzeko	mugitu	VERB	_	_	4	advcl	_	_	5:exp-Positive
+4	toki	toki	NOUN	_	_	1	nmod	_	_	5:targ
+5	onean	on	ADJ	_	_	4	amod	_	_	0:exp-Positive
+6	.	.	PUNCT	_	_	1	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/airbnb-13845527_1-1
+# text = Bigarren aukera gisan izan bazen ere , zorionekoa izan zen Bergenenen alde hartu genuen aukera .
+1	Bigarren	bigarren	ADJ	_	_	2	amod	_	_	_
+2	aukera	aukera	NOUN	_	_	4	nsubj	_	_	_
+3	gisan	gisan	ADV	_	_	4	advmod	_	_	_
+4	izan	izan	VERB	_	_	8	advcl	_	_	_
+5	bazen	izan	AUX	_	_	4	aux	_	_	_
+6	ere	ere	CCONJ	_	_	4	mark	_	_	_
+7	,	,	PUNCT	_	_	4	punct	_	_	_
+8	zorionekoa	zorion	NOUN	_	_	0	root	_	_	0:exp-Positive
+9	izan	izan	AUX	_	_	8	cop	_	_	_
+10	zen	izan	AUX	_	_	8	aux	_	_	_
+11	Bergenenen	Bergenen	PROPN	_	_	13	obl	_	_	_
+12	alde	alde	ADP	_	_	11	case	_	_	_
+13	hartu	hartu	VERB	_	_	15	acl	_	_	_
+14	genuen	edun	AUX	_	_	13	aux	_	_	8:holder
+15	aukera	aukera	NOUN	_	_	8	nsubj	_	_	8:targ
+16	.	.	PUNCT	_	_	8	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/airbnb-13845527_1-2
+# text = Herria , txiki eta lasaia , baina aldi berean animatu eta zaindua .
+1	Herria	herri	NOUN	_	_	10	obj	_	_	5:targ|3:targ|12:targ|10:targ
+2	,	,	PUNCT	_	_	3	punct	_	_	_
+3	txiki	txiki	ADJ	_	_	1	conj	_	_	0:exp-Negative
+4	eta	eta	CCONJ	_	_	5	cc	_	_	_
+5	lasaia	lasai	ADJ	_	_	1	conj	_	_	0:exp-Negative
+6	,	,	PUNCT	_	_	1	punct	_	_	_
+7	baina	baina	CCONJ	_	_	10	cc	_	_	_
+8	aldi	aldi	NOUN	_	_	10	obl	_	_	_
+9	berean	bera	DET	_	_	8	fixed	_	_	_
+10	animatu	animatu	VERB	_	_	0	root	_	_	0:exp-Positive
+11	eta	eta	CCONJ	_	_	12	cc	_	_	_
+12	zaindua	zaindu	VERB	_	_	10	conj	_	_	0:exp-Positive
+13	.	.	PUNCT	_	_	1	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/airbnb-13845527_1-3
+# text = Toki perfektua txirrindulak alokatu eta ibilaldi ederrak egin ahal izateko , inguruko basoetatik , hondartzetaraino , bertako natura eta paisaiaz gozatzeko .
+1	Toki	toki	NOUN	_	_	4	obj	_	_	10:targ
+2	perfektua	perfektu	ADJ	_	_	1	amod	_	_	10:exp-Positive
+3	txirrindulak	txirrindulak	NOUN	_	_	4	obj	_	_	10:exp-Positive
+4	alokatu	alokatu	VERB	_	_	0	root	_	_	10:exp-Positive
+5	eta	eta	CCONJ	_	_	10	cc	_	_	10:exp-Positive
+6	ibilaldi	ibilaldi	NOUN	_	_	8	obj	_	_	10:exp-Positive
+7	ederrak	eder	ADJ	_	_	6	amod	_	_	10:exp-Positive
+8	egin	egin	VERB	_	_	10	xcomp	_	_	10:exp-Positive
+9	ahal	ahal	NOUN	_	_	10	compound	_	_	10:exp-Positive
+10	izateko	izan	VERB	_	_	4	conj	_	_	0:exp-Positive
+11	,	,	PUNCT	_	_	13	punct	_	_	_
+12	inguruko	inguru	NOUN	_	_	13	nmod	_	_	_
+13	basoetatik	baso	NOUN	_	_	21	obl	_	_	_
+14	,	,	PUNCT	_	_	15	punct	_	_	_
+15	hondartzetaraino	hondartza	NOUN	_	_	13	conj	_	_	_
+16	,	,	PUNCT	_	_	18	punct	_	_	_
+17	bertako	bertako	ADJ	_	_	18	amod	_	_	_
+18	natura	natura	NOUN	_	_	21	obl	_	_	_
+19	eta	eta	CCONJ	_	_	20	cc	_	_	_
+20	paisaiaz	paisai	NOUN	_	_	18	conj	_	_	_
+21	gozatzeko	gozatu	VERB	_	_	10	advcl	_	_	_
+22	.	.	PUNCT	_	_	4	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/airbnb-13845527_1-4
+# text = Bergenen , benetako Holanda ezagutu genuen !
+1	Bergenen	Bergen	PROPN	_	_	5	obl	_	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_	_
+3	benetako	benetako	ADJ	_	_	4	amod	_	_	_
+4	Holanda	Holanda	PROPN	_	_	5	obj	_	_	_
+5	ezagutu	ezagutu	VERB	_	_	0	root	_	_	_
+6	genuen	edun	AUX	_	_	5	aux	_	_	_
+7	!	!	PUNCT	_	_	5	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/airbnb-13845527_1-5
+# text = Etxea ere , bikaina .
+1	Etxea	etxe	NOUN	_	_	4	nsubj	_	_	4:targ
+2	ere	ere	CCONJ	_	_	4	advmod	_	_	_
+3	,	,	PUNCT	_	_	2	punct	_	_	_
+4	bikaina	bikain	ADJ	_	_	0	root	_	_	0:exp-Positive
+5	.	.	PUNCT	_	_	4	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/airbnb-13845527_1-6
+# text = Txikia , polita , alaia eta atsegina , baina lau lagunentzako nahikoa .
+1	Txikia	txiki	ADJ	_	_	0	root	_	_	0:exp-Negative
+2	,	,	PUNCT	_	_	3	punct	_	_	_
+3	polita	polit	ADJ	_	_	1	conj	_	_	0:exp-Positive
+4	,	,	PUNCT	_	_	5	punct	_	_	_
+5	alaia	alai	ADJ	_	_	1	conj	_	_	0:exp-Positive
+6	eta	eta	CCONJ	_	_	7	cc	_	_	_
+7	atsegina	atsegin	ADJ	_	_	1	conj	_	_	0:exp-Positive
+8	,	,	PUNCT	_	_	12	punct	_	_	_
+9	baina	baina	CCONJ	_	_	12	cc	_	_	_
+10	lau	lau	NUM	_	_	11	nummod	_	_	12:exp-Positive
+11	lagunentzako	lagun	NOUN	_	_	12	nmod	_	_	12:exp-Positive
+12	nahikoa	nahiko	DET	_	_	1	conj	_	_	0:exp-Positive
+13	.	.	PUNCT	_	_	1	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/airbnb-13845527_1-7
+# text = Eta oso ondo kokatuta , erdigunean bertan .
+1	Eta	eta	CCONJ	_	_	4	cc	_	_	_
+2	oso	oso	ADV	_	_	3	advmod	_	_	4:exp-Positive
+3	ondo	ondo	ADV	_	_	4	advmod	_	_	4:exp-Positive
+4	kokatuta	kokatu	VERB	_	_	0	root	_	_	0:exp-Positive
+5	,	,	PUNCT	_	_	4	punct	_	_	_
+6	erdigunean	erdigune	NOUN	_	_	4	obl	_	_	_
+7	bertan	bertan	ADV	_	_	6	nmod	_	_	_
+8	.	.	PUNCT	_	_	4	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/airbnb-13845527_1-8
+# text = Apartamentua oso garbi zegoen , eta behar zen guztia bagenuen bertan .
+1	Apartamentua	apartamentu	NOUN	_	_	3	nsubj	_	_	3:targ
+2	oso	oso	ADV	_	_	3	advmod	_	_	3:exp-Positive
+3	garbi	garbi	ADV	_	_	0	root	_	_	0:exp-Positive
+4	zegoen	egon	AUX	_	_	3	cop	_	_	_
+5	,	,	PUNCT	_	_	10	punct	_	_	_
+6	eta	eta	CCONJ	_	_	10	cc	_	_	_
+7	behar	behar	NOUN	_	_	8	compound	_	_	9:targ
+8	zen	izan	VERB	_	_	4	conj	_	_	9:targ
+9	guztia	guzti	DET	_	_	10	obj	_	_	11:targ
+10	bagenuen	ukan	VERB	_	_	4	conj	_	_	11:exp-Positive
+11	bertan	bertan	ADV	_	_	10	advmod	_	_	0:exp-Positive
+12	.	.	PUNCT	_	_	3	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/airbnb-13845527_1-9
+# text = Jabeak ondoko etxean bizi dira , eta edozertan laguntzeko prest daude , baita gomendio onak emateko ere .
+1	Jabeak	jabe	NOUN	_	_	5	nsubj	_	_	10:targ
+2	ondoko	ondoko	ADJ	_	_	3	amod	_	_	_
+3	etxean	etxe	NOUN	_	_	5	obl	_	_	_
+4	bizi	bizi	ADJ	_	_	5	compound	_	_	_
+5	dira	izan	VERB	_	_	0	root	_	_	_
+6	,	,	PUNCT	_	_	10	punct	_	_	_
+7	eta	eta	CCONJ	_	_	10	cc	_	_	_
+8	edozertan	edozertan	ADV	_	_	9	advmod	_	_	10:exp-Positive
+9	laguntzeko	lagundu	VERB	_	_	11	advcl	_	_	10:exp-Positive
+10	prest	prest	ADV	_	_	5	conj	_	_	0:exp-Positive
+11	daude	egon	VERB	_	_	10	cop	_	_	_
+12	,	,	PUNCT	_	_	16	punct	_	_	_
+13	baita	baita	CCONJ	_	_	10	cc	_	_	_
+14	gomendio	gomendio	NOUN	_	_	16	obj	_	_	_
+15	onak	on	ADJ	_	_	14	amod	_	_	_
+16	emateko	eman	VERB	_	_	11	advcl	_	_	_
+17	ere	ere	CCONJ	_	_	16	advmod	_	_	_
+18	.	.	PUNCT	_	_	5	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/airbnb-13845527_1-10
+# text = Holandara itzuliez gero , zalantzarik gabe bertan hartuko dugu aterpe berriro .
+1	Holandara	Holanda	PROPN	_	_	2	nmod	_	_	_
+2	itzuliez	itzuli	NOUN	_	_	8	obl	_	_	_
+3	gero	gero	ADV	_	_	2	advcl	_	_	_
+4	,	,	PUNCT	_	_	2	punct	_	_	_
+5	zalantzarik	zalantza	NOUN	_	_	8	obl	_	_	11:exp-Positive
+6	gabe	gabe	ADP	_	_	5	case	_	_	11:exp-Positive
+7	bertan	bertan	ADV	_	_	8	advmod	_	_	11:exp-Positive
+8	hartuko	hartu	VERB	_	_	0	root	_	_	11:exp-Positive
+9	dugu	edun	AUX	_	_	8	aux	_	_	11:holder
+10	aterpe	aterpe	NOUN	_	_	8	obj	_	_	11:exp-Positive
+11	berriro	berriro	ADV	_	_	8	advmod	_	_	0:exp-Positive
+12	.	.	PUNCT	_	_	8	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/airbnb-13845527_1-11
+# text = Eskerrik asko !
+1	Eskerrik	Eskerri	PROPN	_	_	2	nsubj	_	_	3:exp-Positive
+2	asko	asko	ADV	_	_	0	root	_	_	3:exp-Positive
+3	!	!	PUNCT	_	_	2	punct	_	_	0:exp-Positive
+
+# sent_id = multibooked/corpora/eu/Chateau_de_libarrenx_1-1
+# text = Gure egonaldia ederra izan da , hotela oso ondo baitago : berria , erosoa , garbia eta beharrezko guztiarekin .
+1	Gure	gu	PRON	_	_	2	nmod	_	_	3:holder
+2	egonaldia	egonaldi	NOUN	_	_	3	nsubj	_	_	3:targ
+3	ederra	eder	ADJ	_	_	0	root	_	_	0:exp-Positive
+4	izan	izan	AUX	_	_	3	cop	_	_	_
+5	da	izan	AUX	_	_	3	aux	_	_	_
+6	,	,	PUNCT	_	_	10	punct	_	_	_
+7	hotela	hotel	NOUN	_	_	10	nsubj	_	_	9:targ|19:targ|12:targ|16:targ|14:targ
+8	oso	oso	ADV	_	_	9	advmod	_	_	9:exp-Positive
+9	ondo	ondo	ADV	_	_	10	advmod	_	_	0:exp-Positive
+10	baitago	egon	VERB	_	_	3	advcl	_	_	_
+11	:	:	PUNCT	_	_	12	punct	_	_	_
+12	berria	berri	ADJ	_	_	10	obl	_	_	0:exp-Positive
+13	,	,	PUNCT	_	_	14	punct	_	_	_
+14	erosoa	eroso	ADJ	_	_	12	conj	_	_	0:exp-Positive
+15	,	,	PUNCT	_	_	16	punct	_	_	_
+16	garbia	garbi	ADJ	_	_	12	conj	_	_	0:exp-Positive
+17	eta	eta	CCONJ	_	_	18	cc	_	_	_
+18	beharrezko	beharrezko	ADJ	_	_	12	conj	_	_	19:exp-Positive
+19	guztiarekin	guzti	DET	_	_	12	obl	_	_	0:exp-Positive
+20	.	.	PUNCT	_	_	3	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/Chateau_de_libarrenx_1-2
+# text = Pertsonala ere ezin jatorragoa .
+1	Pertsonala	pertsonal	ADJ	_	_	4	nsubj	_	_	4:targ
+2	ere	ere	CCONJ	_	_	4	advmod	_	_	_
+3	ezin	ezin	NOUN	_	_	4	compound	_	_	4:exp-Positive
+4	jatorragoa	jator	ADJ	_	_	0	root	_	_	0:exp-Positive
+5	.	.	PUNCT	_	_	4	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/Chateau_de_libarrenx_1-3
+# text = Toki aparta : eremu natural eder batean , oso lasaia , parke batez inguratua .
+1	Toki	toki	NOUN	_	_	0	root	_	_	7:targ|2:targ|10:targ|14:targ
+2	aparta	aparta	ADJ	_	_	1	amod	_	_	0:exp-Positive
+3	:	:	PUNCT	_	_	4	punct	_	_	_
+4	eremu	eremu	NOUN	_	_	10	obl	_	_	7:exp-Positive
+5	natural	natural	ADJ	_	_	4	amod	_	_	7:exp-Positive
+6	eder	eder	ADJ	_	_	4	amod	_	_	7:exp-Positive
+7	batean	bat	NUM	_	_	4	nummod	_	_	0:exp-Positive
+8	,	,	PUNCT	_	_	4	punct	_	_	_
+9	oso	oso	ADV	_	_	10	advmod	_	_	10:exp-Positive
+10	lasaia	lasai	ADJ	_	_	1	conj	_	_	0:exp-Positive
+11	,	,	PUNCT	_	_	14	punct	_	_	_
+12	parke	parke	NOUN	_	_	14	obl	_	_	14:exp-Positive
+13	batez	bat	NUM	_	_	12	nummod	_	_	14:exp-Positive
+14	inguratua	inguratu	VERB	_	_	10	advcl	_	_	0:exp-Positive
+15	.	.	PUNCT	_	_	1	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/Chateau_de_libarrenx_1-4
+# text = Prezioa onargarria .
+1	Prezioa	prezio	NOUN	_	_	2	nsubj	_	_	2:targ
+2	onargarria	onargarri	ADJ	_	_	0	root	_	_	0:exp-Positive
+3	.	.	PUNCT	_	_	2	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/Chateau_de_libarrenx_1-5
+# text = Zalantzarik gabe gomendagarria !
+1	Zalantzarik	zalantza	NOUN	_	_	3	obl	_	_	4:exp-Positive
+2	gabe	gabe	ADP	_	_	1	case	_	_	4:exp-Positive
+3	gomendagarria	gomendagarri	ADJ	_	_	0	root	_	_	4:exp-Positive
+4	!	!	PUNCT	_	_	3	punct	_	_	0:exp-Positive
+
+# sent_id = multibooked/corpora/eu/real-marina-residence_1-1
+# text = Garbigailurik ez zegoela eta egonaldi luze baterako beharrezkoa da .
+1	Garbigailurik	garbigailu	NOUN	_	_	3	nsubj	_	_	3:targ|8:targ
+2	ez	ez	PART	_	_	3	advmod	_	_	3:exp-Negative
+3	zegoela	egon	VERB	_	_	8	advcl	_	_	0:exp-Negative
+4	eta	eta	CCONJ	_	_	8	cc	_	_	_
+5	egonaldi	egonaldi	NOUN	_	_	8	obl	_	_	8:exp-Negative
+6	luze	luze	ADJ	_	_	5	amod	_	_	8:exp-Negative
+7	baterako	bat	NUM	_	_	5	nummod	_	_	8:exp-Negative
+8	beharrezkoa	beharrezko	ADJ	_	_	0	root	_	_	0:exp-Negative
+9	da	izan	AUX	_	_	8	cop	_	_	_
+10	.	.	PUNCT	_	_	8	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/real-marina-residence_1-2
+# text = Ubikazioa oso ona da , Olhao oso herri polita delako , baina kontutan hartu behar da bertan ez dagoela hondartzarik , eta udarako eskaintzen dituen aukerak mugatuak direla .
+1	Ubikazioa	ubikazio	NOUN	_	_	3	nsubj	_	_	3:targ
+2	oso	oso	ADV	_	_	9	advmod	_	_	3:exp-Positive
+3	ona	on	ADJ	_	_	0	root	_	_	0:exp-Positive
+4	da	izan	AUX	_	_	3	cop	_	_	_
+5	,	,	PUNCT	_	_	8	punct	_	_	_
+6	Olhao	Olhao	PROPN	_	_	8	nsubj	_	_	9:targ
+7	oso	oso	ADV	_	_	9	advmod	_	_	9:exp-Positive
+8	herri	herri	NOUN	_	_	3	advcl	_	_	9:exp-Positive
+9	polita	polit	ADJ	_	_	8	amod	_	_	0:exp-Positive
+10	delako	izan	AUX	_	_	8	cop	_	_	_
+11	,	,	PUNCT	_	_	16	punct	_	_	_
+12	baina	baina	CCONJ	_	_	16	cc	_	_	_
+13	kontutan	kontu	NOUN	_	_	14	compound	_	_	_
+14	hartu	hartu	VERB	_	_	16	xcomp	_	_	_
+15	behar	behar	NOUN	_	_	16	compound	_	_	_
+16	da	izan	VERB	_	_	4	conj	_	_	_
+17	bertan	bertan	ADV	_	_	19	advmod	_	_	19:exp-Negative
+18	ez	ez	PART	_	_	19	advmod	_	_	19:exp-Negative
+19	dagoela	egon	VERB	_	_	16	ccomp	_	_	0:exp-Negative
+20	hondartzarik	hondartza	NOUN	_	_	19	nsubj	_	_	19:targ
+21	,	,	PUNCT	_	_	27	punct	_	_	_
+22	eta	eta	CCONJ	_	_	27	cc	_	_	_
+23	udarako	uda	NOUN	_	_	24	obl	_	_	26:targ
+24	eskaintzen	eskaini	VERB	_	_	26	acl	_	_	26:targ
+25	dituen	edun	AUX	_	_	24	aux	_	_	26:targ
+26	aukerak	aukera	NOUN	_	_	27	nsubj	_	_	27:targ
+27	mugatuak	mugatu	VERB	_	_	16	ccomp	_	_	0:exp-Negative
+28	direla	izan	AUX	_	_	27	cop	_	_	_
+29	.	.	PUNCT	_	_	3	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/real-marina-residence_1-3
+# text = Apartamentua oso handia eta berri berria da .
+1	Apartamentua	apartamentu	NOUN	_	_	3	nsubj	_	_	3:targ|6:targ
+2	oso	oso	ADV	_	_	6	advmod	_	_	3:exp-Positive
+3	handia	handi	ADJ	_	_	0	root	_	_	0:exp-Positive
+4	eta	eta	CCONJ	_	_	5	cc	_	_	_
+5	berri	berri	ADJ	_	_	3	conj	_	_	6:exp-Positive
+6	berria	berri	ADJ	_	_	5	amod	_	_	0:exp-Positive
+7	da	izan	AUX	_	_	3	cop	_	_	_
+8	.	.	PUNCT	_	_	3	punct	_	_	_
+
+# sent_id = multibooked/corpora/eu/real-marina-residence_1-4
+# text = Herritik oso hurbil dago oinez joateko eta kokapen ona du Algarbea ezagutzeko .
+1	Herritik	herri	NOUN	_	_	4	obl	_	_	3:exp-Positive
+2	oso	oso	ADV	_	_	3	advmod	_	_	3:exp-Positive
+3	hurbil	hurbil	ADV	_	_	4	advmod	_	_	0:exp-Positive
+4	dago	egon	VERB	_	_	0	root	_	_	_
+5	oinez	oin	NOUN	_	_	6	obl	_	_	6:exp-Positive
+6	joateko	joan	VERB	_	_	4	advcl	_	_	0:exp-Positive
+7	eta	eta	CCONJ	_	_	10	cc	_	_	_
+8	kokapen	kokapen	NOUN	_	_	10	obj	_	_	3:targ|6:targ|9:targ
+9	ona	on	ADJ	_	_	8	amod	_	_	0:exp-Positive
+10	du	ukan	VERB	_	_	4	conj	_	_	_
+11	Algarbea	Algarbea	PROPN	_	_	12	obj	_	_	_
+12	ezagutzeko	ezagutu	VERB	_	_	10	advcl	_	_	_
+13	.	.	PUNCT	_	_	4	punct	_	_	_
+
